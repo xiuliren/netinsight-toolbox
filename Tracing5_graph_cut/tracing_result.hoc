@@ -1,0 +1,9481 @@
+create section_0
+section_0 {
+pt3dclear()
+pt3dadd(226.0219,168.7177,60,14.8491)
+}
+
+create section_1
+section_1 {
+pt3dclear()
+pt3dadd(226,169,60,15)
+pt3dadd(225.7891,169.0331,63.8218,24.7247)
+}
+
+create section_2
+section_2 {
+pt3dclear()
+pt3dadd(226,169,60,15)
+pt3dadd(245.25,175.5,56.25,1.8371)
+}
+
+create section_3
+section_3 {
+pt3dclear()
+pt3dadd(226,169,64,25)
+pt3dadd(213.9832,160.908,65.3784,25.9954)
+pt3dadd(202.2433,151.0134,66.1408,27.665)
+pt3dadd(189.729,139.6247,66.7771,22.6541)
+}
+
+create section_4
+section_4 {
+pt3dclear()
+pt3dadd(226,169,64,25)
+pt3dadd(230.8,136,56.2,2.735)
+pt3dadd(233.8583,134.5833,54.4583,4.8423)
+pt3dadd(244,133,51,4.2426)
+}
+
+create section_5
+section_5 {
+pt3dclear()
+pt3dadd(226,169,64,25)
+pt3dadd(237.6984,177.6117,65.2977,28.5006)
+}
+
+create section_6
+section_6 {
+pt3dclear()
+pt3dadd(238,178,65,29)
+pt3dadd(251.2137,188.8003,65.5099,24.6874)
+}
+
+create section_7
+section_7 {
+pt3dclear()
+pt3dadd(238,178,65,29)
+pt3dadd(236.2388,206.3284,88.9403,7.0661)
+pt3dadd(231,208,91,5.1963)
+}
+
+create section_8
+section_8 {
+pt3dclear()
+pt3dadd(251,189,66,25)
+pt3dadd(262.5331,198.7726,65.7026,23.5891)
+}
+
+create section_9
+section_9 {
+pt3dclear()
+pt3dadd(251,189,66,25)
+pt3dadd(222.5,205.75,69.25,1.3693)
+}
+
+create section_10
+section_10 {
+pt3dclear()
+pt3dadd(251,189,66,25)
+pt3dadd(227.7692,209.6154,71.9231,3.9193)
+pt3dadd(225,207,66,4.9497)
+}
+
+create section_11
+section_11 {
+pt3dclear()
+pt3dadd(263,199,66,24)
+pt3dadd(294.375,189.75,67.9688,4.8623)
+pt3dadd(308,184,69,2.5982)
+}
+
+create section_12
+section_12 {
+pt3dclear()
+pt3dadd(263,199,66,24)
+pt3dadd(273.4282,209.625,65.816,23.6004)
+}
+
+create section_13
+section_13 {
+pt3dclear()
+pt3dadd(263,199,66,24)
+pt3dadd(258.9667,226.2667,48.8667,4.2375)
+pt3dadd(255,231,46,4.9497)
+}
+
+create section_14
+section_14 {
+pt3dclear()
+pt3dadd(273,210,66,24)
+pt3dadd(298.6923,189.1538,67.9231,2.9693)
+pt3dadd(308,177,69,4.2426)
+}
+
+create section_15
+section_15 {
+pt3dclear()
+pt3dadd(273,210,66,24)
+pt3dadd(282.8761,220.9625,65.4955,28.971)
+pt3dadd(295.1238,233.2691,64.7374,22.1614)
+}
+
+create section_16
+section_16 {
+pt3dclear()
+pt3dadd(273,210,66,24)
+pt3dadd(240.6,218.8,65.6,2.4413)
+}
+
+create section_17
+section_17 {
+pt3dclear()
+pt3dadd(190,140,67,23)
+pt3dadd(179.1337,130.9722,67.4342,25.9836)
+}
+
+create section_18
+section_18 {
+pt3dclear()
+pt3dadd(190,140,67,23)
+pt3dadd(204.8571,114.2857,73.7143,4.1625)
+pt3dadd(212,122,72,1.5)
+}
+
+create section_19
+section_19 {
+pt3dclear()
+pt3dadd(179,131,67,26)
+pt3dadd(167.3081,120.8193,68.0028,25.2805)
+}
+
+create section_20
+section_20 {
+pt3dclear()
+pt3dadd(179,131,67,26)
+pt3dadd(213,122,65,1.7321)
+pt3dadd(215.5,122.8,65.9,1.2649)
+}
+
+create section_21
+section_21 {
+pt3dclear()
+pt3dadd(167,121,68,25)
+pt3dadd(156.708,110.0041,68.1998,31.1028)
+}
+
+create section_22
+section_22 {
+pt3dclear()
+pt3dadd(167,121,68,25)
+pt3dadd(166.5,100.25,40,1.6771)
+pt3dadd(169,94,39,1.7321)
+}
+
+create section_23
+section_23 {
+pt3dclear()
+pt3dadd(167,121,68,25)
+pt3dadd(142,127.5,78.375,3.52)
+pt3dadd(139,134,82,4.2426)
+}
+
+create section_24
+section_24 {
+pt3dclear()
+pt3dadd(157,110,68,31)
+pt3dadd(145.8441,95.1062,67.9261,24.1506)
+pt3dadd(138.8326,82.4878,67.806,28.9913)
+}
+
+create section_25
+section_25 {
+pt3dclear()
+pt3dadd(157,110,68,31)
+pt3dadd(126.6,94.2,76.4,1.3266)
+}
+
+create section_26
+section_26 {
+pt3dclear()
+pt3dadd(139,82,68,29)
+pt3dadd(127.0284,69.3009,68.4158,22.2397)
+}
+
+create section_27
+section_27 {
+pt3dclear()
+pt3dadd(139,82,68,29)
+pt3dadd(142.9375,55.1875,93.25,3.5674)
+pt3dadd(149,56,99,4.3302)
+}
+
+create section_28
+section_28 {
+pt3dclear()
+pt3dadd(139,82,68,29)
+pt3dadd(140.6667,78.1111,106,2.7103)
+pt3dadd(143.75,75.7222,105.4444,2.8312)
+pt3dadd(146.4063,73.2813,104.4375,2.7143)
+pt3dadd(149,71.1667,103.6667,1.7951)
+pt3dadd(155,61,101,2.8284)
+pt3dadd(156.8077,58,101.3846,2.6835)
+pt3dadd(158.75,55.1471,101.8971,3.944)
+}
+
+create section_29
+section_29 {
+pt3dclear()
+pt3dadd(127,69,68,22)
+pt3dadd(119.7096,59.3309,68.7858,42.8051)
+}
+
+create section_30
+section_30 {
+pt3dclear()
+pt3dadd(127,69,68,22)
+pt3dadd(154.2727,56.3636,65,4.1808)
+}
+
+create section_31
+section_31 {
+pt3dclear()
+pt3dadd(120,59,69,43)
+pt3dadd(101.7623,43.2009,70.4271,26.1421)
+pt3dadd(89.8615,33.0138,70.5992,24.7918)
+}
+
+create section_32
+section_32 {
+pt3dclear()
+pt3dadd(120,59,69,43)
+pt3dadd(126.5385,85.2308,109.4615,3.795)
+pt3dadd(127,93,110,1.4142)
+}
+
+create section_33
+section_33 {
+pt3dclear()
+pt3dadd(120,59,69,43)
+pt3dadd(115,84.7143,111.4286,2.0304)
+pt3dadd(112.5,84.5,112,2.2361)
+pt3dadd(110.5,84.5417,112.7917,2.0035)
+pt3dadd(108.5,84.4,113.55,1.6279)
+pt3dadd(106.5,83.8077,114.4615,2.3859)
+pt3dadd(104.5,83.6765,114.8529,2.4565)
+pt3dadd(102.5,83.25,115.7778,2.561)
+pt3dadd(100,81.8333,116.9667,2.5131)
+pt3dadd(97,80.7647,118.2059,2.5397)
+pt3dadd(94,79.4737,119.4211,3.1667)
+pt3dadd(91.0294,77.7647,120.4118,3.5674)
+pt3dadd(81,76,125,2.8284)
+pt3dadd(78.0441,74.7059,125.7353,3.9016)
+}
+
+create section_34
+section_34 {
+pt3dclear()
+pt3dadd(90,33,71,25)
+pt3dadd(104.125,4.875,75.375,3.4888)
+}
+
+create section_35
+section_35 {
+pt3dclear()
+pt3dadd(90,33,71,25)
+pt3dadd(77.372,26.5149,71.8482,20.9748)
+}
+
+create section_36
+section_36 {
+pt3dclear()
+pt3dadd(295,233,65,22)
+pt3dadd(303.8678,242.7606,64.8835,30.5533)
+}
+
+create section_37
+section_37 {
+pt3dclear()
+pt3dadd(295,233,65,22)
+pt3dadd(267.6333,247.3667,63.8667,4.8049)
+}
+
+create section_38
+section_38 {
+pt3dclear()
+pt3dadd(295,233,65,22)
+pt3dadd(275.0526,256.8421,62.8947,4.9881)
+}
+
+create section_39
+section_39 {
+pt3dclear()
+pt3dadd(304,243,65,31)
+pt3dadd(316.8412,255.7779,66.7864,24.4175)
+}
+
+create section_40
+section_40 {
+pt3dclear()
+pt3dadd(304,243,65,31)
+pt3dadd(313.6364,269.5909,42.5909,5.0194)
+pt3dadd(314,276,40,4.2426)
+}
+
+create section_41
+section_41 {
+pt3dclear()
+pt3dadd(317,256,67,24)
+pt3dadd(325.2941,267.9914,68.5711,27.5613)
+}
+
+create section_42
+section_42 {
+pt3dclear()
+pt3dadd(317,256,67,24)
+pt3dadd(319.3542,275.1875,41.125,6.7461)
+pt3dadd(317.5,279.75,39.25,1.8708)
+}
+
+create section_43
+section_43 {
+pt3dclear()
+pt3dadd(325,268,69,28)
+pt3dadd(325.8889,253.6111,34.4444,2.6926)
+pt3dadd(328.3365,251.4712,33.3269,3.9999)
+pt3dadd(331.0714,250.5714,32.1429,2.0653)
+pt3dadd(332.4107,248.8393,31.4375,4.3104)
+pt3dadd(331,236,24,2.8284)
+pt3dadd(330.8667,233,24.3333,2.8135)
+pt3dadd(331.1111,230,24.3056,2.8442)
+pt3dadd(331.4211,227,24.3947,2.9497)
+pt3dadd(331.8421,224,24.5263,2.8832)
+}
+
+create section_44
+section_44 {
+pt3dclear()
+pt3dadd(325,268,69,28)
+pt3dadd(334.6945,281.3535,71.3055,28.0074)
+pt3dadd(343.3273,295.064,73.5519,28.3346)
+}
+
+create section_45
+section_45 {
+pt3dclear()
+pt3dadd(325,268,69,28)
+pt3dadd(323.9677,286.6452,37.3065,5.2758)
+pt3dadd(322.1587,288.9127,36.2063,7.7531)
+pt3dadd(322.3,293.2,31.8,1.755)
+}
+
+create section_46
+section_46 {
+pt3dclear()
+pt3dadd(343,295,74,28)
+pt3dadd(351.8349,309.0071,75.6875,30.4392)
+pt3dadd(363.0805,322.9728,77.4195,26.2641)
+}
+
+create section_47
+section_47 {
+pt3dclear()
+pt3dadd(343,295,74,28)
+pt3dadd(330.7143,321.2857,90.4286,2.1853)
+pt3dadd(321,328,93,3.4642)
+pt3dadd(318.0769,329.359,93.9872,4.0321)
+}
+
+create section_48
+section_48 {
+pt3dclear()
+pt3dadd(363,323,77,26)
+pt3dadd(363.0784,327.3529,41.5882,8.4242)
+pt3dadd(360,339,40,2.8284)
+pt3dadd(359.5263,342,40.6053,2.9549)
+pt3dadd(359.1765,345,41.0294,2.6477)
+pt3dadd(358,348,41,2.2361)
+pt3dadd(357.3333,350.5,41.0333,2.5131)
+pt3dadd(356.2188,354,41.0313,2.7286)
+pt3dadd(355.0833,357,41.0278,2.9866)
+pt3dadd(353.8571,360,41.119,2.8192)
+pt3dadd(352.42,362.96,41.28,3.0374)
+pt3dadd(350.5,365.9762,41.5238,3.1479)
+pt3dadd(349.0476,368.8571,42.3571,2.7998)
+pt3dadd(347.1087,371.8043,42.4565,3.0129)
+pt3dadd(345.1053,374.8947,42.8947,2.9067)
+pt3dadd(343.0435,377.913,43.5652,2.9211)
+pt3dadd(341.125,380.9688,44.3438,2.4575)
+pt3dadd(339.9167,383.5,44.5417,2.0497)
+pt3dadd(338.6667,386.5,45.5333,2.5131)
+pt3dadd(337.75,390,46.5909,2.7653)
+pt3dadd(337.5,393,47.5,4)
+pt3dadd(337.4167,396.125,48,5.1727)
+}
+
+create section_49
+section_49 {
+pt3dclear()
+pt3dadd(363,323,77,26)
+pt3dadd(371.6231,335.9292,78.0556,29.3963)
+pt3dadd(381.3675,350.4793,78.9528,29.8591)
+}
+
+create section_50
+section_50 {
+pt3dclear()
+pt3dadd(381,350,79,30)
+pt3dadd(412.875,361,86.5,2.2396)
+pt3dadd(417,355,89,1.7321)
+}
+
+create section_51
+section_51 {
+pt3dclear()
+pt3dadd(381,350,79,30)
+pt3dadd(387.6132,366.3571,79.7493,27.5378)
+}
+
+create section_52
+section_52 {
+pt3dclear()
+pt3dadd(388,366,80,28)
+pt3dadd(397.611,380.3746,79.281,20.1923)
+pt3dadd(404.7009,390.3634,78.6309,24.687)
+}
+
+create section_53
+section_53 {
+pt3dclear()
+pt3dadd(388,366,80,28)
+pt3dadd(370.7042,393.4789,90.0423,8.5181)
+pt3dadd(366.85,396.7833,91.8056,8.445)
+pt3dadd(363.5417,400.4917,93.4417,8.078)
+pt3dadd(361.1139,403.0198,95.0941,9.6616)
+pt3dadd(357.3121,406.422,97.8333,10.7838)
+pt3dadd(352.8722,410.725,100.7361,11.3511)
+pt3dadd(348.4185,415.0951,103.4755,13.6238)
+}
+
+create section_54
+section_54 {
+pt3dclear()
+pt3dadd(77,27,72,21)
+pt3dadd(91.5333,5.2,75.4667,3.0998)
+pt3dadd(89.2083,3.5417,73.5,4.0225)
+pt3dadd(86.4286,5,74,3.2103)
+pt3dadd(79,11,78,6.5)
+}
+
+create section_55
+section_55 {
+pt3dclear()
+pt3dadd(77,27,72,21)
+pt3dadd(93.1667,5,70.5,2.4381)
+}
+
+create section_56
+section_56 {
+pt3dclear()
+pt3dadd(77,27,72,21)
+pt3dadd(65.6943,23.7034,72.508,18.3832)
+pt3dadd(55.2414,21.3405,73.0776,15.3335)
+pt3dadd(47.9058,16.1099,73.5157,17.6633)
+pt3dadd(26.5826,14.713,73.7652,8.2593)
+pt3dadd(23.3333,10.25,73.75,1.6159)
+pt3dadd(21.0526,7.5,73.3684,3.2649)
+pt3dadd(19.631,5,73.2619,4.5366)
+pt3dadd(18.125,5.5833,74.375,4.9145)
+pt3dadd(21,12,69,4.2426)
+}
+
+create section_57
+section_57 {
+pt3dclear()
+pt3dadd(405,390,79,25)
+pt3dadd(415.1808,401.9831,79.5268,17.9824)
+}
+
+create section_58
+section_58 {
+pt3dclear()
+pt3dadd(405,390,79,25)
+pt3dadd(394.2368,413.3947,63.1579,5.2138)
+pt3dadd(393.2143,416.5476,62.6905,4.2934)
+pt3dadd(392.9048,419.9286,62.0476,4.2894)
+pt3dadd(391.4615,422.1795,61.1923,6.2655)
+pt3dadd(388,430,58,4.3302)
+pt3dadd(388,433.5,58,1)
+}
+
+create section_59
+section_59 {
+pt3dclear()
+pt3dadd(415,402,80,18)
+pt3dadd(421.4169,410.9987,80.1831,26.3933)
+}
+
+create section_60
+section_60 {
+pt3dclear()
+pt3dadd(415,402,80,18)
+pt3dadd(395.5,416,84.5,1.8708)
+}
+
+create section_61
+section_61 {
+pt3dclear()
+pt3dadd(421,411,80,26)
+pt3dadd(449,412,89,2)
+}
+
+create section_62
+section_62 {
+pt3dclear()
+pt3dadd(421,411,80,26)
+pt3dadd(429.0855,425.2818,79.84,23.3238)
+}
+
+create section_63
+section_63 {
+pt3dclear()
+pt3dadd(429,425,80,23)
+pt3dadd(447.3333,447.3333,72.9524,3.8465)
+pt3dadd(447.5,447.875,76.375,1.2748)
+pt3dadd(443,449,71,1.7321)
+}
+
+create section_64
+section_64 {
+pt3dclear()
+pt3dadd(429,425,80,23)
+pt3dadd(448.0833,447.5833,86.0833,2.681)
+pt3dadd(448.1,448.3,83,1.2649)
+pt3dadd(445,448,87,2.5982)
+}
+
+create section_65
+section_65 {
+pt3dclear()
+pt3dadd(348,415,103,14)
+pt3dadd(342.9677,413.3226,119.7419,5.6834)
+pt3dadd(339.1429,413.8571,119.9643,6.7526)
+pt3dadd(334.6193,414.578,120.7798,7.0607)
+pt3dadd(331.0185,414.7111,121.7704,11.5553)
+pt3dadd(326.8149,415.1271,127.1298,9.8286)
+pt3dadd(324.1233,415.7055,131.8836,11.3359)
+pt3dadd(319.6438,416.9281,135.8356,13.8892)
+}
+
+create section_66
+section_66 {
+pt3dclear()
+pt3dadd(348,415,103,14)
+pt3dadd(334.1034,415.5862,110.9655,4.7862)
+pt3dadd(337,411,113,8.4852)
+}
+
+create section_67
+section_67 {
+pt3dclear()
+pt3dadd(348,415,103,14)
+pt3dadd(328.9167,420.4167,100.8333,2.1699)
+pt3dadd(322,423,100,2.8284)
+pt3dadd(319,424.4737,99.9737,3.1963)
+pt3dadd(316,425.2083,99.7917,2.6484)
+pt3dadd(313,426.25,99.625,2.5125)
+pt3dadd(310,427,99.5,2.2361)
+pt3dadd(307.5,427.7727,99.1818,1.6713)
+pt3dadd(305.5,428.6538,98.4615,2.0059)
+pt3dadd(303.5,429.3421,97.6842,3.0129)
+pt3dadd(301,429.45,97.25,3.9319)
+}
+
+create section_68
+section_68 {
+pt3dclear()
+pt3dadd(348,415,103,14)
+pt3dadd(346.9375,435.3125,104.0625,6.1425)
+pt3dadd(343,441,103,4.3302)
+pt3dadd(343,444.5,103,1)
+}
+
+create section_69
+section_69 {
+pt3dclear()
+pt3dadd(320,417,136,14)
+pt3dadd(316.6364,399.3636,144.8182,3.6341)
+pt3dadd(314,394,147,2.5982)
+}
+
+create section_70
+section_70 {
+pt3dclear()
+pt3dadd(320,417,136,14)
+pt3dadd(314.3333,421.6296,139.588,12.573)
+}
+
+create section_71
+section_71 {
+pt3dclear()
+pt3dadd(314,422,140,13)
+pt3dadd(299.0833,415.25,144.8333,2.9604)
+pt3dadd(296,414.6818,145.8409,2.7231)
+pt3dadd(293,414.7885,146.7115,3.7071)
+pt3dadd(289.75,414.9167,147.5,3.3582)
+pt3dadd(287,414.5682,148.0682,3.2531)
+pt3dadd(284,414.2727,148.0455,3.6601)
+pt3dadd(280.5909,413.3636,148.1364,2.0449)
+pt3dadd(278.5625,411.8958,148.0833,3.3171)
+pt3dadd(276,411.1364,148.0682,3.4644)
+pt3dadd(273,410.5833,148.0833,4.17)
+pt3dadd(269.5357,411.2143,148.0357,2.601)
+pt3dadd(267.04,412.34,147.78,3.9525)
+pt3dadd(261,416,146,2.8284)
+}
+
+create section_72
+section_72 {
+pt3dclear()
+pt3dadd(314,422,140,13)
+pt3dadd(311.4605,430.0921,143.2105,8.5197)
+pt3dadd(307,436,145,4.2426)
+pt3dadd(307,439.5,145,1)
+}
+
+create section_73
+section_73 {
+pt3dclear()
+pt3dadd(104,5,75,3)
+pt3dadd(101,4,72.75,1.118)
+}
+
+create section_74
+section_74 {
+pt3dclear()
+pt3dadd(104,5,75,3)
+pt3dadd(101,4,74.75,1.118)
+}
+
+create section_75
+section_75 {
+pt3dclear()
+pt3dadd(104,5,75,3)
+pt3dadd(107,3.875,76.125,1.2748)
+pt3dadd(100,11,70,1.7321)
+}
+
+create section_76
+section_76 {
+pt3dclear()
+pt3dadd(332,224,25,3)
+pt3dadd(333.0909,221,25.0227,3.3219)
+}
+
+create section_77
+section_77 {
+pt3dclear()
+pt3dadd(332,224,25,3)
+pt3dadd(329.1667,222.0333,27.8667,2.2181)
+pt3dadd(326.5,221.3214,29.6071,2.6515)
+pt3dadd(324,221.55,30.8,2.184)
+pt3dadd(321.5,222.5,31.25,2.0616)
+pt3dadd(327,215,29,1.4142)
+}
+
+create section_78
+section_78 {
+pt3dclear()
+pt3dadd(333,221,25,3)
+pt3dadd(334.1111,218.0278,25.1944,3.9417)
+pt3dadd(335.1111,214.8889,25.3889,3.0429)
+pt3dadd(336.6667,212.0833,25.5,3.3375)
+pt3dadd(338.0526,209,26.1053,3.204)
+pt3dadd(339.7619,206.0952,26.4762,3.2409)
+pt3dadd(342.1176,203.2647,27.0588,3.2804)
+pt3dadd(344.625,200.425,28.075,2.666)
+pt3dadd(347.775,197.825,29.35,3.3934)
+pt3dadd(350.7619,196.0952,30.3333,3.4077)
+pt3dadd(354,195.2895,31.6579,2.5982)
+}
+
+create section_79
+section_79 {
+pt3dclear()
+pt3dadd(333,221,25,3)
+pt3dadd(330.375,218.125,27,1.2748)
+pt3dadd(337,215,26,2.5982)
+}
+
+create section_80
+section_80 {
+pt3dclear()
+pt3dadd(354,195,32,3)
+pt3dadd(357,195.0556,33.1111,1.6518)
+pt3dadd(352,193,31,2.1213)
+}
+
+create section_81
+section_81 {
+pt3dclear()
+pt3dadd(354,195,32,3)
+pt3dadd(356.9375,195.9375,34.8125,1.9804)
+pt3dadd(358.7895,197.0526,37.5,2.4664)
+pt3dadd(360.9074,198.0556,40.1667,2.8948)
+pt3dadd(360.5625,200.5625,43,2.8777)
+pt3dadd(360.875,202.125,46,2.3717)
+pt3dadd(361.75,202.3542,48.5,2.5984)
+pt3dadd(361.6167,201.6833,52,3.0858)
+pt3dadd(361.175,200.625,55,5.8125)
+pt3dadd(360,199,62,3.5355)
+pt3dadd(360,198.5,65.5,1.4142)
+}
+
+create section_82
+section_82 {
+pt3dclear()
+pt3dadd(318,280,39,2)
+pt3dadd(316.25,282.5,37.75,0.70711)
+pt3dadd(322,282,37,5.6568)
+}
+
+create section_83
+section_83 {
+pt3dclear()
+pt3dadd(318,280,39,2)
+pt3dadd(315.8,282.4,39.2,1.4697)
+pt3dadd(319,289,39,4.2426)
+}
+
+create section_84
+section_84 {
+pt3dclear()
+pt3dadd(322,293,32,2)
+pt3dadd(323.1463,295.1585,31.3984,6.4417)
+pt3dadd(327.1029,295.1176,31.1471,4.38)
+pt3dadd(328.75,296.6667,30.0278,6.2028)
+}
+
+create section_85
+section_85 {
+pt3dclear()
+pt3dadd(322,293,32,2)
+pt3dadd(319.5,294.625,31.875,1.2748)
+pt3dadd(326,293,33,6.0624)
+}
+
+create section_86
+section_86 {
+pt3dclear()
+pt3dadd(329,297,30,6)
+pt3dadd(328.3413,300.0317,28.1905,7.8039)
+pt3dadd(328.31,303.91,24.775,7.8676)
+}
+
+create section_87
+section_87 {
+pt3dclear()
+pt3dadd(329,297,30,6)
+pt3dadd(328.6875,299.5,33.5625,2.0387)
+pt3dadd(327.1154,302.2308,35.9615,2.7532)
+pt3dadd(326.58,305,36.88,3.2501)
+pt3dadd(326.4167,308,37.6458,3.1801)
+pt3dadd(325.4375,311,38.6406,4.0813)
+pt3dadd(323.8077,314.0769,39.3077,3.002)
+pt3dadd(323.4833,317,39.6167,4.1056)
+pt3dadd(322.1,320.2,40.35,2.9479)
+pt3dadd(321.5,323,40.7917,3.0288)
+pt3dadd(321.0526,326,41.6053,3.204)
+pt3dadd(319.9474,329,42.4737,3.2788)
+pt3dadd(319.0789,332,42.6579,3.9026)
+pt3dadd(317.875,335.125,43.1875,3.0847)
+pt3dadd(316.5441,337.8971,43.6471,3.9282)
+pt3dadd(315.7727,341.0455,44.4545,2.9148)
+pt3dadd(314.1714,343.6714,44.5429,4.224)
+pt3dadd(312.8636,347.1364,45.1364,3.0963)
+pt3dadd(311.527,349.8378,45.2432,4.0927)
+pt3dadd(311,353.2,45.1,3.0659)
+pt3dadd(309.2927,355.6707,45.2683,4.4875)
+pt3dadd(308.3333,359.3333,44.8333,2.8284)
+pt3dadd(306.5909,361.9773,44.4773,3.3222)
+pt3dadd(305.2292,364.9167,43.5208,3.2129)
+pt3dadd(303.98,368,43.14,3.0529)
+pt3dadd(302.7188,370.9844,42.0938,3.5763)
+pt3dadd(300,380,40,3.5355)
+}
+
+create section_88
+section_88 {
+pt3dclear()
+pt3dadd(328,304,25,8)
+pt3dadd(327.9038,305.1346,19.5962,4.5734)
+pt3dadd(327.9286,305.6714,16.4714,5.4115)
+pt3dadd(327.9306,305.9583,12.7639,5.0138)
+pt3dadd(327.9717,306.0755,9.5189,4.257)
+}
+
+create section_89
+section_89 {
+pt3dclear()
+pt3dadd(328,304,25,8)
+pt3dadd(331.5676,308.1622,24.3784,7.2592)
+}
+
+create section_90
+section_90 {
+pt3dclear()
+pt3dadd(332,308,24,7)
+pt3dadd(332.2963,307.2963,18.7778,3.802)
+pt3dadd(327,316,24,2.5982)
+}
+
+create section_91
+section_91 {
+pt3dclear()
+pt3dadd(332,308,24,7)
+pt3dadd(333.5938,313,23.5625,3.8309)
+pt3dadd(333.8793,315.8621,23.4138,5.7198)
+pt3dadd(336.0333,319.25,22.8,7.3992)
+pt3dadd(337.68,323.72,22.38,6.0548)
+pt3dadd(339.6111,327.6852,21.463,5.1754)
+pt3dadd(339.9286,330.7347,20.6429,7.7496)
+pt3dadd(343.0385,335.3462,20.0256,7.188)
+pt3dadd(345.5323,339.3548,19.3871,5.6919)
+pt3dadd(346.68,342.32,18.69,8.5278)
+pt3dadd(348.1458,348.3958,17.8333,5.3141)
+pt3dadd(349.75,350.4659,17.7614,7.7975)
+pt3dadd(348.9808,355.3846,16.8846,5.2726)
+pt3dadd(348.6026,357.9872,16.7308,7.051)
+pt3dadd(348.4318,362.9545,16.2273,5.4152)
+pt3dadd(347.0909,366.0758,15.6667,6.828)
+pt3dadd(347.0714,370.9286,15.0179,5.9976)
+pt3dadd(348.25,374.7167,14.5167,6.5247)
+pt3dadd(348.2667,379.9,13.85,5.6875)
+pt3dadd(349.0758,383.697,13.3939,6.299)
+pt3dadd(347.8667,387.6167,12.25,6.3699)
+pt3dadd(343,401,16,2.8284)
+pt3dadd(344.07,403.82,14.49,5.245)
+pt3dadd(343.5625,407.5625,13.5625,4.8782)
+}
+
+create section_92
+section_92 {
+pt3dclear()
+pt3dadd(328,306,10,4)
+pt3dadd(327.5333,305.2333,6.8667,3.1454)
+pt3dadd(325.427,305.4326,5.4944,7.5517)
+pt3dadd(319,311,14,4.3302)
+}
+
+create section_93
+section_93 {
+pt3dclear()
+pt3dadd(328,306,10,4)
+pt3dadd(331.375,306,9.7188,3.1231)
+}
+
+create section_94
+section_94 {
+pt3dclear()
+pt3dadd(209.543,153.2657,65,14.8491)
+}
+
+create section_95
+section_95 {
+pt3dclear()
+pt3dadd(220.6954,166.5219,70,14.8491)
+}
+
+create section_96
+section_96 {
+pt3dclear()
+pt3dadd(382.1053,360.6685,80,14.8491)
+}
+
+create section_97
+section_97 {
+pt3dclear()
+pt3dadd(76.4669,22.8391,80,14.142)
+}
+
+create section_98
+section_98 {
+pt3dclear()
+pt3dadd(370.5367,342.6482,75,14.142)
+}
+
+create section_99
+section_99 {
+pt3dclear()
+pt3dadd(388.754,372.2581,85,14.142)
+}
+
+create section_100
+section_100 {
+pt3dclear()
+pt3dadd(155.8803,98.6771,75,12.7278)
+}
+
+create section_101
+section_101 {
+pt3dclear()
+pt3dadd(296.2075,243.2938,55,11)
+}
+
+create section_102
+section_102 {
+pt3dclear()
+pt3dadd(345.6208,414.74,100,10.6065)
+}
+
+create section_103
+section_103 {
+pt3dclear()
+pt3dadd(319.3251,416.2259,135,10.3926)
+}
+
+create section_104
+section_104 {
+pt3dclear()
+pt3dadd(344.1887,415.4141,110,10)
+}
+
+create section_105
+section_105 {
+pt3dclear()
+pt3dadd(328.9122,415.1995,125,9.8994)
+pt3dadd(323,421,120,3.5355)
+}
+
+create section_106
+section_106 {
+pt3dclear()
+pt3dadd(348.7957,422.3412,105,9.5265)
+pt3dadd(354,425,104,6.3639)
+}
+
+create section_107
+section_107 {
+pt3dclear()
+pt3dadd(338.7596,413.5705,115,9.5265)
+}
+
+create section_108
+section_108 {
+pt3dclear()
+pt3dadd(333.0507,415.8357,120,9.5265)
+}
+
+create section_109
+section_109 {
+pt3dclear()
+pt3dadd(322.9869,415.8852,130,8.6605)
+}
+
+create section_110
+section_110 {
+pt3dclear()
+pt3dadd(315.6938,418.8953,140,8.6605)
+}
+
+create section_111
+section_111 {
+pt3dclear()
+pt3dadd(361.1724,400.7217,95,8.4852)
+pt3dadd(368,402,96,5.1963)
+}
+
+create section_112
+section_112 {
+pt3dclear()
+pt3dadd(266.8969,213.3318,55,7.5)
+}
+
+create section_113
+section_113 {
+pt3dclear()
+pt3dadd(124.3006,160.104,115,7.5)
+pt3dadd(123.7347,159.3776,109.551,4.1582)
+pt3dadd(122.974,157.6753,108.474,7.4441)
+pt3dadd(123.8933,157.0733,103.5,5.4943)
+pt3dadd(123.9848,156.4091,100.3788,4.3137)
+pt3dadd(124.6525,153.7797,99.4661,7.4461)
+pt3dadd(132,150,93,4.3302)
+}
+
+create section_114
+section_114 {
+pt3dclear()
+pt3dadd(122.8158,158.8224,110,7.071)
+pt3dadd(122.75,159.5938,115.0521,6.2018)
+}
+
+create section_115
+section_115 {
+pt3dclear()
+pt3dadd(123,160,115,6)
+pt3dadd(122.25,158,118.625,1.1456)
+pt3dadd(122,163,113,6.9284)
+}
+
+create section_116
+section_116 {
+pt3dclear()
+pt3dadd(123,160,115,6)
+pt3dadd(122.9333,162.0667,118.6667,2.4386)
+}
+
+create section_117
+section_117 {
+pt3dclear()
+pt3dadd(123,162,119,2)
+pt3dadd(120.8,159.8,120.5,1.5232)
+pt3dadd(122,150,126,2.8284)
+pt3dadd(122.4423,147,127.5962,3.2184)
+pt3dadd(122.4032,144,129.2419,3.8413)
+}
+
+create section_118
+section_118 {
+pt3dclear()
+pt3dadd(123,162,119,2)
+pt3dadd(122.8846,164.1308,120.2769,5.795)
+pt3dadd(128,169,122,2.1213)
+}
+
+create section_119
+section_119 {
+pt3dclear()
+pt3dadd(331.3475,308.7639,25,7.071)
+pt3dadd(329,316,24,3.4642)
+}
+
+create section_120
+section_120 {
+pt3dclear()
+pt3dadd(329.7905,306.0286,10,6.9284)
+pt3dadd(334,307,12,4.3302)
+}
+
+create section_121
+section_121 {
+pt3dclear()
+pt3dadd(238.0778,202.1611,85,6.9284)
+}
+
+create section_122
+section_122 {
+pt3dclear()
+pt3dadd(234.387,205.4379,90,6.9284)
+pt3dadd(229,209,91,5)
+}
+
+create section_123
+section_123 {
+pt3dclear()
+pt3dadd(123.1739,156.8357,100,6.9284)
+pt3dadd(115,166,103,2.8284)
+}
+
+create section_124
+section_124 {
+pt3dclear()
+pt3dadd(115,166,103,3)
+pt3dadd(112.5357,168.1429,102.2143,4.3077)
+pt3dadd(107,173,101,1.4142)
+}
+
+create section_125
+section_125 {
+pt3dclear()
+pt3dadd(115,166,103,3)
+pt3dadd(112,167.75,103.5,2.5)
+pt3dadd(103,175,103,1)
+}
+
+create section_126
+section_126 {
+pt3dclear()
+pt3dadd(220.7075,223.3469,100,6.9284)
+pt3dadd(223.3889,221.1944,96.7222,5.2976)
+pt3dadd(219,220.6875,96.75,2.0349)
+}
+
+create section_127
+section_127 {
+pt3dclear()
+pt3dadd(219,221,97,2)
+pt3dadd(218.6875,218.5625,94.9375,1.781)
+pt3dadd(226,219,94,5.1963)
+}
+
+create section_128
+section_128 {
+pt3dclear()
+pt3dadd(219,221,97,2)
+pt3dadd(216.6333,222.375,97.3583,4.6848)
+pt3dadd(218,229,108,5.1963)
+}
+
+create section_129
+section_129 {
+pt3dclear()
+pt3dadd(329.1176,305.7451,20,6.3639)
+pt3dadd(324,307,22,5.1963)
+}
+
+create section_130
+section_130 {
+pt3dclear()
+pt3dadd(251.7143,238.8182,40,6.3639)
+pt3dadd(249,245,37,5.6568)
+}
+
+create section_131
+section_131 {
+pt3dclear()
+pt3dadd(309.2326,263.206,45,6.3639)
+}
+
+create section_132
+section_132 {
+pt3dclear()
+pt3dadd(122.5376,157.6344,105,6.3639)
+}
+
+create section_133
+section_133 {
+pt3dclear()
+pt3dadd(121.385,162.335,120,6.3639)
+pt3dadd(121,169,120,3.5355)
+}
+
+create section_134
+section_134 {
+pt3dclear()
+pt3dadd(326,295.635,30,6.0624)
+pt3dadd(331,292,33,4.3302)
+}
+
+create section_135
+section_135 {
+pt3dclear()
+pt3dadd(347.9507,387.9366,10,6.0623)
+pt3dadd(354,387,16,3.5)
+}
+
+create section_136
+section_136 {
+pt3dclear()
+pt3dadd(330.2566,306.0885,15,6)
+}
+
+create section_137
+section_137 {
+pt3dclear()
+pt3dadd(241.5135,197.4459,80,6)
+}
+
+create section_138
+section_138 {
+pt3dclear()
+pt3dadd(223.0596,232.8809,110,6)
+pt3dadd(226,237,113,4.5)
+}
+
+create section_139
+section_139 {
+pt3dclear()
+pt3dadd(106.7705,314.5082,5,5.6568)
+pt3dadd(113,324,20,2.5982)
+}
+
+create section_140
+section_140 {
+pt3dclear()
+pt3dadd(135.3544,362.3797,25,5.6568)
+pt3dadd(129,355,21,3.5355)
+}
+
+create section_141
+section_141 {
+pt3dclear()
+pt3dadd(301.3839,253.2411,50,5.6568)
+}
+
+create section_142
+section_142 {
+pt3dclear()
+pt3dadd(97.5046,333.6728,70,5.6568)
+pt3dadd(99.7147,333.1735,68.4971,10.5607)
+}
+
+create section_143
+section_143 {
+pt3dclear()
+pt3dadd(100,333,68,11)
+pt3dadd(101.8485,327.1894,66.25,14.04)
+}
+
+create section_144
+section_144 {
+pt3dclear()
+pt3dadd(100,333,68,11)
+pt3dadd(113.9167,326.5833,70.5833,3.2436)
+pt3dadd(125,332,72,2.5982)
+pt3dadd(128,330.2143,71.6429,2.4453)
+pt3dadd(130.5,330.9444,71.5556,3.2356)
+pt3dadd(132.5,334,71.8846,2.3484)
+}
+
+create section_145
+section_145 {
+pt3dclear()
+pt3dadd(100,333,68,11)
+pt3dadd(83.625,334,69.625,2.0691)
+pt3dadd(81.5294,335.1471,69.8824,3.3822)
+pt3dadd(79,336.2105,70.0263,3.5793)
+pt3dadd(73,339,71,2.1213)
+}
+
+create section_146
+section_146 {
+pt3dclear()
+pt3dadd(100,333,68,11)
+pt3dadd(105.5484,338.3226,56.5806,5.1681)
+pt3dadd(109.875,337.375,56.375,1.299)
+pt3dadd(114,345,48,3.5355)
+}
+
+create section_147
+section_147 {
+pt3dclear()
+pt3dadd(100,333,68,11)
+pt3dadd(107.9643,347.3571,67.2857,5.4047)
+}
+
+create section_148
+section_148 {
+pt3dclear()
+pt3dadd(102,327,66,14)
+pt3dadd(97.3611,318.1667,67.1806,6.5478)
+pt3dadd(94.9359,313.5128,67.7821,6.2575)
+pt3dadd(93.1786,310.619,68.3929,6.1869)
+pt3dadd(91.122,307.7683,68.622,6.8941)
+pt3dadd(88.4242,303.6818,69.5606,6.0518)
+pt3dadd(85.7424,300.7121,70.3939,5.7213)
+pt3dadd(83.7727,297.7121,70.3636,5.7081)
+pt3dadd(82.5172,294.3103,70.5862,5.3274)
+pt3dadd(80.9375,291.0625,71.2083,4.6767)
+pt3dadd(79.8438,287.9063,71.5,6.3646)
+pt3dadd(77.431,284.8793,72.2759,5.8577)
+pt3dadd(75.0167,281.6833,72.2833,7.5492)
+pt3dadd(72.2826,277.0652,72.4348,5.9018)
+pt3dadd(69.6667,273.9333,72.1333,6.7577)
+pt3dadd(60,269,74,3.5355)
+pt3dadd(56.8333,267.7083,73.7917,2.031)
+pt3dadd(54.8611,265.8889,73.5278,2.5422)
+}
+
+create section_149
+section_149 {
+pt3dclear()
+pt3dadd(102,327,66,14)
+pt3dadd(88.1667,316.5,71,3.1002)
+pt3dadd(94,313,71,1.4142)
+}
+
+create section_150
+section_150 {
+pt3dclear()
+pt3dadd(102,327,66,14)
+pt3dadd(118.4615,327.3077,71.5385,3.3942)
+pt3dadd(120.7632,329,72.2105,3.2495)
+pt3dadd(123.6944,331.2778,72.0556,2.8529)
+pt3dadd(127,332.0652,71.8478,4.1886)
+pt3dadd(129.2,334.8,72.1,1.3266)
+pt3dadd(132,328,71,1.5)
+}
+
+create section_151
+section_151 {
+pt3dclear()
+pt3dadd(108,347,67,5)
+pt3dadd(104.4,348.3,67.3,1.6613)
+pt3dadd(110,344,69,2.5982)
+}
+
+create section_152
+section_152 {
+pt3dclear()
+pt3dadd(108,347,67,5)
+pt3dadd(107.7333,350.5667,67.1,4.6914)
+pt3dadd(108.3438,354.5,67.2188,5.7913)
+pt3dadd(113,368,67,2.5982)
+pt3dadd(113.439,370.9268,67.2561,5.2178)
+pt3dadd(113.5417,374.5833,67.0833,5.1539)
+pt3dadd(113.1875,378.75,66.875,2.6839)
+pt3dadd(113.0968,382,66.7419,5.216)
+pt3dadd(112.5,385.7222,66.8333,4.3047)
+pt3dadd(112.1111,389.2222,66.7778,2.8674)
+pt3dadd(112.0333,391.9833,66.6,5.9871)
+pt3dadd(111.7857,396.2857,66.6429,4.4744)
+pt3dadd(111.8125,399.3125,66.75,3.7123)
+pt3dadd(111.8571,402.0714,66.6429,4.8592)
+pt3dadd(113,405.2955,66.9091,6.0693)
+pt3dadd(113,409.125,66.55,4.4354)
+pt3dadd(111.8333,411.3452,66.5,6.5442)
+}
+
+create section_153
+section_153 {
+pt3dclear()
+pt3dadd(133,334,72,2)
+pt3dadd(133.25,336.5,70.5,1.5)
+pt3dadd(142,339,72,1.4142)
+}
+
+create section_154
+section_154 {
+pt3dclear()
+pt3dadd(133,334,72,2)
+pt3dadd(133.7619,336.4286,71.8571,3.5983)
+pt3dadd(143,346,72,2.1213)
+pt3dadd(145.4063,347.0938,71.9688,3.3278)
+pt3dadd(148,348.2632,72.3158,2.827)
+pt3dadd(151,349.1667,72.4167,2.6087)
+pt3dadd(153.9565,350.587,72.3478,3.4326)
+pt3dadd(156.8542,352.4583,72.5625,4.2553)
+}
+
+create section_155
+section_155 {
+pt3dclear()
+pt3dadd(55,266,74,3)
+pt3dadd(54.9524,263.1429,73.4127,6.3691)
+pt3dadd(54.8125,259,73.0313,6.4533)
+pt3dadd(52.95,255.8333,73.3167,8.2778)
+pt3dadd(49.4643,252.4167,74.0238,8.026)
+pt3dadd(44.7979,248.734,74.4787,9.2542)
+pt3dadd(39.18,245.72,74.46,3.477)
+pt3dadd(36.55,243.85,74.575,4.6392)
+pt3dadd(34.697,241.4242,75.1667,5.4566)
+}
+
+create section_156
+section_156 {
+pt3dclear()
+pt3dadd(55,266,74,3)
+pt3dadd(53.75,263,75.5,2.5)
+pt3dadd(59,262,73,3.5355)
+}
+
+create section_157
+section_157 {
+pt3dclear()
+pt3dadd(35,241,75,5)
+pt3dadd(32.5,238.5938,75.1094,5.9808)
+pt3dadd(30.0769,236.3718,75.1026,6.9874)
+pt3dadd(25.6522,233.0435,74.9565,2.7778)
+pt3dadd(24.3412,230.6235,75.2882,6.4653)
+pt3dadd(22.3947,227.6316,75.4474,7.5162)
+pt3dadd(19.1324,223.1765,75.3529,6.2392)
+pt3dadd(16.9828,219.5345,75.1552,5.4519)
+pt3dadd(16.6,217.0714,75.1571,6.9787)
+pt3dadd(13.2188,213.8229,75.1146,8.8785)
+pt3dadd(9.549,209.402,75.4412,9.2896)
+pt3dadd(11,203,77,4.2426)
+}
+
+create section_158
+section_158 {
+pt3dclear()
+pt3dadd(35,241,75,5)
+pt3dadd(38.65,239.65,74.95,2.0469)
+pt3dadd(41.5,239.2,74.8,1.5232)
+pt3dadd(38,246,74,3.5)
+}
+
+create section_159
+section_159 {
+pt3dclear()
+pt3dadd(220.2437,229.9188,105,5.6568)
+}
+
+create section_160
+section_160 {
+pt3dclear()
+pt3dadd(212.1826,123.8,125,5.6568)
+pt3dadd(208,119,128,3.4642)
+}
+
+create section_161
+section_161 {
+pt3dclear()
+pt3dadd(376.6875,259.0125,105,5.5)
+pt3dadd(377,257.25,108.875,2.1937)
+}
+
+create section_162
+section_162 {
+pt3dclear()
+pt3dadd(377,257,109,2)
+pt3dadd(379.0652,256.5435,106.5,5.9145)
+pt3dadd(384,258,103,2.8284)
+}
+
+create section_163
+section_163 {
+pt3dclear()
+pt3dadd(377,257,109,2)
+pt3dadd(376.95,254.5,110.475,3.9003)
+pt3dadd(376,251,120,2.5982)
+pt3dadd(374.9262,249.2213,122.9262,4.3937)
+pt3dadd(374.9044,247.4044,125.1691,5.8946)
+}
+
+create section_164
+section_164 {
+pt3dclear()
+pt3dadd(377,257,109,2)
+pt3dadd(374.92,257.4267,109.96,6.7567)
+pt3dadd(380,265,101,4.9497)
+}
+
+create section_165
+section_165 {
+pt3dclear()
+pt3dadd(273.5417,258.0972,140,5.5)
+pt3dadd(276,252,131,5.5)
+}
+
+create section_166
+section_166 {
+pt3dclear()
+pt3dadd(254.0119,129.506,45,5.1963)
+pt3dadd(261,131,43,2.8284)
+pt3dadd(264,130.625,42.675,3.2688)
+pt3dadd(267,131.1957,42.2826,2.7887)
+pt3dadd(270,131.3529,41.4412,2.8461)
+pt3dadd(273,131.325,40.675,3.3682)
+pt3dadd(276,131.5,40.25,2.5)
+pt3dadd(279,132.2414,39.3276,3.5438)
+}
+
+create section_167
+section_167 {
+pt3dclear()
+pt3dadd(260,225.0734,50,5.1963)
+}
+
+create section_168
+section_168 {
+pt3dclear()
+pt3dadd(393.8615,408.4,65,5.1963)
+pt3dadd(392,402,55,2.8284)
+pt3dadd(389,400.75,52.5,1.5)
+pt3dadd(386.5,400.3889,51.7778,1.8626)
+pt3dadd(384.5,399.5455,51.0455,2.1145)
+pt3dadd(382.5,399.5455,50.5455,2.1145)
+pt3dadd(380.5,399.5,50.4231,3.0039)
+pt3dadd(378,399.65,49.7,2.7659)
+pt3dadd(375,399.9091,49.9091,2.1894)
+pt3dadd(372.5,399.9286,49.9643,3.0042)
+pt3dadd(370,400.1667,49.9667,2.5131)
+pt3dadd(367,400.6923,50,2.5858)
+pt3dadd(364,401.4375,50,3.0439)
+pt3dadd(361,401.9444,50.0556,3.1131)
+pt3dadd(358,402.6389,50.0278,3.4435)
+pt3dadd(355,403.25,49.9722,3.5004)
+}
+
+create section_169
+section_169 {
+pt3dclear()
+pt3dadd(275.5856,247.8649,130,5.1963)
+pt3dadd(270,250,128,4.9497)
+pt3dadd(266,250,127.5,2)
+pt3dadd(263.5763,249.339,126.6017,4.3975)
+}
+
+create section_170
+section_170 {
+pt3dclear()
+pt3dadd(323.8007,289.6441,35,5.1963)
+pt3dadd(331,291,35,4)
+}
+
+create section_171
+section_171 {
+pt3dclear()
+pt3dadd(255.5417,231.9667,45,5)
+}
+
+create section_172
+section_172 {
+pt3dclear()
+pt3dadd(12.0583,3.3786,145,5)
+pt3dadd(12.5833,6.5833,141.75,2.3746)
+}
+
+create section_173
+section_173 {
+pt3dclear()
+pt3dadd(13,7,142,2)
+pt3dadd(11.25,4.5,139.5,1.5)
+}
+
+create section_174
+section_174 {
+pt3dclear()
+pt3dadd(13,7,142,2)
+pt3dadd(10.5,4.875,141.375,1.2748)
+pt3dadd(15,30,142,1)
+}
+
+create section_175
+section_175 {
+pt3dclear()
+pt3dadd(13,7,142,2)
+pt3dadd(10.9524,7.2143,144.5,3.6842)
+}
+
+create section_176
+section_176 {
+pt3dclear()
+pt3dadd(13,7,142,2)
+pt3dadd(15.4,6.05,144.4,2.119)
+pt3dadd(17.4167,4.3333,145.25,2.3921)
+pt3dadd(7,12,144,3.5355)
+}
+
+create section_177
+section_177 {
+pt3dclear()
+pt3dadd(11,7,145,4)
+pt3dadd(8.8333,4.4167,144.4167,2.1985)
+}
+
+create section_178
+section_178 {
+pt3dclear()
+pt3dadd(11,7,145,4)
+pt3dadd(13.1875,7,146.8125,2.0691)
+pt3dadd(9,12,147,1.7321)
+}
+
+create section_179
+section_179 {
+pt3dclear()
+pt3dadd(9,4,144,2)
+pt3dadd(8.9833,4.5333,146.5,5.894)
+pt3dadd(13,8.1333,147.7333,3.8672)
+pt3dadd(16.2083,6.7083,147.9583,2.0052)
+}
+
+create section_180
+section_180 {
+pt3dclear()
+pt3dadd(9,4,144,2)
+pt3dadd(6.5,3.1875,143.1875,1.741)
+pt3dadd(11,22,142,1)
+}
+
+create section_181
+section_181 {
+pt3dclear()
+pt3dadd(394.3247,33.039,145,5)
+pt3dadd(392,39,138,3.5355)
+}
+
+create section_182
+section_182 {
+pt3dclear()
+pt3dadd(11.1123,424.6319,5,4.9497)
+pt3dadd(12.8906,427.6563,6.9219,4.7809)
+pt3dadd(18,433,13,4.2426)
+}
+
+create section_183
+section_183 {
+pt3dclear()
+pt3dadd(324.991,305.457,5,4.9497)
+pt3dadd(316,311,14,4.2426)
+}
+
+create section_184
+section_184 {
+pt3dclear()
+pt3dadd(343.2463,337.8863,20,4.9497)
+pt3dadd(354,343,19,3.5355)
+}
+
+create section_185
+section_185 {
+pt3dclear()
+pt3dadd(236.0294,275.8431,25,4.9497)
+pt3dadd(238,266,30,4.2426)
+pt3dadd(238.85,262.75,30.25,2.7911)
+pt3dadd(241.0532,260.3191,30.9574,3.7046)
+pt3dadd(243.4107,258.2857,31.8929,3.9157)
+pt3dadd(246.1563,256.875,32.3125,2.5838)
+}
+
+create section_186
+section_186 {
+pt3dclear()
+pt3dadd(249.8237,244.6331,35,4.9497)
+pt3dadd(250,252,35,3.5)
+}
+
+create section_187
+section_187 {
+pt3dclear()
+pt3dadd(318.5025,274.2445,40,4.9497)
+}
+
+create section_188
+section_188 {
+pt3dclear()
+pt3dadd(398.5062,435.3086,45,4.9497)
+pt3dadd(404,434,41,4.3302)
+}
+
+create section_189
+section_189 {
+pt3dclear()
+pt3dadd(243.2061,131.0992,50,4.9497)
+}
+
+create section_190
+section_190 {
+pt3dclear()
+pt3dadd(128.5537,150.9008,95,4.9497)
+pt3dadd(131,146,90,4.3302)
+}
+
+create section_191
+section_191 {
+pt3dclear()
+pt3dadd(378.043,266.5484,100,4.9497)
+pt3dadd(377.2692,270.25,98.7308,4.3834)
+pt3dadd(376.6458,272.8542,97.7917,4.6379)
+pt3dadd(375.8966,276.069,96.9138,5.3777)
+pt3dadd(378,283,95,3.4642)
+}
+
+create section_192
+section_192 {
+pt3dclear()
+pt3dadd(242.9765,247.4564,120,4.9497)
+pt3dadd(249,248,121,4.3302)
+pt3dadd(252.5,247.9286,121.0357,2.144)
+pt3dadd(255.2836,248.4552,122.6791,4.5869)
+}
+
+create section_193
+section_193 {
+pt3dclear()
+pt3dadd(261.8028,248.2254,125,4.9497)
+pt3dadd(259,254,126,1.4142)
+}
+
+create section_194
+section_194 {
+pt3dclear()
+pt3dadd(373.8947,247.1404,125,4.9497)
+pt3dadd(379,246,128,3.5355)
+}
+
+create section_195
+section_195 {
+pt3dclear()
+pt3dadd(282.0847,159.8644,140,4.9497)
+pt3dadd(277,159,136,3.5355)
+}
+
+create section_196
+section_196 {
+pt3dclear()
+pt3dadd(276.5377,256.717,145,4.9497)
+pt3dadd(283,253,147,1.7321)
+}
+
+create section_197
+section_197 {
+pt3dclear()
+pt3dadd(373.8974,257.8718,110,4.5)
+}
+
+create section_198
+section_198 {
+pt3dclear()
+pt3dadd(431.4792,315.0625,115,4.5)
+pt3dadd(430,319,110,4)
+}
+
+create section_199
+section_199 {
+pt3dclear()
+pt3dadd(344.8113,390.8679,5,4.3302)
+pt3dadd(340,393,12,3.5)
+}
+
+create section_200
+section_200 {
+pt3dclear()
+pt3dadd(131.5143,359.7143,30,4.3302)
+pt3dadd(125,358,37,3.5355)
+}
+
+create section_201
+section_201 {
+pt3dclear()
+pt3dadd(118.2877,350.4932,45,4.3302)
+pt3dadd(111,352,47,1.4142)
+}
+
+create section_202
+section_202 {
+pt3dclear()
+pt3dadd(395.3478,434.2754,50,4.3302)
+pt3dadd(386,437,57,2.8284)
+pt3dadd(383,438.25,56.75,3.5355)
+}
+
+create section_203
+section_203 {
+pt3dclear()
+pt3dadd(100.2716,328.4662,65,4.3302)
+}
+
+create section_204
+section_204 {
+pt3dclear()
+pt3dadd(134.268,138.8866,85,4.3302)
+pt3dadd(127,138,83,2.8284)
+}
+
+create section_205
+section_205 {
+pt3dclear()
+pt3dadd(132.3917,144.55,90,4.3302)
+pt3dadd(127,142,91,3.5)
+}
+
+create section_206
+section_206 {
+pt3dclear()
+pt3dadd(146.2969,54.8125,95,4.3302)
+pt3dadd(148,55,100,4.3302)
+}
+
+create section_207
+section_207 {
+pt3dclear()
+pt3dadd(395.5357,100.2321,110,4.3302)
+pt3dadd(399,95,117,4.3302)
+}
+
+create section_208
+section_208 {
+pt3dclear()
+pt3dadd(187.5636,42.4727,115,4.3302)
+pt3dadd(180,46,112,3.4642)
+pt3dadd(177,46.0417,110.5417,3.1114)
+pt3dadd(174,46.9048,109.1667,3.8674)
+}
+
+create section_209
+section_209 {
+pt3dclear()
+pt3dadd(231.4882,238.5354,115,4.3302)
+pt3dadd(230,245,118,2.8284)
+}
+
+create section_210
+section_210 {
+pt3dclear()
+pt3dadd(398.5085,97.1017,115,4.3302)
+pt3dadd(400,90,120,3.4642)
+pt3dadd(398.8226,87,121.3065,3.6963)
+}
+
+create section_211
+section_211 {
+pt3dclear()
+pt3dadd(393.2414,35.3103,140,4.3302)
+pt3dadd(391,42,136,2.8284)
+pt3dadd(391.32,45,134.48,3.6402)
+}
+
+create section_212
+section_212 {
+pt3dclear()
+pt3dadd(281.913,158.913,145,4.3302)
+pt3dadd(280,153,147,2)
+}
+
+create section_213
+section_213 {
+pt3dclear()
+pt3dadd(311.7481,433.3915,145,4.3302)
+pt3dadd(308,439,146,3.4642)
+}
+
+create section_214
+section_214 {
+pt3dclear()
+pt3dadd(279.375,400.7857,30,4.2426)
+pt3dadd(287,397,37,3.4642)
+pt3dadd(290,394.6786,37.2143,2.0763)
+pt3dadd(291.8684,392.6316,37.3158,2.2385)
+pt3dadd(293.197,390.5758,37.4848,3.533)
+}
+
+create section_215
+section_215 {
+pt3dclear()
+pt3dadd(285.2121,397.0202,35,4.2426)
+pt3dadd(292,389,37,3.4642)
+pt3dadd(295,388.3125,37.5625,1.7766)
+}
+
+create section_216
+section_216 {
+pt3dclear()
+pt3dadd(83.7189,295.8166,70,4.2426)
+pt3dadd(91,299,69,3.4642)
+}
+
+create section_217
+section_217 {
+pt3dclear()
+pt3dadd(27.0563,228.4918,75,4.2426)
+pt3dadd(19,228,74,3.5355)
+}
+
+create section_218
+section_218 {
+pt3dclear()
+pt3dadd(141.2655,130.0395,80,4.2426)
+}
+
+create section_219
+section_219 {
+pt3dclear()
+pt3dadd(403.2017,117.0252,80,4.2426)
+pt3dadd(409,127,77,3.5355)
+}
+
+create section_220
+section_220 {
+pt3dclear()
+pt3dadd(278.9467,76.9467,85,4.2426)
+pt3dadd(275,79,82,4)
+}
+
+create section_221
+section_221 {
+pt3dclear()
+pt3dadd(315.0744,329.9917,95,4.2426)
+pt3dadd(310,335,97,3.5355)
+}
+
+create section_222
+section_222 {
+pt3dclear()
+pt3dadd(374.65,280.5778,95,4.2426)
+}
+
+create section_223
+section_223 {
+pt3dclear()
+pt3dadd(153.1118,56.5342,100,4.2426)
+pt3dadd(161,53,102,2.8284)
+pt3dadd(164,51.2,103.775,2.804)
+pt3dadd(166.75,49.3182,105.5,3.6332)
+}
+
+create section_224
+section_224 {
+pt3dclear()
+pt3dadd(387.3548,177.9194,110,4.2426)
+pt3dadd(383,188,106,2.5982)
+pt3dadd(384.1176,190.9706,105.7059,3.9024)
+}
+
+create section_225
+section_225 {
+pt3dclear()
+pt3dadd(310.9706,344.2059,115,4.2426)
+pt3dadd(307,348,117,3.5355)
+}
+
+create section_226
+section_226 {
+pt3dclear()
+pt3dadd(208.8537,124.2683,120,4.2426)
+pt3dadd(211,118,110,3.5355)
+}
+
+create section_227
+section_227 {
+pt3dclear()
+pt3dadd(201.339,224.9492,125,4.2426)
+pt3dadd(197,218,128,2.8284)
+pt3dadd(195.7,215,129.3,3.0529)
+pt3dadd(195.1429,212,130.6667,2.7347)
+pt3dadd(194.8095,209,132.5714,2.8575)
+pt3dadd(194.7593,206,134.1667,3.5447)
+}
+
+create section_228
+section_228 {
+pt3dclear()
+pt3dadd(103.4867,190.9469,130,4.2426)
+pt3dadd(107,186,129,2.8284)
+}
+
+create section_229
+section_229 {
+pt3dclear()
+pt3dadd(377.419,245.0381,130,4.2426)
+pt3dadd(391,246,132,2.1213)
+pt3dadd(393.5,245.8889,132.2222,1.8626)
+pt3dadd(396.5,245.75,132,1.5)
+pt3dadd(399.5,245.6667,132.4444,1.6025)
+pt3dadd(402.5,245.25,132.75,2.5495)
+pt3dadd(406,244.05,133.3,2.184)
+pt3dadd(408.5,243.1538,133.4615,2.4855)
+pt3dadd(411.4643,241.75,133.4643,2.7209)
+pt3dadd(414,240.6667,133.5833,2.6087)
+pt3dadd(417,239.75,134.3333,1.5366)
+pt3dadd(419.5,238.8571,134.7143,1.767)
+pt3dadd(422.4,237.1,135.25,1.8788)
+pt3dadd(424.4091,235.2273,135.2273,1.7557)
+pt3dadd(426.375,233.2188,135.375,2.5868)
+pt3dadd(428.8571,230.8929,135.7143,2.5122)
+pt3dadd(431.7,228.575,136.45,2.9142)
+pt3dadd(434.3611,226.25,136.8611,2.8604)
+pt3dadd(436.0227,223.0682,137.9318,2.4202)
+pt3dadd(437.4,220.58,138.76,2.8524)
+pt3dadd(438.75,218.0833,139.6667,2.8382)
+pt3dadd(440.2353,215,140.6176,2.5862)
+pt3dadd(440.8421,212,141.8158,2.7575)
+pt3dadd(441.6765,209,142.9706,2.6477)
+pt3dadd(442.2727,206,144.2727,2.6032)
+pt3dadd(442.3542,203,145.5417,3.2927)
+pt3dadd(442.4688,200,146.875,2.4117)
+pt3dadd(442.25,197.5,148,1.5)
+}
+
+create section_230
+section_230 {
+pt3dclear()
+pt3dadd(307.4933,68.0933,135,4.2426)
+pt3dadd(314,73,132,3.5355)
+}
+
+create section_231
+section_231 {
+pt3dclear()
+pt3dadd(8.2321,155,140,4.2426)
+pt3dadd(12,143,147,3.5355)
+}
+
+create section_232
+section_232 {
+pt3dclear()
+pt3dadd(386.48,86.5067,45,4)
+pt3dadd(391,80,41,2.8284)
+pt3dadd(391.6905,77,39.6667,2.6402)
+pt3dadd(392.3846,74,38.7308,2.8211)
+pt3dadd(392.5,71,37.5,3.1623)
+pt3dadd(393.15,68,36.325,2.7226)
+pt3dadd(393.2381,65,34.7857,2.9327)
+pt3dadd(392.45,62,33.675,3.1674)
+pt3dadd(391.5833,59,32.4167,3.837)
+}
+
+create section_233
+section_233 {
+pt3dclear()
+pt3dadd(430.2162,321.7838,105,4)
+pt3dadd(428,332,97,3.5355)
+}
+
+create section_234
+section_234 {
+pt3dclear()
+pt3dadd(313.0196,129.6863,115,4)
+pt3dadd(320,127,120,4.9497)
+}
+
+create section_235
+section_235 {
+pt3dclear()
+pt3dadd(373.3542,251.5417,120,4)
+}
+
+create section_236
+section_236 {
+pt3dclear()
+pt3dadd(121.3333,134.4286,135,4)
+pt3dadd(111,131,141,4.2426)
+}
+
+create section_237
+section_237 {
+pt3dclear()
+pt3dadd(88.9474,216.8421,145,4)
+pt3dadd(90,208,138,4.2426)
+pt3dadd(89.875,204.5,138,1.0308)
+}
+
+create section_238
+section_238 {
+pt3dclear()
+pt3dadd(22.5795,441.8233,0,3.5355)
+}
+
+create section_239
+section_239 {
+pt3dclear()
+pt3dadd(23,442,0,4)
+pt3dadd(24.9231,442.7179,7.3718,9.1075)
+pt3dadd(15,441,9,2.1213)
+}
+
+create section_240
+section_240 {
+pt3dclear()
+pt3dadd(23,442,0,4)
+pt3dadd(19.7222,441.8889,7.5556,1.7105)
+pt3dadd(12,441,10,1)
+}
+
+create section_241
+section_241 {
+pt3dclear()
+pt3dadd(350.7521,444.6667,0,3.5355)
+pt3dadd(350.4216,442.7843,8.2941,5.9646)
+pt3dadd(348,433,13,3.4642)
+pt3dadd(347.881,430,10.2381,4.7857)
+}
+
+create section_242
+section_242 {
+pt3dclear()
+pt3dadd(104.4211,404.0789,5,3.5355)
+pt3dadd(109,413,23,2.8284)
+}
+
+create section_243
+section_243 {
+pt3dclear()
+pt3dadd(246.7556,269.4222,5,3.5355)
+pt3dadd(243,275,20,2.5982)
+}
+
+create section_244
+section_244 {
+pt3dclear()
+pt3dadd(241.9091,274.8485,15,3.5355)
+}
+
+create section_245
+section_245 {
+pt3dclear()
+pt3dadd(129.7766,355.1596,20,3.5355)
+pt3dadd(129,345,16,2.8284)
+pt3dadd(127.3793,342.0517,15.4138,3.4484)
+pt3dadd(124.9375,339.2813,14.5313,3.3483)
+pt3dadd(123.0172,336.2586,13.7586,3.3557)
+pt3dadd(120.875,333.4643,12.6429,4.4085)
+}
+
+create section_246
+section_246 {
+pt3dclear()
+pt3dadd(446.2571,284.6571,20,3.5355)
+pt3dadd(444,283,31,3.5355)
+pt3dadd(443.25,281.5,33.7917,2.5672)
+pt3dadd(441.622,279.8293,36.9268,3.5685)
+}
+
+create section_247
+section_247 {
+pt3dclear()
+pt3dadd(115.5429,213.2,25,3.5355)
+pt3dadd(108,213,30,2.1213)
+pt3dadd(105.5,212.619,30.9167,4.7598)
+}
+
+create section_248
+section_248 {
+pt3dclear()
+pt3dadd(240.7838,264.0919,30,3.5355)
+pt3dadd(247,261,32,3.4642)
+}
+
+create section_249
+section_249 {
+pt3dclear()
+pt3dadd(445.1471,283.0882,30,3.5355)
+pt3dadd(441,278,40,2.5982)
+}
+
+create section_250
+section_250 {
+pt3dclear()
+pt3dadd(121.6316,355.1754,40,3.5355)
+}
+
+create section_251
+section_251 {
+pt3dclear()
+pt3dadd(299.3636,379.6212,40,3.5355)
+pt3dadd(298,387,37,2.1213)
+}
+
+create section_252
+section_252 {
+pt3dclear()
+pt3dadd(323.3767,318.8356,40,3.5355)
+pt3dadd(328,314,39,2.8284)
+}
+
+create section_253
+section_253 {
+pt3dclear()
+pt3dadd(311.1228,351.2596,45,3.5355)
+pt3dadd(317,346,45,2.1213)
+}
+
+create section_254
+section_254 {
+pt3dclear()
+pt3dadd(12.5543,200.4565,50,3.5355)
+pt3dadd(20,199,52,4.2426)
+}
+
+create section_255
+section_255 {
+pt3dclear()
+pt3dadd(115.2708,344.9583,50,3.5355)
+}
+
+create section_256
+section_256 {
+pt3dclear()
+pt3dadd(222.7164,39.7537,55,3.5355)
+pt3dadd(218,43,52,4.2426)
+}
+
+create section_257
+section_257 {
+pt3dclear()
+pt3dadd(234.2375,133.9375,55,3.5355)
+}
+
+create section_258
+section_258 {
+pt3dclear()
+pt3dadd(232.7619,26.8492,60,3.5355)
+pt3dadd(234,23.8125,60.3125,3.1275)
+pt3dadd(234.9808,21,60.9231,3.9645)
+pt3dadd(240,16,63,2.5982)
+}
+
+create section_259
+section_259 {
+pt3dclear()
+pt3dadd(390.8738,419.4452,60,3.5355)
+}
+
+create section_260
+section_260 {
+pt3dclear()
+pt3dadd(404.2162,24.8919,60,3.5355)
+pt3dadd(398,28,62,3.5355)
+pt3dadd(394.5,28,62,2.2361)
+pt3dadd(392.5,28.425,62.525,3.1504)
+pt3dadd(390,29.0833,63.3333,2.8529)
+pt3dadd(387,30.0294,63.4706,3.0881)
+pt3dadd(384,30.9063,63.5313,2.4319)
+pt3dadd(381.5,31.5789,64.2368,2.6431)
+pt3dadd(379,32.2059,64.2647,2.4692)
+pt3dadd(376.5,32.4167,64.4583,2.1295)
+pt3dadd(374.5,32.5,64.5,2.2361)
+pt3dadd(372.5,33.1538,65.0385,2.0059)
+pt3dadd(370.5,33.1364,65.1364,1.8741)
+pt3dadd(368.5,33.25,65.125,2.5125)
+pt3dadd(366,33.6667,65.125,2.3467)
+pt3dadd(363.5,34.3571,65.2143,2.7738)
+pt3dadd(361,34.8846,65.2692,2.8211)
+pt3dadd(358,36,65.4063,3.0059)
+pt3dadd(355,37.3611,65.4444,3.2797)
+pt3dadd(352.0278,38.5833,65.5,3.1672)
+pt3dadd(349.0625,40.6875,66.1563,3.3917)
+pt3dadd(346.2407,43.1296,65.9444,3.2965)
+pt3dadd(343.3659,45.1098,65.8902,3.7283)
+}
+
+create section_261
+section_261 {
+pt3dclear()
+pt3dadd(71.5912,275.0438,75,3.5355)
+pt3dadd(69,281,74,2.8284)
+}
+
+create section_262
+section_262 {
+pt3dclear()
+pt3dadd(301.2174,444.7971,75,3.5355)
+pt3dadd(297,445,78,5)
+}
+
+create section_263
+section_263 {
+pt3dclear()
+pt3dadd(275.9792,79.1771,80,3.5355)
+pt3dadd(266,84,78,2.1213)
+pt3dadd(263.5,84.8636,77.7727,2.3373)
+pt3dadd(261.5,86,77.75,3.0414)
+pt3dadd(259,86.75,77.75,2.5495)
+pt3dadd(256,87.8889,77.7222,1.8626)
+pt3dadd(253.5,88.5,77.75,2.0616)
+pt3dadd(251.5,89,77.8125,2.0349)
+pt3dadd(249.5,89.25,78.125,2.5125)
+pt3dadd(247,89,78.5,2)
+pt3dadd(244.5,88.7727,79.3636,2.0021)
+pt3dadd(242.5,88.25,79.75,2.5495)
+pt3dadd(240,87.5,80.35,3.015)
+pt3dadd(237,86.4643,80.8929,2.9364)
+pt3dadd(234,84.75,81.7143,3.5261)
+}
+
+create section_264
+section_264 {
+pt3dclear()
+pt3dadd(297.2963,442.6667,80,3.5355)
+pt3dadd(294,442,85,2.5982)
+}
+
+create section_265
+section_265 {
+pt3dclear()
+pt3dadd(183.3399,265.1485,90,3.5355)
+pt3dadd(182.1875,268.25,90.0625,2.6751)
+}
+
+create section_266
+section_266 {
+pt3dclear()
+pt3dadd(182,268,90,3)
+pt3dadd(184.6429,265.2857,90.2857,2.1429)
+pt3dadd(190,259,91,2.1213)
+}
+
+create section_267
+section_267 {
+pt3dclear()
+pt3dadd(182,268,90,3)
+pt3dadd(180.7111,270.6556,90.4,5.5621)
+pt3dadd(184,264,91,3.4642)
+pt3dadd(185.3333,261,91.0238,3.3337)
+pt3dadd(186.375,258.0357,91.1964,3.4341)
+pt3dadd(187.1818,255.0606,91.2879,4.1333)
+pt3dadd(187.375,251.9375,91.5625,4.7533)
+pt3dadd(187.5345,248.8103,92.2414,6.4114)
+}
+
+create section_268
+section_268 {
+pt3dclear()
+pt3dadd(443.9778,268.7778,90,3.5355)
+pt3dadd(443,271,82,3.4642)
+pt3dadd(442.975,271.375,79,2.4423)
+pt3dadd(443.5,271.5714,76.5,2.3647)
+pt3dadd(444.25,272,74.5,1.118)
+}
+
+create section_269
+section_269 {
+pt3dclear()
+pt3dadd(5.449,346.602,95,3.5355)
+pt3dadd(15,338,100,3.4642)
+}
+
+create section_270
+section_270 {
+pt3dclear()
+pt3dadd(295.3704,432.537,95,3.5355)
+pt3dadd(289,426,98,2.1213)
+}
+
+create section_271
+section_271 {
+pt3dclear()
+pt3dadd(392.5,104.6364,95,3.5355)
+pt3dadd(398,104,89,4)
+}
+
+create section_272
+section_272 {
+pt3dclear()
+pt3dadd(4.4245,337.1132,100,3.5355)
+pt3dadd(13,330,103,3.4642)
+pt3dadd(15,329,106,2)
+pt3dadd(16.8,327.3,108.5,2.126)
+pt3dadd(19.5,325.625,110.875,1.2748)
+}
+
+create section_273
+section_273 {
+pt3dclear()
+pt3dadd(300.0405,339.5,100,3.5355)
+pt3dadd(293,344,101,2.8284)
+pt3dadd(290,345.4167,101.6667,2.2669)
+pt3dadd(287.5,346.4375,102.4375,1.4252)
+}
+
+create section_274
+section_274 {
+pt3dclear()
+pt3dadd(388.3654,105.3269,100,3.5355)
+}
+
+create section_275
+section_275 {
+pt3dclear()
+pt3dadd(429.2857,326.1429,100,3.5355)
+pt3dadd(428,339,93,2.5982)
+pt3dadd(425.9259,341.7778,91.963,3.3115)
+pt3dadd(424.5294,345,90.9118,2.9465)
+}
+
+create section_276
+section_276 {
+pt3dclear()
+pt3dadd(164.7794,49.2353,105,3.5355)
+pt3dadd(171,43,108,1.4142)
+}
+
+create section_277
+section_277 {
+pt3dclear()
+pt3dadd(282.3692,277.2154,105,3.5355)
+pt3dadd(282,264,100,2.5982)
+pt3dadd(282.7308,261,100.1154,2.5489)
+pt3dadd(283.5909,258,99.8182,2.8415)
+pt3dadd(284.5,255,99.75,2.0616)
+pt3dadd(285.05,252.5,99.8,2.184)
+pt3dadd(285.3077,250.5,99.6154,2.6835)
+pt3dadd(286.6111,248,99.2778,1.8626)
+pt3dadd(287.5,245.5,98.75,2.0616)
+pt3dadd(288,243.5,98.75,2.0616)
+pt3dadd(288,241.5,98.8125,2.0349)
+pt3dadd(287.8,239.5,98.9,1.6125)
+}
+
+create section_278
+section_278 {
+pt3dclear()
+pt3dadd(305.2955,339.6818,105,3.5355)
+}
+
+create section_279
+section_279 {
+pt3dclear()
+pt3dadd(391.7941,104.2353,105,3.5355)
+pt3dadd(382,112,106,1.4142)
+}
+
+create section_280
+section_280 {
+pt3dclear()
+pt3dadd(444.0643,29.0571,105,3.5355)
+pt3dadd(439,23,106,3.5355)
+}
+
+create section_281
+section_281 {
+pt3dclear()
+pt3dadd(176.8824,45.8676,110,3.5355)
+}
+
+create section_282
+section_282 {
+pt3dclear()
+pt3dadd(308.2381,340.1667,110,3.5355)
+}
+
+create section_283
+section_283 {
+pt3dclear()
+pt3dadd(308.5333,135.25,110,3.5355)
+pt3dadd(312,144,105,2.8284)
+pt3dadd(313.6471,147,104.5294,2.9057)
+pt3dadd(316,149.75,104.125,3.2882)
+pt3dadd(317.5667,152.9667,103.3,3.1595)
+pt3dadd(319.4783,155.9348,102.5,3.2062)
+pt3dadd(320.8947,158.7632,102.2632,3.8482)
+}
+
+create section_284
+section_284 {
+pt3dclear()
+pt3dadd(305.3285,351.438,120,3.5355)
+pt3dadd(299,355,121,2.1213)
+}
+
+create section_285
+section_285 {
+pt3dclear()
+pt3dadd(426.4082,313.5306,120,3.5355)
+pt3dadd(416,314,126,2.5982)
+pt3dadd(413.1333,311.5,126.9,2.1705)
+pt3dadd(411.0625,309.6563,127.5313,2.1777)
+pt3dadd(410.05,307.525,128.075,3.2148)
+pt3dadd(409.087,305,128.413,3.9143)
+pt3dadd(407.9,301.9,128.5,3.0463)
+pt3dadd(407.1429,299,129.7143,3.6422)
+pt3dadd(406.1875,295.75,130.4375,2.58)
+pt3dadd(405.9444,293,131.2222,3.2299)
+pt3dadd(406.2037,290,132.2222,3.4524)
+pt3dadd(406.375,287,133.2321,3.2939)
+pt3dadd(406.85,284,134.2167,3.653)
+}
+
+create section_286
+section_286 {
+pt3dclear()
+pt3dadd(233.7879,294.5455,125,3.5355)
+pt3dadd(240,296,115,3)
+}
+
+create section_287
+section_287 {
+pt3dclear()
+pt3dadd(151.3235,297.9118,130,3.5355)
+pt3dadd(156,304,140,3.4642)
+}
+
+create section_288
+section_288 {
+pt3dclear()
+pt3dadd(315.8875,75.65,130,3.5355)
+pt3dadd(320,80,128,3.4642)
+}
+
+create section_289
+section_289 {
+pt3dclear()
+pt3dadd(10.0508,445.9153,135,3.5355)
+pt3dadd(18,448,144,2.1213)
+}
+
+create section_290
+section_290 {
+pt3dclear()
+pt3dadd(93.5669,202.6535,135,3.5355)
+pt3dadd(88,203,136,3.4642)
+}
+
+create section_291
+section_291 {
+pt3dclear()
+pt3dadd(112.9104,130.4478,140,3.5355)
+pt3dadd(105,130,145,2.5982)
+pt3dadd(102,129.5,145.75,2.0616)
+pt3dadd(99.5,129.75,146.375,2.5125)
+pt3dadd(97,130.125,146.375,2.2638)
+pt3dadd(94.5,130.5,146.5,3)
+}
+
+create section_292
+section_292 {
+pt3dclear()
+pt3dadd(95,131,147,3)
+pt3dadd(93.25,134,145.5,1.5)
+pt3dadd(96,128,147,1.4142)
+}
+
+create section_293
+section_293 {
+pt3dclear()
+pt3dadd(95,131,147,3)
+pt3dadd(92,132,148,2)
+pt3dadd(89.6667,133.3333,148.5,2.8674)
+}
+
+create section_294
+section_294 {
+pt3dclear()
+pt3dadd(90,133,149,3)
+pt3dadd(90.25,136,146.5,1.5)
+pt3dadd(88.1,138.4,147,1.8111)
+pt3dadd(89.1,140.35,147,3.2757)
+}
+
+create section_295
+section_295 {
+pt3dclear()
+pt3dadd(90,133,149,3)
+pt3dadd(87.375,135.875,148,1.2748)
+pt3dadd(74,144,147,1.4142)
+}
+
+create section_296
+section_296 {
+pt3dclear()
+pt3dadd(89,140,147,3)
+pt3dadd(90.9231,142.4231,147,4.4082)
+pt3dadd(83,144,146,1)
+}
+
+create section_297
+section_297 {
+pt3dclear()
+pt3dadd(89,140,147,3)
+pt3dadd(87.25,143,148,1.5)
+pt3dadd(80,143,146,2.1213)
+}
+
+create section_298
+section_298 {
+pt3dclear()
+pt3dadd(372.6579,231.3947,145,3.5355)
+}
+
+create section_299
+section_299 {
+pt3dclear()
+pt3dadd(275.5667,402.8,25,3.5)
+pt3dadd(273,412,19,3.5355)
+}
+
+create section_300
+section_300 {
+pt3dclear()
+pt3dadd(185.9167,371.4167,50,3.5)
+pt3dadd(181,376,48,2.1213)
+}
+
+create section_301
+section_301 {
+pt3dclear()
+pt3dadd(365.3913,188.6522,80,3.5)
+pt3dadd(361,196,71,3.5355)
+}
+
+create section_302
+section_302 {
+pt3dclear()
+pt3dadd(395.5,103.9091,90,3.5)
+pt3dadd(401,94,87,2.8284)
+pt3dadd(401.1579,91,86.5,2.8644)
+pt3dadd(402.3,88,85.9667,3.4007)
+pt3dadd(404.35,85.15,85.35,2.161)
+}
+
+create section_303
+section_303 {
+pt3dclear()
+pt3dadd(404,85,85,2)
+pt3dadd(403.75,82.5,83.5,2.5)
+pt3dadd(411,77,83,1.4142)
+}
+
+create section_304
+section_304 {
+pt3dclear()
+pt3dadd(404,85,85,2)
+pt3dadd(405.8571,82.5714,84.7143,1.8127)
+pt3dadd(409,77,84,1)
+}
+
+create section_305
+section_305 {
+pt3dclear()
+pt3dadd(114.3077,430.5,95,3.5)
+pt3dadd(116,438,99,2.5982)
+pt3dadd(117.2895,441,99.8684,3.5886)
+}
+
+create section_306
+section_306 {
+pt3dclear()
+pt3dadd(427.931,333.3448,95,3.5)
+pt3dadd(423,339,93,2.1213)
+}
+
+create section_307
+section_307 {
+pt3dclear()
+pt3dadd(153.3125,302.2813,135,3.5)
+pt3dadd(161,301,139,2.8284)
+pt3dadd(164,303.4,140.45,2.0125)
+pt3dadd(166.1471,305.2353,141.2941,2.1573)
+pt3dadd(167.6538,307.2692,142.0192,3.4975)
+pt3dadd(170.8125,309.0313,143.2188,3.1162)
+pt3dadd(173.75,310.7692,143.9038,3.6638)
+}
+
+create section_308
+section_308 {
+pt3dclear()
+pt3dadd(276.6892,160.2838,135,3.5)
+pt3dadd(267,156,130,3.5355)
+}
+
+create section_309
+section_309 {
+pt3dclear()
+pt3dadd(390.6232,43.3043,135,3.5)
+pt3dadd(392,50,132,2.8284)
+pt3dadd(393.25,53,130.8571,3.7287)
+}
+
+create section_310
+section_310 {
+pt3dclear()
+pt3dadd(373.4074,234.7407,140,3.5)
+pt3dadd(371,230,145,3.4642)
+}
+
+create section_311
+section_311 {
+pt3dclear()
+pt3dadd(446.0833,245.55,145,3.5)
+pt3dadd(441,251,144,2.5982)
+}
+
+create section_312
+section_312 {
+pt3dclear()
+pt3dadd(248.2857,267.6667,0,3.4642)
+pt3dadd(248,262,20,1)
+}
+
+create section_313
+section_313 {
+pt3dclear()
+pt3dadd(340.85,392.6167,0,3.4642)
+}
+
+create section_314
+section_314 {
+pt3dclear()
+pt3dadd(101.9231,50.0192,5,3.4642)
+}
+
+create section_315
+section_315 {
+pt3dclear()
+pt3dadd(102,50,5,3)
+pt3dadd(100.275,47.1,8.525,3.6118)
+pt3dadd(95,36,21,3.5)
+}
+
+create section_316
+section_316 {
+pt3dclear()
+pt3dadd(102,50,5,3)
+pt3dadd(101.1029,52.5588,4.6765,6.6557)
+pt3dadd(100,44,19,2.8284)
+}
+
+create section_317
+section_317 {
+pt3dclear()
+pt3dadd(349.3924,435.6646,5,3.4642)
+pt3dadd(347,429,17,2.8284)
+}
+
+create section_318
+section_318 {
+pt3dclear()
+pt3dadd(56.8046,346.0805,15,3.4642)
+}
+
+create section_319
+section_319 {
+pt3dclear()
+pt3dadd(57,346,15,3)
+pt3dadd(54.6944,343.0278,16.9167,2.8604)
+pt3dadd(48,336,22,2.8284)
+pt3dadd(45,334.8684,23.5,3.8683)
+}
+
+create section_320
+section_320 {
+pt3dclear()
+pt3dadd(57,346,15,3)
+pt3dadd(58.3,348.9,13.8571,4.269)
+pt3dadd(63,360,9,2.1213)
+pt3dadd(63.8571,362.5,7.7143,3.3135)
+pt3dadd(65.6,365.9,6.2,3.2619)
+pt3dadd(67.8125,368.9688,4.1875,3.0879)
+pt3dadd(69.8947,371.8421,4.5263,3.4777)
+pt3dadd(71.4,374.9,3.7,3.6932)
+}
+
+create section_321
+section_321 {
+pt3dclear()
+pt3dadd(272.4196,418.375,15,3.4642)
+pt3dadd(271.2857,421,14.2857,3.5971)
+pt3dadd(269.8333,424.0556,13.3333,2.5191)
+pt3dadd(268.6207,426.9655,12.3276,3.775)
+pt3dadd(268.3333,430.3333,11.8333,2.8284)
+pt3dadd(266.5179,432.8393,11.4286,4.051)
+pt3dadd(265.875,436.125,10.8125,3.0847)
+pt3dadd(264.7692,438.8846,10.5,3.9561)
+pt3dadd(263.9,442.1,10.5,3.0463)
+pt3dadd(263.1957,445,10.3261,3.4091)
+pt3dadd(261,438,16,2.1213)
+}
+
+create section_322
+section_322 {
+pt3dclear()
+pt3dadd(341.9688,410.7813,15,3.4642)
+}
+
+create section_323
+section_323 {
+pt3dclear()
+pt3dadd(342,411,15,3)
+pt3dadd(344.1522,413.413,13.0217,3.5069)
+pt3dadd(335,419,21,2.1213)
+pt3dadd(332.5,420.7308,20.7308,2.1757)
+pt3dadd(330.9,423,21.2333,3.1397)
+pt3dadd(328.1852,425.0926,22.4259,3.2101)
+pt3dadd(325.4853,427.4706,23.8382,3.5218)
+}
+
+create section_324
+section_324 {
+pt3dclear()
+pt3dadd(342,411,15,3)
+pt3dadd(339.5,413.9286,16.6429,2.0253)
+}
+
+create section_325
+section_325 {
+pt3dclear()
+pt3dadd(426.5455,271.2909,15,3.4642)
+}
+
+create section_326
+section_326 {
+pt3dclear()
+pt3dadd(427,271,15,3)
+pt3dadd(427.9189,268.7162,12.0676,3.4741)
+pt3dadd(426,263,11,3.4642)
+}
+
+create section_327
+section_327 {
+pt3dclear()
+pt3dadd(427,271,15,3)
+pt3dadd(424,271.9167,16.5,1.3017)
+pt3dadd(413,275,22,2.8284)
+pt3dadd(410,276.25,22.8214,2.5254)
+pt3dadd(407,277.3182,23.9545,2.3654)
+pt3dadd(404.5,278.25,24.75,1.5811)
+pt3dadd(402.5,279.25,26.6667,1.5366)
+pt3dadd(400.5,280,27.75,2.0616)
+pt3dadd(398.5,280.9667,28.7333,2.5734)
+pt3dadd(396,282.25,29.75,2.5495)
+pt3dadd(393.0333,283.9,30.9333,2.9318)
+pt3dadd(390.0909,285.9091,31.6818,2.9105)
+pt3dadd(387.1667,288.1429,32.9286,2.5399)
+pt3dadd(384.2857,290.1905,33.7619,2.884)
+pt3dadd(381.7045,292.5909,34.7727,3.5224)
+}
+
+create section_328
+section_328 {
+pt3dclear()
+pt3dadd(427,271,15,3)
+pt3dadd(430,271.0263,13.2895,4.0744)
+pt3dadd(426,263,9,2.8284)
+}
+
+create section_329
+section_329 {
+pt3dclear()
+pt3dadd(444.98,281.46,15,3.4642)
+}
+
+create section_330
+section_330 {
+pt3dclear()
+pt3dadd(257.1081,217.6486,20,3.4642)
+}
+
+create section_331
+section_331 {
+pt3dclear()
+pt3dadd(257,218,20,3)
+pt3dadd(254.4872,215.8333,17.8205,4.456)
+pt3dadd(248,214,15,2.8284)
+}
+
+create section_332
+section_332 {
+pt3dclear()
+pt3dadd(257,218,20,3)
+pt3dadd(257.5,221,21.2917,3.0288)
+pt3dadd(260,226,24,1.5)
+}
+
+create section_333
+section_333 {
+pt3dclear()
+pt3dadd(273.7887,408.4648,20,3.4642)
+pt3dadd(276,415,16,3.4642)
+}
+
+create section_334
+section_334 {
+pt3dclear()
+pt3dadd(245.3077,131.3333,30,3.4642)
+pt3dadd(242.4773,133.5682,27.75,3.2048)
+pt3dadd(239.4767,136.1744,25.7093,3.0647)
+pt3dadd(236.4,138.1143,24.5571,3.8347)
+pt3dadd(230,145,25,2.1213)
+}
+
+create section_335
+section_335 {
+pt3dclear()
+pt3dadd(258.1375,234.6125,30,3.4642)
+pt3dadd(261,235.1429,28.2143,1.767)
+pt3dadd(263.5,235.1818,26.4545,1.7463)
+pt3dadd(272,237,21,1.4142)
+}
+
+create section_336
+section_336 {
+pt3dclear()
+pt3dadd(333.831,112.331,30,3.4642)
+}
+
+create section_337
+section_337 {
+pt3dclear()
+pt3dadd(334,112,30,3)
+pt3dadd(336.1444,109.8667,29.1667,4.8142)
+pt3dadd(336,106,28.875,1.0308)
+pt3dadd(334,98,27,2.1213)
+pt3dadd(333.75,95.5,26.75,2.5495)
+pt3dadd(333,93,26.7083,3.0288)
+pt3dadd(332.0909,90,26.3182,2.8415)
+pt3dadd(331.4231,87,25.8846,2.2871)
+pt3dadd(330.6,84.5,25.9333,2.8032)
+pt3dadd(330.1333,82,25.8667,2.83)
+pt3dadd(328.775,79.025,25.95,3.6763)
+pt3dadd(328.0556,75.7778,26,2.9418)
+pt3dadd(326.14,73.26,25.92,3.7596)
+}
+
+create section_338
+section_338 {
+pt3dclear()
+pt3dadd(334,112,30,3)
+pt3dadd(331.5638,114.3085,30.8511,4.1714)
+pt3dadd(327,119,33,3.4642)
+}
+
+create section_339
+section_339 {
+pt3dclear()
+pt3dadd(332.8621,246.5345,30,3.4642)
+pt3dadd(339,246,32,1.7321)
+}
+
+create section_340
+section_340 {
+pt3dclear()
+pt3dadd(436.875,405.4063,30,3.4642)
+}
+
+create section_341
+section_341 {
+pt3dclear()
+pt3dadd(437,405,30,3)
+pt3dadd(436.2829,407.0658,32.6184,7.1964)
+pt3dadd(428,415,37,3.4642)
+pt3dadd(425.0667,416.9333,37.3333,2.3972)
+pt3dadd(422.5435,418.2826,37.7391,2.9839)
+pt3dadd(420.1136,420.2727,38.2273,2.3377)
+pt3dadd(417.8696,422.1087,38.2174,2.4317)
+pt3dadd(415.8333,424.0833,38.5,2.4777)
+pt3dadd(414.4545,426.5,39.1818,1.7463)
+pt3dadd(413.2143,429.5,39.1429,1.767)
+}
+
+create section_342
+section_342 {
+pt3dclear()
+pt3dadd(437,405,30,3)
+pt3dadd(435.4565,405.4783,27,3.0943)
+pt3dadd(431,408,22,2.5982)
+}
+
+create section_343
+section_343 {
+pt3dclear()
+pt3dadd(413,430,39,2)
+pt3dadd(413.7143,432.5,36.8571,2.4453)
+pt3dadd(414.75,435.5,35.5,3.2016)
+pt3dadd(417.875,437.75,33.1875,1.5662)
+pt3dadd(420.4211,439.0789,30.9211,2.454)
+pt3dadd(422.5,439.3929,29.5714,2.3744)
+pt3dadd(425.5,439.3636,28.3636,1.8741)
+pt3dadd(428.5,439.3462,26.5,1.9657)
+pt3dadd(431.5,438.5,25.25,1.118)
+pt3dadd(442,434,21,2)
+pt3dadd(444.5,433,20.1875,2.0349)
+}
+
+create section_344
+section_344 {
+pt3dclear()
+pt3dadd(413,430,39,2)
+pt3dadd(412.75,432.5,38.25,0.70711)
+pt3dadd(415,439,34,2.1213)
+}
+
+create section_345
+section_345 {
+pt3dclear()
+pt3dadd(128.5082,358.2623,35,3.4642)
+pt3dadd(124,360,37,2.5982)
+}
+
+create section_346
+section_346 {
+pt3dclear()
+pt3dadd(325.8718,252.2051,35,3.4642)
+pt3dadd(336,263,35,1)
+}
+
+create section_347
+section_347 {
+pt3dclear()
+pt3dadd(433.1311,410.6557,35,3.4642)
+pt3dadd(427,412,37,1.7321)
+}
+
+create section_348
+section_348 {
+pt3dclear()
+pt3dadd(72.6054,208,40,3.4642)
+}
+
+create section_349
+section_349 {
+pt3dclear()
+pt3dadd(73,208,40,3)
+pt3dadd(70.1818,206.7727,39.0568,4.5564)
+pt3dadd(64,207,40,3.5)
+}
+
+create section_350
+section_350 {
+pt3dclear()
+pt3dadd(73,208,40,3)
+pt3dadd(75.9722,209.3333,39.6389,3.7375)
+pt3dadd(85,214,37,1.5)
+pt3dadd(87.5,213.6875,35.9375,2.628)
+}
+
+create section_351
+section_351 {
+pt3dclear()
+pt3dadd(88,214,36,3)
+pt3dadd(90.8333,214.75,33,1.5366)
+pt3dadd(87,219,37,1.4142)
+}
+
+create section_352
+section_352 {
+pt3dclear()
+pt3dadd(88,214,36,3)
+pt3dadd(91,214,34.5,3)
+}
+
+create section_353
+section_353 {
+pt3dclear()
+pt3dadd(88,214,36,3)
+pt3dadd(91,214.25,35.5,1.5)
+pt3dadd(85,219,37,1.4142)
+}
+
+create section_354
+section_354 {
+pt3dclear()
+pt3dadd(91,214,35,3)
+pt3dadd(94,214.7,32.65,2.6173)
+pt3dadd(96.9677,213.9032,32.2581,4.4597)
+pt3dadd(101,220,30,1)
+}
+
+create section_355
+section_355 {
+pt3dclear()
+pt3dadd(91,214,35,3)
+pt3dadd(94,213.2222,33.8889,2.5652)
+}
+
+create section_356
+section_356 {
+pt3dclear()
+pt3dadd(382.2692,142.6923,40,3.4642)
+}
+
+create section_357
+section_357 {
+pt3dclear()
+pt3dadd(382,143,40,3)
+pt3dadd(384.2188,143.3125,37,2.2543)
+pt3dadd(386.5,143.3333,35.1667,2.357)
+pt3dadd(389.5,143.8333,33.3333,1.4907)
+pt3dadd(397,149,25,1.7321)
+pt3dadd(395.25,151.5,22.5,1.5)
+pt3dadd(393.7679,154.3929,21.5893,3.3178)
+pt3dadd(392.6829,156.6829,20.8049,5.7024)
+}
+
+create section_358
+section_358 {
+pt3dclear()
+pt3dadd(382,143,40,3)
+pt3dadd(384.5909,140.9545,42.9091,1.5021)
+}
+
+create section_359
+section_359 {
+pt3dclear()
+pt3dadd(385,141,43,2)
+pt3dadd(387,138.7143,43.7857,2.1237)
+pt3dadd(389.5,138.25,45.75,1.5811)
+pt3dadd(392.5,137.4,47.1,1.8111)
+pt3dadd(403,136,52,1.4142)
+}
+
+create section_360
+section_360 {
+pt3dclear()
+pt3dadd(385,141,43,2)
+pt3dadd(387.5,139.25,45,1.5)
+pt3dadd(382,141,43,2.5982)
+}
+
+create section_361
+section_361 {
+pt3dclear()
+pt3dadd(187.2737,58.4246,45,3.4642)
+}
+
+create section_362
+section_362 {
+pt3dclear()
+pt3dadd(187,58,45,3)
+pt3dadd(190,58.5595,45.0952,4.499)
+pt3dadd(197,56,47,3.4642)
+}
+
+create section_363
+section_363 {
+pt3dclear()
+pt3dadd(187,58,45,3)
+pt3dadd(185,59.8404,45.7766,7.1447)
+pt3dadd(190.0116,59,45.6628,4.214)
+pt3dadd(197,56,47,3.4642)
+pt3dadd(200,54.4583,47.2708,3.1306)
+pt3dadd(202.963,52.2778,47.6296,3.455)
+pt3dadd(205.8833,50.2167,48.6,3.6627)
+}
+
+create section_364
+section_364 {
+pt3dclear()
+pt3dadd(21.6667,196.7111,55,3.4642)
+pt3dadd(25,197.0278,54.3889,3.153)
+pt3dadd(28,197.5,53.75,3.0414)
+pt3dadd(31,198.9737,53.5526,3.9488)
+pt3dadd(37,201,52,2.8284)
+}
+
+create section_365
+section_365 {
+pt3dclear()
+pt3dadd(348.0343,95.941,55,3.4642)
+}
+
+create section_366
+section_366 {
+pt3dclear()
+pt3dadd(348,96,55,3)
+pt3dadd(347.1071,93.0536,54.9464,4.6211)
+pt3dadd(345.625,89.5,55,3.8161)
+pt3dadd(345.0556,86.7778,55,2.9418)
+pt3dadd(343.8125,84.0208,55.1875,3.9728)
+pt3dadd(338,72,59,2.5982)
+pt3dadd(338.6667,69,59.5238,3.3337)
+pt3dadd(338.6,66,60.66,3.216)
+pt3dadd(338.25,63,61.6136,2.785)
+pt3dadd(337.7857,60,62.6429,2.6688)
+pt3dadd(337.75,57,63.6538,3.0189)
+pt3dadd(338.1912,54,64.5882,4.3859)
+pt3dadd(338,50.5,65,1)
+}
+
+create section_367
+section_367 {
+pt3dclear()
+pt3dadd(348,96,55,3)
+pt3dadd(349.5229,98.3807,55.1055,7.1973)
+pt3dadd(349.0517,102.6897,56.0862,6.9091)
+pt3dadd(353.7368,100.8947,55.4211,3.5584)
+pt3dadd(357.4167,100.3333,54.5833,1.5811)
+pt3dadd(359.275,98.4875,53.8,4.0698)
+pt3dadd(355,106,57,3.5355)
+}
+
+create section_368
+section_368 {
+pt3dclear()
+pt3dadd(361.2414,201.2759,55,3.4642)
+pt3dadd(355,214,53,2.1213)
+}
+
+create section_369
+section_369 {
+pt3dclear()
+pt3dadd(392.2241,401.7069,55,3.4642)
+pt3dadd(388,398,51,1.4142)
+}
+
+create section_370
+section_370 {
+pt3dclear()
+pt3dadd(342.6752,124.8902,60,3.4642)
+}
+
+create section_371
+section_371 {
+pt3dclear()
+pt3dadd(343,125,60,3)
+pt3dadd(344.5,122,58,2)
+}
+
+create section_372
+section_372 {
+pt3dclear()
+pt3dadd(343,125,60,3)
+pt3dadd(343.4141,122.1328,60.1797,5.9905)
+pt3dadd(344.6875,118.4531,59.4375,5.9563)
+}
+
+create section_373
+section_373 {
+pt3dclear()
+pt3dadd(343,125,60,3)
+pt3dadd(341.1449,126.942,60.5,7.1066)
+}
+
+create section_374
+section_374 {
+pt3dclear()
+pt3dadd(341,127,61,7)
+pt3dadd(342.425,122.05,60.175,4.3307)
+pt3dadd(342,130,60,3.5355)
+pt3dadd(342.125,133.5,60,1.0308)
+}
+
+create section_375
+section_375 {
+pt3dclear()
+pt3dadd(341,127,61,7)
+pt3dadd(339.4583,132.0833,61.0833,3.4004)
+pt3dadd(338.3333,134.9556,61.3444,4.8044)
+pt3dadd(338.1563,138.5313,61.4375,4.8854)
+pt3dadd(334,145,63,3)
+}
+
+create section_376
+section_376 {
+pt3dclear()
+pt3dadd(345,118,59,6)
+pt3dadd(344.5,114,57.3,2.4413)
+pt3dadd(351,114,60,2.8284)
+}
+
+create section_377
+section_377 {
+pt3dclear()
+pt3dadd(345,118,59,6)
+pt3dadd(348.625,115.625,59.125,1.299)
+}
+
+create section_378
+section_378 {
+pt3dclear()
+pt3dadd(38.7089,350.7089,80,3.4642)
+}
+
+create section_379
+section_379 {
+pt3dclear()
+pt3dadd(39,351,80,3)
+pt3dadd(41.4533,349.4467,78.38,5.3527)
+pt3dadd(49,347,77,4.2426)
+}
+
+create section_380
+section_380 {
+pt3dclear()
+pt3dadd(39,351,80,3)
+pt3dadd(36,351,80.25,3.0414)
+pt3dadd(28,346,87,2.5)
+pt3dadd(25,347.0625,88.1042,3.2237)
+pt3dadd(22.0625,347.9167,88.5625,4.2594)
+}
+
+create section_381
+section_381 {
+pt3dclear()
+pt3dadd(220.1053,56.6579,80,3.4642)
+}
+
+create section_382
+section_382 {
+pt3dclear()
+pt3dadd(220,57,80,3)
+pt3dadd(217.1705,58.3409,82.0795,4.2818)
+pt3dadd(224,55,78,3)
+pt3dadd(227,53.3235,75.7059,3)
+pt3dadd(228.9545,50.3182,73.1364,1.4574)
+}
+
+create section_383
+section_383 {
+pt3dclear()
+pt3dadd(220,57,80,3)
+pt3dadd(223,55.6304,78.1087,2.8791)
+pt3dadd(228,53,75,2.8284)
+}
+
+create section_384
+section_384 {
+pt3dclear()
+pt3dadd(137.2031,56.0625,90,3.4642)
+}
+
+create section_385
+section_385 {
+pt3dclear()
+pt3dadd(292.7188,438.5,90,3.4642)
+}
+
+create section_386
+section_386 {
+pt3dclear()
+pt3dadd(172.0248,290.0165,95,3.4642)
+}
+
+create section_387
+section_387 {
+pt3dclear()
+pt3dadd(172,290,95,3)
+pt3dadd(173.4848,287.197,94.0455,4.1357)
+pt3dadd(172,296,97,3.5355)
+}
+
+create section_388
+section_388 {
+pt3dclear()
+pt3dadd(172,290,95,3)
+pt3dadd(170.7841,292.9091,96.0341,4.4361)
+pt3dadd(170.1842,295.8947,97.0263,3.8146)
+pt3dadd(169,310,102,2.5982)
+pt3dadd(167.0313,312.5104,102.7083,4.3554)
+}
+
+create section_389
+section_389 {
+pt3dclear()
+pt3dadd(108.4737,346.1053,110,3.4642)
+}
+
+create section_390
+section_390 {
+pt3dclear()
+pt3dadd(108,346,110,3)
+pt3dadd(105,347.4,110.525,3.2004)
+pt3dadd(102.04,348.62,111.18,3.2609)
+pt3dadd(99,350.1111,111.3148,3.6109)
+pt3dadd(90,353,112,3.5355)
+}
+
+create section_391
+section_391 {
+pt3dclear()
+pt3dadd(108,346,110,3)
+pt3dadd(111,345.28,109.68,3.499)
+pt3dadd(114,344.1667,109.5,3.3333)
+pt3dadd(117,343.0652,109.2826,3.1605)
+pt3dadd(120,342.1,108.5,3.3526)
+pt3dadd(123,341.087,108.2174,3.2036)
+pt3dadd(126,339.9783,107.3913,3.2779)
+pt3dadd(128.9808,338.9615,106.7115,3.946)
+pt3dadd(140,336,106,2.8284)
+pt3dadd(142.9348,333.9348,105.3478,2.5274)
+pt3dadd(145.6739,331.6739,104.5435,2.857)
+pt3dadd(148.38,329.44,104.52,3.0518)
+pt3dadd(150.5714,326.8214,104.4643,3.5871)
+}
+
+create section_392
+section_392 {
+pt3dclear()
+pt3dadd(210.7765,118.8471,110,3.4642)
+pt3dadd(214,113,109,2.1213)
+}
+
+create section_393
+section_393 {
+pt3dclear()
+pt3dadd(431.5161,317.7258,110,3.4642)
+}
+
+create section_394
+section_394 {
+pt3dclear()
+pt3dadd(209.4324,123.6216,115,3.4642)
+}
+
+create section_395
+section_395 {
+pt3dclear()
+pt3dadd(208.451,224.6471,120,3.4642)
+pt3dadd(211,215,123,1.4142)
+}
+
+create section_396
+section_396 {
+pt3dclear()
+pt3dadd(322.4775,116.3356,120,3.4642)
+pt3dadd(324.1279,113.8256,121.314,4.8465)
+pt3dadd(325.6944,110.9444,121.75,4.1596)
+pt3dadd(327.4286,108.0714,122.2857,3.6756)
+pt3dadd(328.2727,104.9545,122.0909,3.6647)
+pt3dadd(328.8929,102.0357,122.1071,5.7901)
+pt3dadd(329.1667,97.7778,122.2778,4.3787)
+pt3dadd(329,90,123,2.8284)
+pt3dadd(329.2,87,123.9,1.2649)
+}
+
+create section_397
+section_397 {
+pt3dclear()
+pt3dadd(395.1042,160.875,120,3.4642)
+pt3dadd(396.3333,158.0152,121.8182,3.6848)
+pt3dadd(403,149,128,3.4642)
+pt3dadd(406,149.6739,129.6957,3.7026)
+}
+
+create section_398
+section_398 {
+pt3dclear()
+pt3dadd(398.3793,90.2989,120,3.4642)
+pt3dadd(397,82,123,2.8284)
+pt3dadd(396.75,79,123.9583,3.501)
+}
+
+create section_399
+section_399 {
+pt3dclear()
+pt3dadd(120.7955,151.3182,125,3.4642)
+}
+
+create section_400
+section_400 {
+pt3dclear()
+pt3dadd(184.2308,39.1538,125,3.4642)
+pt3dadd(186.475,36.425,126.85,3.1488)
+pt3dadd(188.6176,33.7353,128.2059,3.5776)
+pt3dadd(195,29,130,2.1213)
+}
+
+create section_401
+section_401 {
+pt3dclear()
+pt3dadd(398.56,153.36,125,3.4642)
+pt3dadd(403,148,128,2.8284)
+}
+
+create section_402
+section_402 {
+pt3dclear()
+pt3dadd(122.3333,142.52,130,3.4642)
+}
+
+create section_403
+section_403 {
+pt3dclear()
+pt3dadd(194.8333,213.7963,130,3.4642)
+pt3dadd(195,208,133,3)
+}
+
+create section_404
+section_404 {
+pt3dclear()
+pt3dadd(194.4746,203.7119,135,3.4642)
+pt3dadd(194.5741,201,136.4815,3.1484)
+pt3dadd(195.45,198,138.0833,3.62)
+pt3dadd(199,192,142,2.1213)
+}
+
+create section_405
+section_405 {
+pt3dclear()
+pt3dadd(407.2526,281.9684,135,3.4642)
+pt3dadd(408.8621,279.1379,135.9483,3.3308)
+pt3dadd(411.28,276.26,137.04,2.8689)
+pt3dadd(413.3261,273.3261,137.9565,2.857)
+pt3dadd(415.7143,270.619,138.5238,2.7264)
+pt3dadd(418.7273,268.5682,139.1818,2.5394)
+pt3dadd(421.8056,266.6389,139.5278,2.7504)
+pt3dadd(424.619,264.4524,140.2857,2.4808)
+pt3dadd(427.2222,262.0278,140.4722,2.8252)
+pt3dadd(429.875,259.65,140.7,2.7409)
+}
+
+create section_406
+section_406 {
+pt3dclear()
+pt3dadd(295.9,62.32,140,3.4642)
+}
+
+create section_407
+section_407 {
+pt3dclear()
+pt3dadd(296,62,140,3)
+pt3dadd(293.4167,60.5972,142.8194,4.5432)
+pt3dadd(284,59,146,3.5355)
+}
+
+create section_408
+section_408 {
+pt3dclear()
+pt3dadd(296,62,140,3)
+pt3dadd(293,61.4474,141.0526,3.2961)
+pt3dadd(292,54,145,1.5)
+}
+
+create section_409
+section_409 {
+pt3dclear()
+pt3dadd(5.0962,146.1923,145,3.4642)
+pt3dadd(13,140,147,2.8284)
+}
+
+create section_410
+section_410 {
+pt3dclear()
+pt3dadd(380.3036,187.0179,145,3.4642)
+}
+
+create section_411
+section_411 {
+pt3dclear()
+pt3dadd(380,187,145,3)
+pt3dadd(377,187.3929,146.375,3.8593)
+pt3dadd(365,192,149,1.4142)
+}
+
+create section_412
+section_412 {
+pt3dclear()
+pt3dadd(380,187,145,3)
+pt3dadd(383,186.5,144,1.4142)
+pt3dadd(388,186,142,2.5982)
+}
+
+create section_413
+section_413 {
+pt3dclear()
+pt3dadd(105.6923,409.9423,10,3)
+pt3dadd(117,413,20,2.8284)
+}
+
+create section_414
+section_414 {
+pt3dclear()
+pt3dadd(117,413,20,3)
+pt3dadd(119.9667,414.3667,19.3,3.4209)
+pt3dadd(122.8864,416,19.25,3.0647)
+pt3dadd(125.6429,418.1429,19.6786,3.626)
+pt3dadd(132,429,24,2.8284)
+pt3dadd(132.0833,432,24.75,3.504)
+pt3dadd(132,435.5,25,1)
+}
+
+create section_415
+section_415 {
+pt3dclear()
+pt3dadd(117,413,20,3)
+pt3dadd(120,412.75,17.75,1.5811)
+pt3dadd(129,403,15,1)
+}
+
+create section_416
+section_416 {
+pt3dclear()
+pt3dadd(391.4615,39.1538,15,3)
+pt3dadd(390.9808,40.3462,18,2.6926)
+pt3dadd(390.7059,42.3824,20.9118,2.0487)
+pt3dadd(390.75,44.1111,23.4444,2.6206)
+pt3dadd(389.4773,45.4034,25.8239,5.6532)
+pt3dadd(380,39,28,2.5982)
+}
+
+create section_417
+section_417 {
+pt3dclear()
+pt3dadd(238.7895,274.6316,20,3)
+pt3dadd(241,278,16,3)
+}
+
+create section_418
+section_418 {
+pt3dclear()
+pt3dadd(390.9091,41.0909,20,3)
+pt3dadd(391,37,10,1.4142)
+}
+
+create section_419
+section_419 {
+pt3dclear()
+pt3dadd(206.4103,85,25,3)
+}
+
+create section_420
+section_420 {
+pt3dclear()
+pt3dadd(206,85,25,3)
+pt3dadd(206.15,82.2167,27.5833,2.905)
+pt3dadd(206.1034,79.0862,30.2414,3.0674)
+pt3dadd(205.8,76,32.0333,3.5634)
+pt3dadd(204,71,37,1.4142)
+}
+
+create section_421
+section_421 {
+pt3dclear()
+pt3dadd(206,85,25,3)
+pt3dadd(208.8,86.9,22,1.2649)
+pt3dadd(219,88,17,2)
+pt3dadd(221.5,88.6818,15.9545,1.7463)
+pt3dadd(224.5,89.7273,14.5909,1.9455)
+pt3dadd(227.4286,90.7143,12.7143,1.6782)
+pt3dadd(229.5,90.7778,11.3611,2.7583)
+pt3dadd(233,90.375,9.0313,3.7505)
+}
+
+create section_422
+section_422 {
+pt3dclear()
+pt3dadd(103.3212,214.4891,30,3)
+pt3dadd(103,208,33,2.5)
+}
+
+create section_423
+section_423 {
+pt3dclear()
+pt3dadd(393.1636,65.3818,35,3)
+pt3dadd(396,70,37,1.4142)
+}
+
+create section_424
+section_424 {
+pt3dclear()
+pt3dadd(18.189,98.3071,40,3)
+}
+
+create section_425
+section_425 {
+pt3dclear()
+pt3dadd(18,98,40,3)
+pt3dadd(19.0714,95,39.3571,2.9451)
+pt3dadd(23,85,37,2.1213)
+pt3dadd(23,82.5,37.15,3.015)
+pt3dadd(23.1111,80,37.2222,1.8626)
+pt3dadd(22.95,77.5,37.2,2.184)
+pt3dadd(23.25,75.5,37.25,2.5495)
+pt3dadd(23.25,73,37.5,2.5)
+}
+
+create section_426
+section_426 {
+pt3dclear()
+pt3dadd(18,98,40,3)
+pt3dadd(15.4545,98.6818,43,1.7463)
+pt3dadd(11,100,46,2.8284)
+}
+
+create section_427
+section_427 {
+pt3dclear()
+pt3dadd(18,98,40,3)
+pt3dadd(21,99.25,37.5,1.5)
+pt3dadd(16,109,40,1)
+}
+
+create section_428
+section_428 {
+pt3dclear()
+pt3dadd(18,98,40,3)
+pt3dadd(21,98.0227,39.25,4.0762)
+pt3dadd(30,105,34,2.8284)
+}
+
+create section_429
+section_429 {
+pt3dclear()
+pt3dadd(30,105,34,3)
+pt3dadd(32.0625,107.875,31.9375,2.5678)
+pt3dadd(34,110.75,30.625,3.0516)
+pt3dadd(36.4375,113.4375,29.8438,4.0471)
+pt3dadd(41,123,27,2.1213)
+pt3dadd(42.5909,125.5,26.1818,2.2727)
+pt3dadd(45.2115,127.5385,25.3846,3.3293)
+pt3dadd(47.9,129.3,24.3,4.6217)
+}
+
+create section_430
+section_430 {
+pt3dclear()
+pt3dadd(30,105,34,3)
+pt3dadd(29.25,108,34.5,2.5)
+pt3dadd(32,102,35,2.1213)
+}
+
+create section_431
+section_431 {
+pt3dclear()
+pt3dadd(212.4309,46.7398,50,3)
+pt3dadd(205,42,51,1)
+}
+
+create section_432
+section_432 {
+pt3dclear()
+pt3dadd(369.4526,92.6,50,3)
+}
+
+create section_433
+section_433 {
+pt3dclear()
+pt3dadd(118.0403,442.6694,60,3)
+}
+
+create section_434
+section_434 {
+pt3dclear()
+pt3dadd(118,443,60,3)
+pt3dadd(117.0147,440.0441,60.7059,4.215)
+pt3dadd(115,433,63,3.5355)
+pt3dadd(115,429.5,63,1)
+}
+
+create section_435
+section_435 {
+pt3dclear()
+pt3dadd(118,443,60,3)
+pt3dadd(119.6196,445.7717,59.3696,4.3272)
+pt3dadd(116,438,62,3.5355)
+}
+
+create section_436
+section_436 {
+pt3dclear()
+pt3dadd(118,443,60,3)
+pt3dadd(121,442.1667,58.8333,2.7487)
+pt3dadd(127,440,58,1.4142)
+}
+
+create section_437
+section_437 {
+pt3dclear()
+pt3dadd(138.3125,232.125,80,3)
+}
+
+create section_438
+section_438 {
+pt3dclear()
+pt3dadd(138,232,80,3)
+pt3dadd(138.2115,233.7308,77,3.7529)
+pt3dadd(138,237,65,2.5982)
+pt3dadd(137.4211,239.8947,62.3947,2.4296)
+pt3dadd(137.6316,242.3684,59.7895,2.8098)
+pt3dadd(138.8571,244.4821,57.125,2.9159)
+pt3dadd(140.8077,246.75,54.4615,2.9645)
+pt3dadd(143.6389,249.3056,51.1944,1.9837)
+pt3dadd(146.2222,250.4444,48.75,2.0314)
+pt3dadd(148.3929,251.3214,47.5,2.6515)
+pt3dadd(151,250.9583,46.375,2.0983)
+pt3dadd(153.5,250.3636,44.7273,2.3373)
+pt3dadd(156.5,249.25,43.75,2.5495)
+pt3dadd(160,247.6154,42.7692,2.8211)
+pt3dadd(162.9706,246.1471,42.0882,2.829)
+pt3dadd(165.8125,243.9688,41.2813,3.1162)
+pt3dadd(168.4583,241.2917,40.3333,2.6693)
+pt3dadd(170.2813,238.125,39.125,2.5868)
+}
+
+create section_439
+section_439 {
+pt3dclear()
+pt3dadd(138,232,80,3)
+pt3dadd(138.75,233.25,83,1.5811)
+pt3dadd(144,238,89,3)
+}
+
+create section_440
+section_440 {
+pt3dclear()
+pt3dadd(170,238,39,3)
+pt3dadd(171.5833,235,36.3333,1.8634)
+pt3dadd(168,240,33,1.4142)
+}
+
+create section_441
+section_441 {
+pt3dclear()
+pt3dadd(170,238,39,3)
+pt3dadd(171.7273,235,37.8636,2.4697)
+}
+
+create section_442
+section_442 {
+pt3dclear()
+pt3dadd(170,238,39,3)
+pt3dadd(169.2222,239.1667,36,1.5909)
+pt3dadd(169,244,41,2.1213)
+}
+
+create section_443
+section_443 {
+pt3dclear()
+pt3dadd(172,235,38,2)
+pt3dadd(172.5333,232.6333,35.6667,2.2181)
+pt3dadd(172.6447,231.3421,33.8421,4.0871)
+pt3dadd(168,237,27,1.5)
+}
+
+create section_444
+section_444 {
+pt3dclear()
+pt3dadd(172,235,38,2)
+pt3dadd(173.75,232.5,37.5,1.5)
+pt3dadd(169,230,48,1.4142)
+}
+
+create section_445
+section_445 {
+pt3dclear()
+pt3dadd(211.719,227.0741,95,3)
+pt3dadd(203,237,96,3.4642)
+pt3dadd(200.2857,238.6633,95.3367,4.4158)
+}
+
+create section_446
+section_446 {
+pt3dclear()
+pt3dadd(312.9535,188.8837,115,3)
+}
+
+create section_447
+section_447 {
+pt3dclear()
+pt3dadd(313,189,115,3)
+pt3dadd(315.2619,186.2857,116.381,2.852)
+pt3dadd(316.9667,183.0333,117.5667,2.2716)
+pt3dadd(318.25,180.5,119,2.5)
+pt3dadd(319.1364,178,119.9091,1.9113)
+pt3dadd(319.9,175.5,120.5,1.562)
+pt3dadd(320.3462,173.5,121.5,1.9657)
+pt3dadd(320.5,171.5,122.4231,2.1716)
+pt3dadd(321.1667,169.5,122.5667,2.4891)
+pt3dadd(321.1667,167.5,123.4667,2.5131)
+pt3dadd(321.6071,165,123.8214,2.8589)
+pt3dadd(322.25,162,124.5556,3.5018)
+pt3dadd(322.4,158.6,125.1,3.3045)
+pt3dadd(322.3846,156,125.2692,2.8211)
+pt3dadd(322.25,153,125.3,2.5318)
+pt3dadd(322.25,150,125.3,2.5318)
+pt3dadd(321.8636,147,125.2273,2.3373)
+pt3dadd(326,155,126,1.7321)
+}
+
+create section_448
+section_448 {
+pt3dclear()
+pt3dadd(313,189,115,3)
+pt3dadd(310.4643,191.6071,113.7857,3.1992)
+pt3dadd(307.5714,194.6786,112.75,2.6669)
+pt3dadd(305.2857,197.6429,111.6429,2.462)
+pt3dadd(303.0278,200.2222,110.6111,2.7739)
+pt3dadd(300.8125,202.875,109.4688,2.3889)
+pt3dadd(299.1176,205.2353,108.1765,2.837)
+pt3dadd(297.2,208,106.8667,2.5095)
+pt3dadd(295.5417,211,105.875,2.0983)
+pt3dadd(294.5,213.4667,104.9667,2.2081)
+pt3dadd(293.75,215.5,104.2,2.5318)
+pt3dadd(292.8571,219,103.2143,1.767)
+pt3dadd(292.25,221.5,102.5,1.5)
+pt3dadd(290.5,224.5,102.5,2)
+pt3dadd(288.9091,227.1818,102.2727,2.3373)
+pt3dadd(288.6875,229.5,101.3125,1.741)
+pt3dadd(296,235,105,1.4142)
+}
+
+create section_449
+section_449 {
+pt3dclear()
+pt3dadd(186,41,120,3)
+pt3dadd(181,42,122,2.1213)
+}
+
+create section_450
+section_450 {
+pt3dclear()
+pt3dadd(324.8779,84.855,125,3)
+}
+
+create section_451
+section_451 {
+pt3dclear()
+pt3dadd(406.6224,297.1837,130,3)
+pt3dadd(404,292,132,3.4642)
+}
+
+create section_452
+section_452 {
+pt3dclear()
+pt3dadd(187.3947,55.9211,135,3)
+}
+
+create section_453
+section_453 {
+pt3dclear()
+pt3dadd(187,56,135,3)
+pt3dadd(184.1,53.6,135.5,1.8111)
+pt3dadd(181.6429,56.2143,137.2857,1.5186)
+pt3dadd(189,57,137,2.5982)
+}
+
+create section_454
+section_454 {
+pt3dclear()
+pt3dadd(187,56,135,3)
+pt3dadd(184,57.25,136.6667,1.5366)
+pt3dadd(192,67,138,1.5)
+pt3dadd(191.5,69.5,137.125,1.0308)
+}
+
+create section_455
+section_455 {
+pt3dclear()
+pt3dadd(196.0625,194.9583,140,3)
+pt3dadd(191,188,144,2.1213)
+}
+
+create section_456
+section_456 {
+pt3dclear()
+pt3dadd(442.6596,203.8085,145,3)
+pt3dadd(445,198,147,2.5)
+}
+
+create section_457
+section_457 {
+pt3dclear()
+pt3dadd(166.4312,90.1284,0,2.8284)
+}
+
+create section_458
+section_458 {
+pt3dclear()
+pt3dadd(166,90,0,3)
+pt3dadd(163.1071,88.75,6.8214,4.5192)
+pt3dadd(152,86,10,2.8284)
+pt3dadd(149.125,83.625,7,1.2748)
+}
+
+create section_459
+section_459 {
+pt3dclear()
+pt3dadd(166,90,0,3)
+pt3dadd(168.9167,87.8333,7,2.3393)
+pt3dadd(177,81,13,2)
+}
+
+create section_460
+section_460 {
+pt3dclear()
+pt3dadd(166,90,0,3)
+pt3dadd(166.25,93,6.25,2.5495)
+pt3dadd(160,101,18,1.7321)
+}
+
+create section_461
+section_461 {
+pt3dclear()
+pt3dadd(166,90,0,3)
+pt3dadd(163.125,92.5,9,1.0308)
+pt3dadd(159,104,15,2.1213)
+pt3dadd(159.7667,106.5,13.3333,2.804)
+pt3dadd(160.75,110,13.5625,2.6487)
+pt3dadd(161.1667,113,14.5333,2.5131)
+pt3dadd(161.3333,116,15.3333,2.357)
+pt3dadd(161,118.5,15.5,2)
+}
+
+create section_462
+section_462 {
+pt3dclear()
+pt3dadd(166,90,0,3)
+pt3dadd(169,90.75,6,1.5)
+pt3dadd(181,85,13,1.4142)
+}
+
+create section_463
+section_463 {
+pt3dclear()
+pt3dadd(311.2067,313.92,0,2.8284)
+pt3dadd(308.2941,315.5882,6.3235,4.267)
+pt3dadd(301,319,10,1.5)
+}
+
+create section_464
+section_464 {
+pt3dclear()
+pt3dadd(65.8947,366.9649,5,2.8284)
+pt3dadd(70,376,11,2.1213)
+}
+
+create section_465
+section_465 {
+pt3dclear()
+pt3dadd(178.6078,80.0588,5,2.8284)
+pt3dadd(181.9423,78.6923,5.1154,3.6981)
+pt3dadd(184.4545,78.1364,5.5909,2.2007)
+pt3dadd(185.9375,76.5125,3.925,4.2882)
+pt3dadd(192,67,11,1.7321)
+pt3dadd(189.875,64.625,13,1.2748)
+}
+
+create section_466
+section_466 {
+pt3dclear()
+pt3dadd(189.7614,215.2386,5,2.8284)
+}
+
+create section_467
+section_467 {
+pt3dclear()
+pt3dadd(190,215,5,3)
+pt3dadd(187.0238,216.5952,5.119,3.2805)
+pt3dadd(184.0192,218.4615,4.2885,3.2749)
+pt3dadd(181.0294,219.4118,4.4118,3.282)
+pt3dadd(178.1154,220.6538,4.1923,3.2445)
+pt3dadd(175,222.25,4,1.5)
+pt3dadd(180,224,23,1.4142)
+}
+
+create section_468
+section_468 {
+pt3dclear()
+pt3dadd(190,215,5,3)
+pt3dadd(193,214.3611,6.8056,2.3583)
+pt3dadd(195.5,213.4318,7.2045,3.1629)
+pt3dadd(199,212.55,7.85,3.1145)
+pt3dadd(202,212.2059,8.6765,3.4726)
+pt3dadd(205,211.6667,9.4762,3.667)
+pt3dadd(215,212,16,2.1213)
+pt3dadd(217.5,211.4091,13.6818,2.8415)
+pt3dadd(221,210.75,12.475,3.5004)
+}
+
+create section_469
+section_469 {
+pt3dclear()
+pt3dadd(367.2143,209.2143,5,2.8284)
+}
+
+create section_470
+section_470 {
+pt3dclear()
+pt3dadd(367,209,5,3)
+pt3dadd(365.7143,206.0714,4.9821,4.5738)
+pt3dadd(360,199,13,2.8284)
+}
+
+create section_471
+section_471 {
+pt3dclear()
+pt3dadd(367,209,5,3)
+pt3dadd(369.7778,210.7593,5.0185,3.695)
+pt3dadd(376,220,13,2.8284)
+}
+
+create section_472
+section_472 {
+pt3dclear()
+pt3dadd(417.5875,260.525,5,2.8284)
+pt3dadd(415.0556,259.4722,5.2778,3.1255)
+pt3dadd(412.0682,257.4091,5.0909,3.3835)
+pt3dadd(409.12,255.58,5.08,3.9381)
+pt3dadd(403,251,13,2.8284)
+}
+
+create section_473
+section_473 {
+pt3dclear()
+pt3dadd(10.2169,5.9759,10,2.8284)
+pt3dadd(10,4.1207,10.431,7.1323)
+pt3dadd(28,11,14,1.7321)
+}
+
+create section_474
+section_474 {
+pt3dclear()
+pt3dadd(28,11,14,2)
+pt3dadd(30.1471,10.2941,11.7941,4.8884)
+pt3dadd(41,13,19,2.1213)
+pt3dadd(43.4211,12.6579,17.2895,5.7617)
+}
+
+create section_475
+section_475 {
+pt3dclear()
+pt3dadd(28,11,14,2)
+pt3dadd(29.5455,13.0455,15,3.633)
+pt3dadd(40,16,16,1.4142)
+}
+
+create section_476
+section_476 {
+pt3dclear()
+pt3dadd(98.5349,42.1163,10,2.8284)
+pt3dadd(96,31,23,3.5355)
+}
+
+create section_477
+section_477 {
+pt3dclear()
+pt3dadd(111.5249,320.9005,10,2.8284)
+pt3dadd(115,330,16,2.8284)
+}
+
+create section_478
+section_478 {
+pt3dclear()
+pt3dadd(264.3616,439.4746,10,2.8284)
+pt3dadd(269,435,17,2.5982)
+}
+
+create section_479
+section_479 {
+pt3dclear()
+pt3dadd(314.3617,5.0851,10,2.8284)
+}
+
+create section_480
+section_480 {
+pt3dclear()
+pt3dadd(314,5,10,3)
+pt3dadd(313.1333,9,10.7667,3.3099)
+pt3dadd(312.25,12,11.9,3.5903)
+pt3dadd(311.1667,15.25,12.5833,2.3921)
+pt3dadd(311.24,17.5,13.46,3.6382)
+pt3dadd(313,26,17,2.8284)
+pt3dadd(313.431,29,16.7586,3.8921)
+pt3dadd(314.1,32.15,17.05,3.2156)
+pt3dadd(314.3621,35,17.4828,3.4353)
+pt3dadd(314.6471,38,18,2.8848)
+pt3dadd(315.125,41,18.875,2.2638)
+pt3dadd(315.55,43.5,19.8,2.184)
+pt3dadd(316.2917,46.5,20.6667,2.5069)
+pt3dadd(316.4643,50,21.5357,2.9294)
+pt3dadd(317.075,53,22.7,3.2684)
+pt3dadd(317.7059,56,23.5294,3.5723)
+}
+
+create section_481
+section_481 {
+pt3dclear()
+pt3dadd(314,5,10,3)
+pt3dadd(317,3.75,9.25,0.70711)
+pt3dadd(311,15,16,2.1213)
+}
+
+create section_482
+section_482 {
+pt3dclear()
+pt3dadd(421.2245,360.2245,10,2.8284)
+}
+
+create section_483
+section_483 {
+pt3dclear()
+pt3dadd(421,360,10,3)
+pt3dadd(419.1591,357.2045,11.2955,4.0316)
+pt3dadd(414,350,19,2.8284)
+pt3dadd(415,347,18.5625,2.7415)
+pt3dadd(417.1111,344,20.2222,1.8626)
+pt3dadd(418.3636,341.5,20.7273,2.3373)
+pt3dadd(419.3333,339.5,21.8667,2.4046)
+pt3dadd(419.9167,337.5,23.5833,2.4608)
+pt3dadd(419.9667,335.5,25.0667,2.6874)
+pt3dadd(418.8409,333.2045,27.5227,2.5757)
+pt3dadd(417.75,330.1111,30.6389,2.716)
+pt3dadd(415.75,328.25,34,0.70711)
+}
+
+create section_484
+section_484 {
+pt3dclear()
+pt3dadd(421,360,10,3)
+pt3dadd(422.1429,363,8.25,2.2779)
+pt3dadd(425,370,12,2.1213)
+}
+
+create section_485
+section_485 {
+pt3dclear()
+pt3dadd(428.7045,267.5455,10,2.8284)
+pt3dadd(426,262,12,2.5982)
+}
+
+create section_486
+section_486 {
+pt3dclear()
+pt3dadd(94.8824,36.5,15,2.8284)
+pt3dadd(92,28,21,1.7321)
+pt3dadd(90.3636,25.5,21.5909,1.9113)
+pt3dadd(87.9643,23.8929,22.6429,2.418)
+pt3dadd(85.9474,21.9474,23.3421,3.3032)
+pt3dadd(83.6429,19.2143,24.0714,2.2039)
+pt3dadd(81.6818,17.0455,25.0455,1.9688)
+pt3dadd(79.875,14.875,25.875,1.6394)
+pt3dadd(77.6538,13.3077,26.6923,2.435)
+pt3dadd(75.8095,11.4048,27.4048,3.2556)
+pt3dadd(73.0714,9.0714,27.75,2.9041)
+pt3dadd(70.05,6.9,28.65,2.2226)
+pt3dadd(67.6818,5.0455,29.2273,2.0185)
+pt3dadd(65.7368,3.1842,29.3947,2.788)
+pt3dadd(63,5.1429,29.7143,1.767)
+pt3dadd(60.6429,2.6429,30.3571,1.3477)
+}
+
+create section_487
+section_487 {
+pt3dclear()
+pt3dadd(117.1471,412.6176,15,2.8284)
+}
+
+create section_488
+section_488 {
+pt3dclear()
+pt3dadd(125.1146,340.0833,15,2.8284)
+pt3dadd(125,332,12,1)
+}
+
+create section_489
+section_489 {
+pt3dclear()
+pt3dadd(158.2273,275.4318,15,2.8284)
+}
+
+create section_490
+section_490 {
+pt3dclear()
+pt3dadd(158,275,15,3)
+pt3dadd(158.2059,272,15.9706,3.5723)
+pt3dadd(158.4,268.6,16.2,3.3526)
+pt3dadd(158.7778,266,16.5278,2.765)
+pt3dadd(159.3636,263,17.2273,2.3373)
+pt3dadd(159.3846,260.5,17.2692,2.8211)
+pt3dadd(159.55,258,17.8,2.184)
+pt3dadd(160.3636,255.5,18.7273,2.3373)
+pt3dadd(160.75,253.5,19.5,2.6926)
+pt3dadd(161.5833,251,20.5417,2.8346)
+pt3dadd(162.6364,248,21.4091,2.0929)
+pt3dadd(158,253,19,1.4142)
+}
+
+create section_491
+section_491 {
+pt3dclear()
+pt3dadd(158,275,15,3)
+pt3dadd(157.1667,278,15.9762,3.4667)
+pt3dadd(155.9483,281,16.8103,4.1209)
+pt3dadd(154.8077,284.0769,17.3077,3.002)
+pt3dadd(153.84,286.74,17.63,5.3963)
+pt3dadd(143,290,18,2.5982)
+pt3dadd(140,291.25,18.75,3.5355)
+}
+
+create section_492
+section_492 {
+pt3dclear()
+pt3dadd(250.0519,213.1558,15,2.8284)
+pt3dadd(237,213,12,2.8284)
+pt3dadd(234,212.1667,11.7619,3.3672)
+pt3dadd(231,211.5833,11.5556,2.9695)
+pt3dadd(228,211.4167,11.5,3.0046)
+}
+
+create section_493
+section_493 {
+pt3dclear()
+pt3dadd(312.125,25.7206,15,2.8284)
+pt3dadd(317,32,17,2.5982)
+}
+
+create section_494
+section_494 {
+pt3dclear()
+pt3dadd(51.3529,339.4118,20,2.8284)
+pt3dadd(41,334,25,2.8284)
+pt3dadd(38,334.46,25.9,4.0849)
+}
+
+create section_495
+section_495 {
+pt3dclear()
+pt3dadd(89.9032,29.0968,20,2.8284)
+pt3dadd(89,22,23,1.7321)
+}
+
+create section_496
+section_496 {
+pt3dclear()
+pt3dadd(126.6897,419.3448,20,2.8284)
+}
+
+create section_497
+section_497 {
+pt3dclear()
+pt3dadd(161.1818,251.0303,20,2.8284)
+pt3dadd(163,258,18,1.4142)
+}
+
+create section_498
+section_498 {
+pt3dclear()
+pt3dadd(232.8889,138.9444,20,2.8284)
+pt3dadd(227,140,18,2.1213)
+}
+
+create section_499
+section_499 {
+pt3dclear()
+pt3dadd(331.1628,423.2791,20,2.8284)
+pt3dadd(324,427,24,2.1213)
+}
+
+create section_500
+section_500 {
+pt3dclear()
+pt3dadd(389.6509,158.7736,20,2.8284)
+}
+
+create section_501
+section_501 {
+pt3dclear()
+pt3dadd(390,159,20,3)
+pt3dadd(387,159.0938,19.5313,2.9646)
+pt3dadd(384,158.8889,19.2778,1.8626)
+pt3dadd(381.5,159,18.5769,2.1716)
+pt3dadd(379.5,159.25,18.5,1.8028)
+pt3dadd(377.5,159.4,18.5,1.562)
+pt3dadd(375.5,159.6,18.5,1.562)
+pt3dadd(373.5,160.1667,18.5556,1.6025)
+pt3dadd(371.5,160,18.6875,2.0349)
+pt3dadd(369.5,160,18.6875,2.0349)
+pt3dadd(367.5,159.75,18.5,1.5)
+pt3dadd(365.5,159.6429,18.2857,1.767)
+pt3dadd(363.5,159.5,17.75,1.118)
+pt3dadd(356,159,18,2.1213)
+pt3dadd(353.5,159.1,17.7,1.2649)
+}
+
+create section_502
+section_502 {
+pt3dclear()
+pt3dadd(390,159,20,3)
+pt3dadd(393,160.6667,19.0556,1.6025)
+pt3dadd(395.5,161.7727,18.3636,2.0021)
+pt3dadd(398.5,163.1429,17.2143,1.767)
+pt3dadd(401.5,164.1111,16.2778,1.8626)
+pt3dadd(404.5,164.75,15.5,2.6926)
+pt3dadd(408,165.0625,15.125,2.0194)
+pt3dadd(410.5,164.95,14.1,2.0616)
+pt3dadd(413.5,164.65,12.8,2.0616)
+pt3dadd(415.9063,164.4063,10.5,2.1955)
+pt3dadd(418.5,163.9,9.4,1.8111)
+pt3dadd(415,167,19,1.4142)
+}
+
+create section_503
+section_503 {
+pt3dclear()
+pt3dadd(428.6216,409.3784,20,2.8284)
+pt3dadd(424,416,16,2.5982)
+pt3dadd(421.6667,419,15.1667,1.7951)
+pt3dadd(419.5556,421.1667,14.0556,1.6063)
+pt3dadd(417.8929,423.3929,12.8214,1.8336)
+pt3dadd(416.3824,425.4412,12.0294,2.4282)
+pt3dadd(415.2353,427.5,11.2059,2.5627)
+pt3dadd(414.2105,431,9.6842,2.6552)
+pt3dadd(413.6429,434,8.381,2.5811)
+pt3dadd(414.3,437,6.3667,2.5095)
+pt3dadd(414.75,440,4.2083,2.0632)
+pt3dadd(415.5,442.5,3.75,2.0616)
+}
+
+create section_504
+section_504 {
+pt3dclear()
+pt3dadd(445.129,432.6774,20,2.8284)
+}
+
+create section_505
+section_505 {
+pt3dclear()
+pt3dadd(39.8814,334.9492,25,2.8284)
+pt3dadd(37,335.1667,26.1852,3.6853)
+pt3dadd(26,340,30,2.8284)
+pt3dadd(23.0652,341.7174,30.4348,3.4397)
+pt3dadd(20.7931,344.3793,30.8621,4.1434)
+}
+
+create section_506
+section_506 {
+pt3dclear()
+pt3dadd(237.4107,300.881,25,2.8284)
+}
+
+create section_507
+section_507 {
+pt3dclear()
+pt3dadd(237,301,25,3)
+pt3dadd(237.0682,298,25.5227,3.2784)
+pt3dadd(237.25,295,26.1,3.5903)
+pt3dadd(234,304,24,2.5982)
+}
+
+create section_508
+section_508 {
+pt3dclear()
+pt3dadd(237,301,25,3)
+pt3dadd(237.4655,304,24.3276,3.9853)
+pt3dadd(238.125,307.125,23.75,3.0619)
+pt3dadd(238.9697,309.9697,23.1818,4.2162)
+pt3dadd(239.6,313.25,22.8,3.1702)
+pt3dadd(240.129,316,22.7903,4.7774)
+pt3dadd(236,324,23,2.8284)
+pt3dadd(234.4333,327,22.8667,2.959)
+pt3dadd(232.6053,329.9211,22.8158,3.755)
+}
+
+create section_509
+section_509 {
+pt3dclear()
+pt3dadd(323.3043,429.1522,25,2.8284)
+pt3dadd(320.1786,431.5714,27.5714,1.5666)
+pt3dadd(317.6538,433.9615,29.6538,2.0294)
+pt3dadd(315.6364,435.6364,31.1818,2.5243)
+pt3dadd(313,437.2,32.4667,2.6264)
+pt3dadd(310,438.087,33.1087,3.269)
+pt3dadd(307.0577,439.3654,34.0962,3.7375)
+pt3dadd(302,441,37,3.5355)
+}
+
+create section_510
+section_510 {
+pt3dclear()
+pt3dadd(333.1654,222.6729,25,2.8284)
+}
+
+create section_511
+section_511 {
+pt3dclear()
+pt3dadd(435,405.125,25,2.8284)
+}
+
+create section_512
+section_512 {
+pt3dclear()
+pt3dadd(446.4348,285.087,25,2.8284)
+}
+
+create section_513
+section_513 {
+pt3dclear()
+pt3dadd(23.8,341.8,30,2.8284)
+pt3dadd(16,353,33,2.5)
+pt3dadd(13.1,354.2667,32.4833,4.5379)
+}
+
+create section_514
+section_514 {
+pt3dclear()
+pt3dadd(61.75,191.2273,30,2.8284)
+pt3dadd(61.5,188,28.7083,3.0288)
+pt3dadd(61.25,185,28.1,3.5057)
+pt3dadd(59,174,26,2.1213)
+pt3dadd(58.3636,171.5,25.7273,2.3373)
+pt3dadd(57.5833,169.5,25.5417,2.0497)
+pt3dadd(57.5385,167.5,25.3846,2.2148)
+}
+
+create section_515
+section_515 {
+pt3dclear()
+pt3dadd(58,168,25,2)
+pt3dadd(57.75,165.5,24.5,3.5)
+pt3dadd(56,156,23,1.4142)
+}
+
+create section_516
+section_516 {
+pt3dclear()
+pt3dadd(58,168,25,2)
+pt3dadd(57.25,165.5,25.5,1.5)
+pt3dadd(58,156,23,1.7321)
+pt3dadd(58.375,153.5,22.9375,2.7528)
+pt3dadd(58.2692,151,22.8077,2.5674)
+pt3dadd(58.25,148,22.7857,3.5261)
+pt3dadd(58.3333,144.5833,22.9167,3.5355)
+pt3dadd(58.2083,141.8333,23,4.5407)
+pt3dadd(56.5,138.5769,23.0385,3.6415)
+}
+
+create section_517
+section_517 {
+pt3dclear()
+pt3dadd(171.3696,230.1522,30,2.8284)
+}
+
+create section_518
+section_518 {
+pt3dclear()
+pt3dadd(206.525,78.65,30,2.8284)
+}
+
+create section_519
+section_519 {
+pt3dclear()
+pt3dadd(367.3469,280.1224,30,2.8284)
+pt3dadd(370,275,32,1.5)
+}
+
+create section_520
+section_520 {
+pt3dclear()
+pt3dadd(389.9756,52.2317,30,2.8284)
+}
+
+create section_521
+section_521 {
+pt3dclear()
+pt3dadd(317.771,122.0534,35,2.8284)
+pt3dadd(315,122.6389,35.4722,3.2782)
+pt3dadd(312,123.4167,35.625,2.5014)
+pt3dadd(309,122.25,37.5,2.5)
+pt3dadd(306,121.3846,38.5769,2.7735)
+}
+
+create section_522
+section_522 {
+pt3dclear()
+pt3dadd(306,121,39,3)
+pt3dadd(303.6,123.9,38,1.8111)
+pt3dadd(301.5,125.625,37.625,1.2748)
+pt3dadd(287,129,38,1.7321)
+pt3dadd(285.5,131.5,38.05,2.1471)
+pt3dadd(285.75,134.5,37.25,1.5811)
+pt3dadd(287.95,137.4,35.85,2.1772)
+pt3dadd(290,139.1842,34.7895,2.6353)
+pt3dadd(292.3077,141.6731,33.6346,3.2036)
+pt3dadd(294.7368,144.4211,32.2368,2.7815)
+pt3dadd(297.25,146.9375,30.6875,1.6298)
+pt3dadd(299.2778,149.2222,29.4444,1.6555)
+pt3dadd(301.4,151.1,27.9,1.2329)
+}
+
+create section_523
+section_523 {
+pt3dclear()
+pt3dadd(306,121,39,3)
+pt3dadd(303,119.8636,39.1364,1.8741)
+pt3dadd(300.5,119.2857,39.1429,1.5972)
+pt3dadd(298.5,118.4,39.3,1.2649)
+pt3dadd(290,116,40,1.4142)
+}
+
+create section_524
+section_524 {
+pt3dclear()
+pt3dadd(414.129,436.7097,35,2.8284)
+}
+
+create section_525
+section_525 {
+pt3dclear()
+pt3dadd(443.1351,280.9459,35,2.8284)
+pt3dadd(441,274,40,2.1213)
+}
+
+create section_526
+section_526 {
+pt3dclear()
+pt3dadd(277.019,132.0571,40,2.8284)
+pt3dadd(271,128,42,2.1213)
+}
+
+create section_527
+section_527 {
+pt3dclear()
+pt3dadd(361.3787,335.7722,40,2.8284)
+pt3dadd(363,342,42,2.1213)
+}
+
+create section_528
+section_528 {
+pt3dclear()
+pt3dadd(409.3771,429.4,40,2.8284)
+}
+
+create section_529
+section_529 {
+pt3dclear()
+pt3dadd(340.2985,382.8955,45,2.8284)
+pt3dadd(335,389,46,1.7321)
+}
+
+create section_530
+section_530 {
+pt3dclear()
+pt3dadd(166.7413,63.7343,50,2.8284)
+pt3dadd(170,63.2059,49.3824,3.4964)
+pt3dadd(172.9839,61.9194,48.129,4.0397)
+pt3dadd(164,61,50,1.4142)
+}
+
+create section_531
+section_531 {
+pt3dclear()
+pt3dadd(357.7367,402.1254,50,2.8284)
+pt3dadd(343,404,49,2.5)
+pt3dadd(340,402.75,49,1.118)
+}
+
+create section_532
+section_532 {
+pt3dclear()
+pt3dadd(362.35,201.85,50,2.8284)
+pt3dadd(360,206,46,1.4142)
+}
+
+create section_533
+section_533 {
+pt3dclear()
+pt3dadd(407.2222,219.6508,50,2.8284)
+}
+
+create section_534
+section_534 {
+pt3dclear()
+pt3dadd(407,220,50,3)
+pt3dadd(405.6579,217.0263,51,3.4485)
+pt3dadd(405,214,51.75,4.0311)
+pt3dadd(404,210.8125,52.3125,3.1275)
+pt3dadd(403.0882,208,52.6176,3.1852)
+pt3dadd(402.1154,205,53.2692,2.8211)
+pt3dadd(401.2813,202,53.4375,3.4398)
+pt3dadd(400.5,199,53.5938,3.0059)
+pt3dadd(400.25,196,54.25,3.5355)
+pt3dadd(400,192.5,54,1)
+pt3dadd(397,187,55,2.1213)
+}
+
+create section_535
+section_535 {
+pt3dclear()
+pt3dadd(407,220,50,3)
+pt3dadd(409.6389,222.4167,49.1389,3.0118)
+pt3dadd(412.0476,224.6905,48.4048,3.1623)
+pt3dadd(414.0455,227.8409,47.5909,3.1126)
+pt3dadd(415.9286,230.9286,47.25,2.9041)
+pt3dadd(417.8077,233.8846,46.6538,2.9852)
+pt3dadd(420.3077,236.7308,46.3462,2.841)
+pt3dadd(422.625,239.5417,45.7917,2.4986)
+pt3dadd(424.8846,242.2308,45.7692,2.7905)
+pt3dadd(426.7083,244.9583,45.75,2.7864)
+pt3dadd(428.8077,247.9615,45.7308,2.6569)
+pt3dadd(430.7333,250.9,45.7333,3.5036)
+pt3dadd(436,265,45,1.7321)
+}
+
+create section_536
+section_536 {
+pt3dclear()
+pt3dadd(412.3902,313.7317,50,2.8284)
+}
+
+create section_537
+section_537 {
+pt3dclear()
+pt3dadd(412,314,50,3)
+pt3dadd(411.7,311,50.9,2.6077)
+pt3dadd(411.8667,308,51.5,2.7333)
+pt3dadd(412.4,305,52.0667,2.8032)
+pt3dadd(413.2308,302,52.1923,2.5674)
+pt3dadd(414.75,299,52.25,2.5495)
+pt3dadd(417.7,296.3,52.75,1.6031)
+pt3dadd(420.1818,293.9091,53.3182,2.3016)
+pt3dadd(422.1818,291.9091,53.6818,2.3016)
+pt3dadd(424.3636,290.3636,54.5909,2.2962)
+pt3dadd(426.5,288.8889,55.2222,1.8626)
+pt3dadd(429.5,287.75,55.25,1.5811)
+pt3dadd(432.5,286.75,55.1667,1.5366)
+pt3dadd(439,284,55,1.4142)
+}
+
+create section_538
+section_538 {
+pt3dclear()
+pt3dadd(412,314,50,3)
+pt3dadd(412.25,317,48.375,1.6771)
+pt3dadd(412.4444,319.2222,45.6111,1.3053)
+pt3dadd(415,315,49,2.1213)
+}
+
+create section_539
+section_539 {
+pt3dclear()
+pt3dadd(138.7778,245.8148,55,2.8284)
+pt3dadd(141,251,52,2.1213)
+}
+
+create section_540
+section_540 {
+pt3dclear()
+pt3dadd(154,66.6296,55,2.8284)
+}
+
+create section_541
+section_541 {
+pt3dclear()
+pt3dadd(222.2121,334.2424,55,2.8284)
+}
+
+create section_542
+section_542 {
+pt3dclear()
+pt3dadd(222,334,55,3)
+pt3dadd(224.3585,333.9434,52.1792,5.0651)
+pt3dadd(231,326,50,2.1213)
+pt3dadd(232.5,323.5,49.75,2.0616)
+pt3dadd(234.0714,321.5,49.7143,2.1853)
+pt3dadd(235.25,319.5,49.75,2.5495)
+pt3dadd(236.95,317.05,49.75,2.3388)
+pt3dadd(238.9545,314.6818,49.7727,2.0185)
+pt3dadd(240.95,312.7,49.7,2.0322)
+pt3dadd(242.95,310.7,49.65,1.9647)
+pt3dadd(245.4,309.1,49.5,1.8111)
+pt3dadd(247.5,307.75,49.5,1.5)
+pt3dadd(250.5,306.6,49.2,1.2649)
+}
+
+create section_543
+section_543 {
+pt3dclear()
+pt3dadd(222,334,55,3)
+pt3dadd(220,333.25,58,1.118)
+pt3dadd(214,327,67,2.1213)
+}
+
+create section_544
+section_544 {
+pt3dclear()
+pt3dadd(398.5466,188.8758,55,2.8284)
+pt3dadd(393,180,57,2.1213)
+pt3dadd(391.6364,177.5,57.7273,2.3373)
+pt3dadd(390.3,175.55,58.25,1.9026)
+pt3dadd(388.4167,173.5,59.0417,2.0497)
+pt3dadd(386.75,171.5,60,2.5)
+}
+
+create section_545
+section_545 {
+pt3dclear()
+pt3dadd(387,172,60,3)
+pt3dadd(385.3421,169.0263,61,2.8649)
+pt3dadd(383.5844,166.3571,63.1494,5.1299)
+pt3dadd(382.4412,163.5196,64.3235,6.2153)
+pt3dadd(379.5,161.6827,64.5962,8.8022)
+pt3dadd(370,161,66,2.8284)
+pt3dadd(367.0781,158.9844,65.5156,3.1861)
+pt3dadd(364.2857,157.2429,65.6429,4.2445)
+}
+
+create section_546
+section_546 {
+pt3dclear()
+pt3dadd(387,172,60,3)
+pt3dadd(384.3,169.1,62.8,1.4697)
+pt3dadd(393,163,69,2.5982)
+pt3dadd(395.951,162.1667,70.8627,4.6653)
+}
+
+create section_547
+section_547 {
+pt3dclear()
+pt3dadd(339.0429,66.0429,60,2.8284)
+pt3dadd(335,61,63,2)
+}
+
+create section_548
+section_548 {
+pt3dclear()
+pt3dadd(112.1101,405.0472,65,2.8284)
+pt3dadd(115,412,66,4.2426)
+pt3dadd(115,415.5,66,1)
+}
+
+create section_549
+section_549 {
+pt3dclear()
+pt3dadd(182.7339,365.3394,70,2.8284)
+}
+
+create section_550
+section_550 {
+pt3dclear()
+pt3dadd(183,365,70,3)
+pt3dadd(180.087,363.5435,70,3.5866)
+pt3dadd(175,361,71,2.8284)
+}
+
+create section_551
+section_551 {
+pt3dclear()
+pt3dadd(183,365,70,3)
+pt3dadd(183.6905,367.9762,69.9286,4.7586)
+pt3dadd(175,361,71,2.8284)
+}
+
+create section_552
+section_552 {
+pt3dclear()
+pt3dadd(183,365,70,3)
+pt3dadd(185.55,367.2,71.7,3.5398)
+pt3dadd(193,372,74,2.1213)
+}
+
+create section_553
+section_553 {
+pt3dclear()
+pt3dadd(183,365,70,3)
+pt3dadd(185.3529,364.6471,67,2.4125)
+}
+
+create section_554
+section_554 {
+pt3dclear()
+pt3dadd(183,365,70,3)
+pt3dadd(186,365.3846,69.7308,2.8211)
+pt3dadd(195,371,71,1.4142)
+}
+
+create section_555
+section_555 {
+pt3dclear()
+pt3dadd(222.1277,390.4043,70,2.8284)
+}
+
+create section_556
+section_556 {
+pt3dclear()
+pt3dadd(222,390,70,3)
+pt3dadd(224.7083,387.5,68.2917,2.1635)
+pt3dadd(234,381,64,2.1213)
+pt3dadd(236.5,379.1429,63.1786,2.0862)
+pt3dadd(239,377.3387,62.4516,4.3386)
+pt3dadd(239.9444,373.7778,62,2.9418)
+}
+
+create section_557
+section_557 {
+pt3dclear()
+pt3dadd(222,390,70,3)
+pt3dadd(219,389.25,71.0625,4.5843)
+pt3dadd(209,385,74,2.1213)
+pt3dadd(206.5,383.3636,74.0909,1.9113)
+pt3dadd(204.7333,381.3333,74.2,3.0587)
+}
+
+create section_558
+section_558 {
+pt3dclear()
+pt3dadd(222,390,70,3)
+pt3dadd(222.2857,393,71.0714,3.4315)
+pt3dadd(228,403,74,2.1213)
+}
+
+create section_559
+section_559 {
+pt3dclear()
+pt3dadd(240,374,62,3)
+pt3dadd(240.5625,371,61.4688,2.8757)
+pt3dadd(241.1364,368,60.7273,2.3373)
+pt3dadd(241.3333,365.5,60.6667,2.357)
+pt3dadd(241.75,363.5,60.5,2.5)
+pt3dadd(243,361,60.5,2)
+pt3dadd(243.6364,358.5,60.2727,2.3373)
+pt3dadd(244.3636,356.5,59.7273,2.3373)
+pt3dadd(244.8333,354.5,59.6667,2.357)
+pt3dadd(245.6111,352.5,59.7222,1.8626)
+pt3dadd(246.1875,350.5,59.6875,1.741)
+pt3dadd(246.6111,348.5,59.7222,1.8626)
+pt3dadd(247.4,346.5,59.8,1.2649)
+pt3dadd(250,338,61,1.4142)
+}
+
+create section_560
+section_560 {
+pt3dclear()
+pt3dadd(240,374,62,3)
+pt3dadd(242.75,376.4583,61.7917,2.0242)
+pt3dadd(245.35,377.85,61.75,2.1977)
+pt3dadd(247.5,378.875,61.8125,2.3352)
+}
+
+create section_561
+section_561 {
+pt3dclear()
+pt3dadd(248,379,62,2)
+pt3dadd(250.2857,378.1429,59.5,1.767)
+pt3dadd(247.9,380.3,57.5,1.2649)
+pt3dadd(245,383,55,1.4142)
+}
+
+create section_562
+section_562 {
+pt3dclear()
+pt3dadd(248,379,62,2)
+pt3dadd(250.5,379.8,61.8,1.6492)
+pt3dadd(253.5,380.4,61.3,1.2649)
+pt3dadd(267,379,60,1.4142)
+}
+
+create section_563
+section_563 {
+pt3dclear()
+pt3dadd(205,381,74,3)
+pt3dadd(202,379.7727,74.1818,2.5713)
+pt3dadd(196,381,71,1.4142)
+}
+
+create section_564
+section_564 {
+pt3dclear()
+pt3dadd(205,381,74,3)
+pt3dadd(202,380.25,72.5,1.5)
+pt3dadd(195,381,71,1.4142)
+}
+
+create section_565
+section_565 {
+pt3dclear()
+pt3dadd(393.4898,161.3673,70,2.8284)
+pt3dadd(404,162,73,4.2426)
+}
+
+create section_566
+section_566 {
+pt3dclear()
+pt3dadd(50.4304,346.0886,75,2.8284)
+pt3dadd(53,344.9643,74.7143,3.1241)
+pt3dadd(55.9706,344,74.4412,4.0022)
+pt3dadd(61,339,74,1.4142)
+}
+
+create section_567
+section_567 {
+pt3dclear()
+pt3dadd(407.9286,140.2857,75,2.8284)
+}
+
+create section_568
+section_568 {
+pt3dclear()
+pt3dadd(408,140,75,3)
+pt3dadd(409.8125,137.5375,74.675,5.7636)
+pt3dadd(410,142.5,75,1)
+pt3dadd(414,135,74,3.4642)
+pt3dadd(415.25,132,74.25,0.70711)
+}
+
+create section_569
+section_569 {
+pt3dclear()
+pt3dadd(408,140,75,3)
+pt3dadd(408.1667,143,74.5238,3.3337)
+pt3dadd(408.2778,146,74.4722,2.765)
+pt3dadd(408.5625,149,73.875,1.6817)
+pt3dadd(412,143,74,2.5982)
+}
+
+create section_570
+section_570 {
+pt3dclear()
+pt3dadd(442,271,80,2.8284)
+pt3dadd(445,273,74,2.5982)
+}
+
+create section_571
+section_571 {
+pt3dclear()
+pt3dadd(330.5333,320.5667,90,2.8284)
+}
+
+create section_572
+section_572 {
+pt3dclear()
+pt3dadd(360.2647,189.8824,90,2.8284)
+pt3dadd(357.0526,191.6316,91.8421,3.3358)
+pt3dadd(354,192.803,92.9848,3.5469)
+pt3dadd(345,194,95,4.2426)
+}
+
+create section_573
+section_573 {
+pt3dclear()
+pt3dadd(367.9231,294.6593,90,2.8284)
+pt3dadd(373,292,92,2.8284)
+}
+
+create section_574
+section_574 {
+pt3dclear()
+pt3dadd(423.3871,346.6129,90,2.8284)
+}
+
+create section_575
+section_575 {
+pt3dclear()
+pt3dadd(117.4225,440.4366,100,2.8284)
+pt3dadd(118.3095,442.9762,100.4524,3.5138)
+pt3dadd(123,446,102,1.5)
+}
+
+create section_576
+section_576 {
+pt3dclear()
+pt3dadd(168.2815,304.6593,100,2.8284)
+pt3dadd(165,311,102,3.4642)
+}
+
+create section_577
+section_577 {
+pt3dclear()
+pt3dadd(276.1339,121.4464,100,2.8284)
+}
+
+create section_578
+section_578 {
+pt3dclear()
+pt3dadd(276,121,100,3)
+pt3dadd(277,118,100.5,3)
+pt3dadd(277.7647,115,101.2059,3.4949)
+pt3dadd(278.4375,112,101.4688,2.8757)
+pt3dadd(278.2857,109,101.4286,2.5754)
+pt3dadd(277.9375,106,101.4688,2.8757)
+pt3dadd(277.3636,103,101.2727,2.3373)
+pt3dadd(276.5,100.5,101.25,3.0414)
+pt3dadd(275.75,98,101.2143,3.5261)
+pt3dadd(271,93,101,2.1213)
+}
+
+create section_579
+section_579 {
+pt3dclear()
+pt3dadd(276,121,100,3)
+pt3dadd(275.6071,124,99.5714,2.3744)
+pt3dadd(275.3077,126.5,99.5769,2.3896)
+pt3dadd(274.1818,129.5,99.2273,2.4258)
+pt3dadd(273.1053,132.4211,98.6053,3.4117)
+pt3dadd(272.4286,135,98.4643,2.144)
+pt3dadd(271.3462,137.5,97.8462,2.4093)
+pt3dadd(270.4444,140.5,97.5833,3.1156)
+pt3dadd(269.1579,144,97.5,2.8644)
+pt3dadd(267.9063,147,97.5,2.4052)
+pt3dadd(266.9706,149.4706,97.4412,3.0903)
+pt3dadd(265.7895,152,96.7895,3.4697)
+pt3dadd(264.5357,154.9643,96.75,3.2474)
+pt3dadd(262.9706,157.8824,96.6765,3.0881)
+pt3dadd(261.0714,160.9643,96.6429,2.4422)
+pt3dadd(259.5385,163.4615,96.5,2.2728)
+pt3dadd(258.3846,165.3846,96.3846,2.5127)
+pt3dadd(257.0714,168,95.8571,2.1618)
+pt3dadd(254.8,170.2,97,1.5232)
+pt3dadd(252,176,98,1)
+}
+
+create section_580
+section_580 {
+pt3dclear()
+pt3dadd(283.2269,257.3361,100,2.8284)
+pt3dadd(288,252,100,1.4142)
+}
+
+create section_581
+section_581 {
+pt3dclear()
+pt3dadd(329.8125,172.5313,100,2.8284)
+}
+
+create section_582
+section_582 {
+pt3dclear()
+pt3dadd(330,173,100,3)
+pt3dadd(327.6667,170.381,100.381,2.8761)
+pt3dadd(325.9,167.325,100.625,3.8112)
+pt3dadd(329,173,101,2.8284)
+}
+
+create section_583
+section_583 {
+pt3dclear()
+pt3dadd(330,173,100,3)
+pt3dadd(328.75,170.5,103,1.118)
+pt3dadd(335,172,99,1.4142)
+}
+
+create section_584
+section_584 {
+pt3dclear()
+pt3dadd(330,173,100,3)
+pt3dadd(332.18,175.82,99.4,2.6719)
+pt3dadd(334.1818,178.7955,98.5455,2.5653)
+pt3dadd(336.3448,181.431,98.4138,3.865)
+}
+
+create section_585
+section_585 {
+pt3dclear()
+pt3dadd(150.0244,326.7596,105,2.8284)
+pt3dadd(152.6346,324.8077,104.4423,3.5738)
+pt3dadd(159,322,104,2.1213)
+}
+
+create section_586
+section_586 {
+pt3dclear()
+pt3dadd(145.4127,74.1905,105,2.8284)
+}
+
+create section_587
+section_587 {
+pt3dclear()
+pt3dadd(294.4865,212.7568,105,2.8284)
+pt3dadd(292,203,98,1.4142)
+}
+
+create section_588
+section_588 {
+pt3dclear()
+pt3dadd(313,145.7447,105,2.8284)
+pt3dadd(319,149,103,2.1213)
+}
+
+create section_589
+section_589 {
+pt3dclear()
+pt3dadd(401.2821,2.4231,105,2.8284)
+}
+
+create section_590
+section_590 {
+pt3dclear()
+pt3dadd(401,2,105,3)
+pt3dadd(403.6613,7.7903,105.7419,4.6557)
+pt3dadd(398,11,106,2.8284)
+}
+
+create section_591
+section_591 {
+pt3dclear()
+pt3dadd(401,2,105,3)
+pt3dadd(398,6.0263,105.7895,2.9773)
+pt3dadd(392,12,107,2.1213)
+}
+
+create section_592
+section_592 {
+pt3dclear()
+pt3dadd(48.8722,207.7611,110,2.8284)
+}
+
+create section_593
+section_593 {
+pt3dclear()
+pt3dadd(49,208,110,3)
+pt3dadd(52,206.8333,109.5,3.3333)
+pt3dadd(58,205,108,3.5355)
+pt3dadd(61.5,204.4375,107.9375,1.4252)
+}
+
+create section_594
+section_594 {
+pt3dclear()
+pt3dadd(49,208,110,3)
+pt3dadd(46,209.25,110.4318,3.5027)
+pt3dadd(40,213,111,2.5982)
+}
+
+create section_595
+section_595 {
+pt3dclear()
+pt3dadd(369.2909,131.4364,110,2.8284)
+}
+
+create section_596
+section_596 {
+pt3dclear()
+pt3dadd(369,131,110,3)
+pt3dadd(366,131,109,6)
+pt3dadd(358,125,109,1.7321)
+pt3dadd(355.5,124.25,110,2.5)
+pt3dadd(353.1818,121.5455,110.8636,1.9855)
+pt3dadd(350.875,119.875,111.75,2.4238)
+pt3dadd(349.15,117.8,112.3,2.7586)
+}
+
+create section_597
+section_597 {
+pt3dclear()
+pt3dadd(369,131,110,3)
+pt3dadd(369.25,128,110.25,1.5811)
+pt3dadd(363,121,109,1.4142)
+}
+
+create section_598
+section_598 {
+pt3dclear()
+pt3dadd(369,131,110,3)
+pt3dadd(369.3333,134,109.5833,2.7938)
+pt3dadd(364,143,108,1.4142)
+}
+
+create section_599
+section_599 {
+pt3dclear()
+pt3dadd(369,131,110,3)
+pt3dadd(366,130.25,111,3.5)
+pt3dadd(364,142,108,1.7321)
+pt3dadd(365.5714,144.5,107.7857,2.1853)
+pt3dadd(367.5,147.45,107.5,2.2383)
+pt3dadd(370.1667,148.6667,108.5,2.8674)
+pt3dadd(373,150,108.5,3)
+}
+
+create section_600
+section_600 {
+pt3dclear()
+pt3dadd(374.1429,2.6857,110,2.8284)
+}
+
+create section_601
+section_601 {
+pt3dclear()
+pt3dadd(374,3,110,3)
+pt3dadd(374.381,9,108.6667,3.2552)
+pt3dadd(374.875,12,107.625,2.2638)
+pt3dadd(375.2857,14.5,106.8571,2.4453)
+}
+
+create section_602
+section_602 {
+pt3dclear()
+pt3dadd(374,3,110,3)
+pt3dadd(377,5.0833,108.8333,1.8634)
+pt3dadd(379.3333,2.6667,108.25,0.89753)
+pt3dadd(372,14,108,3.4642)
+}
+
+create section_603
+section_603 {
+pt3dclear()
+pt3dadd(375,15,107,2)
+pt3dadd(375.1111,17.5,106.2778,1.8626)
+pt3dadd(374.9444,20.5,105.5556,3.1131)
+}
+
+create section_604
+section_604 {
+pt3dclear()
+pt3dadd(375,15,107,2)
+pt3dadd(376.6429,15.5,104.5,1.2857)
+pt3dadd(371,10,108,1.4142)
+}
+
+create section_605
+section_605 {
+pt3dclear()
+pt3dadd(375,21,106,3)
+pt3dadd(377.6,23.8,103,1.2649)
+pt3dadd(381,28,100,1.4142)
+}
+
+create section_606
+section_606 {
+pt3dclear()
+pt3dadd(375,21,106,3)
+pt3dadd(374.55,24,104.8,2.184)
+}
+
+create section_607
+section_607 {
+pt3dclear()
+pt3dadd(375,24,105,2)
+pt3dadd(377.25,26.25,102.5,0.70711)
+pt3dadd(371,30,103,1.4142)
+}
+
+create section_608
+section_608 {
+pt3dclear()
+pt3dadd(375,24,105,2)
+pt3dadd(374.3636,26.5,104.2273,2.3373)
+pt3dadd(373,29.5,103.3333,2.1082)
+pt3dadd(372.0357,32.5,102.4286,2.9321)
+pt3dadd(370.3889,36,101.2778,1.8626)
+pt3dadd(368.5,38.5,100.6875,2.0349)
+pt3dadd(367,41.3333,100.5333,2.2321)
+pt3dadd(365.25,43.5,100,1.5)
+pt3dadd(363.75,46.5,99.5,1.5)
+pt3dadd(362.1875,49.4375,98.375,1.6489)
+pt3dadd(361,51.5,97.25,3.0414)
+pt3dadd(359.3636,55,96.2273,2.3373)
+pt3dadd(358,57.5,95.4167,2.1667)
+pt3dadd(356.6071,60.5,94.6429,2.8003)
+pt3dadd(354.5,63.7,94.225,2.6387)
+pt3dadd(352.0938,66.0313,93.4063,2.6597)
+pt3dadd(349,67.5,92.75,3.0414)
+pt3dadd(346,69.2083,92.2917,2.6484)
+pt3dadd(343,70.4063,91.5313,2.4319)
+pt3dadd(340.5556,71.2778,91.1111,2.5676)
+}
+
+create section_609
+section_609 {
+pt3dclear()
+pt3dadd(341,71,91,3)
+pt3dadd(338.1667,73.3333,90.2917,2.1747)
+pt3dadd(335.7813,74.9688,89.6875,2.7315)
+pt3dadd(333.0625,77.0313,89.125,2.2543)
+pt3dadd(330.5938,78.5625,88.4688,2.3832)
+pt3dadd(328.5,80,87.5769,2.1716)
+pt3dadd(326.5,81.125,87.2917,2.3244)
+pt3dadd(324.5,82,86.5,2)
+pt3dadd(322.5,82.75,86.2,2.5318)
+pt3dadd(320,83.4091,85.5455,2.1837)
+pt3dadd(317.5,83.75,85.3,2.5318)
+pt3dadd(315,84.6429,84.7143,1.767)
+pt3dadd(312.5,84.7778,84.4444,1.9116)
+pt3dadd(310.5,85.0714,83.7143,2.1853)
+pt3dadd(308.5,84.9167,83.6667,1.8634)
+pt3dadd(306.5,84.5,83.5,2)
+pt3dadd(304.5,84.5,83.4375,2.0039)
+pt3dadd(302.5,84.25,83.0417,2.5014)
+}
+
+create section_610
+section_610 {
+pt3dclear()
+pt3dadd(341,71,91,3)
+pt3dadd(339.25,72.5,94,1.118)
+pt3dadd(343,67,92,1.4142)
+}
+
+create section_611
+section_611 {
+pt3dclear()
+pt3dadd(303,84,83,3)
+pt3dadd(300,83.25,83.25,2.5495)
+pt3dadd(297,82.375,83.1875,2.3352)
+pt3dadd(294.5,81.6111,83.2222,1.8626)
+pt3dadd(299,73,78,1)
+}
+
+create section_612
+section_612 {
+pt3dclear()
+pt3dadd(303,84,83,3)
+pt3dadd(303.9211,82.5789,80,2.3164)
+pt3dadd(308,87,84,1.4142)
+}
+
+create section_613
+section_613 {
+pt3dclear()
+pt3dadd(23.3071,226.2047,115,2.8284)
+}
+
+create section_614
+section_614 {
+pt3dclear()
+pt3dadd(23,226,115,3)
+pt3dadd(25.4677,223.4677,114.2903,3.2711)
+pt3dadd(29,218,113,3.4642)
+}
+
+create section_615
+section_615 {
+pt3dclear()
+pt3dadd(23,226,115,3)
+pt3dadd(20.5476,228.2381,116.2976,4.6465)
+pt3dadd(29,222,113,3.4642)
+}
+
+create section_616
+section_616 {
+pt3dclear()
+pt3dadd(146.7565,207.2362,115,2.8284)
+}
+
+create section_617
+section_617 {
+pt3dclear()
+pt3dadd(147,207,115,3)
+pt3dadd(146.7895,204,114.6316,3.6468)
+pt3dadd(147,200.5,114.875,1.0308)
+}
+
+create section_618
+section_618 {
+pt3dclear()
+pt3dadd(147,207,115,3)
+pt3dadd(144.5769,209.3077,112,1.9852)
+pt3dadd(148,199,113,2.5982)
+pt3dadd(147.5435,196,113.7174,2.9674)
+pt3dadd(147.4118,193,114.7647,2.8727)
+}
+
+create section_619
+section_619 {
+pt3dclear()
+pt3dadd(147,207,115,3)
+pt3dadd(147,210,114.3846,2.3484)
+}
+
+create section_620
+section_620 {
+pt3dclear()
+pt3dadd(147,210,114,2)
+pt3dadd(145.3571,211.8571,111.5,1.8571)
+pt3dadd(131,215,114,2.1213)
+pt3dadd(129.625,217.5,114.375,1.2748)
+}
+
+create section_621
+section_621 {
+pt3dclear()
+pt3dadd(147,210,114,2)
+pt3dadd(147,212.5,114,2.2361)
+}
+
+create section_622
+section_622 {
+pt3dclear()
+pt3dadd(147,213,114,2)
+pt3dadd(147.1364,215.5,114.2273,2.3373)
+pt3dadd(147.3846,218.5,114.2692,2.8211)
+}
+
+create section_623
+section_623 {
+pt3dclear()
+pt3dadd(147,213,114,2)
+pt3dadd(146.75,214.75,111.5,0.70711)
+}
+
+create section_624
+section_624 {
+pt3dclear()
+pt3dadd(147,219,114,3)
+pt3dadd(147.8667,222,114.7333,3.3099)
+pt3dadd(147,230,117,2.1213)
+pt3dadd(147.32,232.5,117.82,3.3792)
+pt3dadd(146.5714,236,119.2619,2.9048)
+pt3dadd(146.1471,239,120,2.8848)
+pt3dadd(145.0556,242,120.9167,3.1156)
+pt3dadd(144.2083,245,121.7083,2.6484)
+pt3dadd(143.3462,248,122.2308,3.3512)
+pt3dadd(142.4091,251,122.2727,2.8705)
+pt3dadd(141.7917,254,122.2917,2.6484)
+pt3dadd(141.3667,257,122.2333,3.3099)
+pt3dadd(140.6333,260,122.2333,3.3099)
+pt3dadd(140.75,263,122.0556,3.5018)
+pt3dadd(141,266.5,122,1)
+}
+
+create section_625
+section_625 {
+pt3dclear()
+pt3dadd(147,219,114,3)
+pt3dadd(146.7373,218.2542,111,5.1215)
+pt3dadd(149,226,116,2.8284)
+}
+
+create section_626
+section_626 {
+pt3dclear()
+pt3dadd(147,193,115,3)
+pt3dadd(146.68,190,115.86,3.3716)
+pt3dadd(146.5,187,117.125,3.0923)
+pt3dadd(145.84,184,118.26,3.6514)
+pt3dadd(141,177,122,2.8284)
+pt3dadd(139.0833,174,122.3333,1.8634)
+}
+
+create section_627
+section_627 {
+pt3dclear()
+pt3dadd(147,193,115,3)
+pt3dadd(144.4545,192.1818,118,1.7463)
+pt3dadd(130,188,119,1.4142)
+}
+
+create section_628
+section_628 {
+pt3dclear()
+pt3dadd(242.0526,295.9211,115,2.8284)
+pt3dadd(245,294.9,112.5,2.0591)
+pt3dadd(247.4583,293.4167,110.875,1.9826)
+pt3dadd(249.4375,291.4375,109.4375,2.3015)
+pt3dadd(251.4545,289.8182,108.1818,2.6629)
+pt3dadd(254,288.75,107.5,1.5)
+pt3dadd(266,283,106,2.1213)
+}
+
+create section_629
+section_629 {
+pt3dclear()
+pt3dadd(392.6809,169.5745,115,2.8284)
+}
+
+create section_630
+section_630 {
+pt3dclear()
+pt3dadd(143.9423,181.0769,120,2.8284)
+pt3dadd(140,175,122,2.5982)
+}
+
+create section_631
+section_631 {
+pt3dclear()
+pt3dadd(146.1692,238.8308,120,2.8284)
+pt3dadd(141,244,121,1.5)
+}
+
+create section_632
+section_632 {
+pt3dclear()
+pt3dadd(319.7073,177.2439,120,2.8284)
+pt3dadd(321,184,118,1.4142)
+}
+
+create section_633
+section_633 {
+pt3dclear()
+pt3dadd(428.5818,415.6909,120,2.8284)
+}
+
+create section_634
+section_634 {
+pt3dclear()
+pt3dadd(429,416,120,3)
+pt3dadd(426.5417,413.6667,120.5625,3.3242)
+pt3dadd(426,411,121.4286,2.1759)
+pt3dadd(425.6667,408.5,121.5333,2.5131)
+}
+
+create section_635
+section_635 {
+pt3dclear()
+pt3dadd(429,416,120,3)
+pt3dadd(432,417.4,119.4333,3.0207)
+pt3dadd(435,417.6923,118.4231,2.5303)
+pt3dadd(438,417.9231,117.6154,2.2871)
+pt3dadd(440.5,417.7188,117.5,2.7507)
+pt3dadd(444,417.7333,117.2667,3.7906)
+pt3dadd(436,421,118,1.5)
+}
+
+create section_636
+section_636 {
+pt3dclear()
+pt3dadd(426,409,122,3)
+pt3dadd(425.8,406,122.3667,2.5095)
+pt3dadd(426.0714,403,122.4643,2.858)
+pt3dadd(426.8214,400,122.8214,2.4432)
+pt3dadd(427.75,397.5,123.4286,2.6429)
+pt3dadd(428.9286,395,123.5357,2.144)
+pt3dadd(430.1154,392.5,124.1154,1.9292)
+pt3dadd(431.4167,390.5,124.4583,2.0497)
+pt3dadd(432.5833,388.5417,124.5,2.0497)
+pt3dadd(434.1923,386.5,125.0385,2.3859)
+pt3dadd(435.3,384.5,125.1,2.4083)
+pt3dadd(436.45,382.5,125.2,2.184)
+pt3dadd(437.6,380.55,125.15,2.2226)
+pt3dadd(439.1875,378.5,125.1875,1.741)
+pt3dadd(440.3333,376.5,125.1667,2.357)
+pt3dadd(441.45,374.55,125.15,2.3043)
+pt3dadd(442.7,372.55,125.2,1.8788)
+pt3dadd(444.4231,370.5385,125.0769,2.3484)
+pt3dadd(445.6923,368.6538,125.1923,2.435)
+pt3dadd(446.75,366.5,125.25,1.5811)
+pt3dadd(447.5,364.5,125.25,1.118)
+pt3dadd(442,369,125,1.4142)
+}
+
+create section_637
+section_637 {
+pt3dclear()
+pt3dadd(426,409,122,3)
+pt3dadd(423.25,409.75,125,0.70711)
+pt3dadd(424,416,121,2.1213)
+}
+
+create section_638
+section_638 {
+pt3dclear()
+pt3dadd(18.0732,428.9512,125,2.8284)
+}
+
+create section_639
+section_639 {
+pt3dclear()
+pt3dadd(18,429,125,3)
+pt3dadd(20.5,426.5789,124,3.9701)
+pt3dadd(30,417,121,3.4642)
+pt3dadd(31.9643,414.2857,121,3.9699)
+pt3dadd(33.1,410.85,121.05,3.2156)
+pt3dadd(34.6724,408.2759,121.0862,4.3555)
+pt3dadd(36.1,404.85,121.05,3.2156)
+pt3dadd(37.775,402.275,121.3,4.2503)
+}
+
+create section_640
+section_640 {
+pt3dclear()
+pt3dadd(18,429,125,3)
+pt3dadd(15,430.1875,125.6875,1.741)
+pt3dadd(19,435,125,1)
+}
+
+create section_641
+section_641 {
+pt3dclear()
+pt3dadd(78.9565,280.5362,125,2.8284)
+}
+
+create section_642
+section_642 {
+pt3dclear()
+pt3dadd(79,281,125,3)
+pt3dadd(81.8125,278.8125,125.7813,3.1381)
+pt3dadd(91,274,128,2.1213)
+pt3dadd(93.5,272.25,128.75,1.5811)
+pt3dadd(96.1786,269.8571,129.8571,2.3915)
+pt3dadd(98.3571,267.9643,131,2.2235)
+pt3dadd(100.3125,266.0938,131.9063,2.1991)
+pt3dadd(102.5,264.5556,132.8889,1.6518)
+}
+
+create section_643
+section_643 {
+pt3dclear()
+pt3dadd(79,281,125,3)
+pt3dadd(76.0625,282.6875,122.5,2.767)
+pt3dadd(67,285,123,3.5355)
+}
+
+create section_644
+section_644 {
+pt3dclear()
+pt3dadd(79,281,125,3)
+pt3dadd(76.5208,282.9792,123.7708,4.1288)
+pt3dadd(68,287,123,3.5355)
+}
+
+create section_645
+section_645 {
+pt3dclear()
+pt3dadd(103,265,133,2)
+pt3dadd(105.4,263.1,133,1.8111)
+pt3dadd(108,274,136,1.4142)
+}
+
+create section_646
+section_646 {
+pt3dclear()
+pt3dadd(103,265,133,2)
+pt3dadd(105.0833,262.6667,134.3333,1.9791)
+pt3dadd(107.1154,260.7308,135.2692,2.3077)
+pt3dadd(108.8966,258.7414,136.2759,2.8877)
+pt3dadd(110.4167,256.2167,137.5333,4.0768)
+pt3dadd(107,249,140,2.1213)
+}
+
+create section_647
+section_647 {
+pt3dclear()
+pt3dadd(155.1364,294.4773,125,2.8284)
+pt3dadd(152,290,122,2.5982)
+}
+
+create section_648
+section_648 {
+pt3dclear()
+pt3dadd(396.8774,75.3208,125,2.8284)
+pt3dadd(396.75,72,125.8077,3.5211)
+pt3dadd(396,68.9583,126.5,3.3427)
+pt3dadd(395.8478,66,127.5,3.6957)
+pt3dadd(395.3125,62.6875,128.1875,2.7243)
+pt3dadd(394.8269,60,128.7692,4.6104)
+pt3dadd(399,65,128,2.1213)
+}
+
+create section_649
+section_649 {
+pt3dclear()
+pt3dadd(420.2754,313.7391,125,2.8284)
+pt3dadd(413,314,126,1.4142)
+}
+
+create section_650
+section_650 {
+pt3dclear()
+pt3dadd(265.6222,154.6111,130,2.8284)
+pt3dadd(263.1,153.3333,129.5333,3.34)
+pt3dadd(260,152.2,129.3,3.6222)
+pt3dadd(248,148,128,2.1213)
+pt3dadd(245.5769,146.4615,128.2308,2.1689)
+pt3dadd(243.7,144.5,128.2,3.0854)
+pt3dadd(241.2188,142.9375,128.2188,3.2052)
+pt3dadd(238.45,140.9,128.2,4.3139)
+}
+
+create section_651
+section_651 {
+pt3dclear()
+pt3dadd(394.3596,56.3708,130,2.8284)
+}
+
+create section_652
+section_652 {
+pt3dclear()
+pt3dadd(406.2449,148.5714,130,2.8284)
+pt3dadd(409,150.4792,131.2083,3.28)
+pt3dadd(411.64,152.28,131.96,2.9049)
+pt3dadd(412.9286,155,132.5357,2.144)
+pt3dadd(413.2727,157.5,133.1364,2.0021)
+pt3dadd(413.0556,160.5,133.5556,1.5713)
+pt3dadd(412.3462,163.5,134.0385,2.4855)
+pt3dadd(411.55,166.5,134.15,2.0248)
+pt3dadd(410.8889,169.5,134.2778,1.8626)
+pt3dadd(409.5,172.5,134.5,2)
+pt3dadd(408,175.3333,135.1667,1.972)
+pt3dadd(405.8333,177.2778,135.2222,1.5113)
+pt3dadd(403.7143,179.2143,135.6429,1.6963)
+pt3dadd(401.5,180.25,136.25,0.70711)
+pt3dadd(409,177,135,1.4142)
+}
+
+create section_653
+section_653 {
+pt3dclear()
+pt3dadd(10.4286,160.1513,135,2.8284)
+pt3dadd(21,165,134,3.5355)
+}
+
+create section_654
+section_654 {
+pt3dclear()
+pt3dadd(390.022,430.4176,135,2.8284)
+}
+
+create section_655
+section_655 {
+pt3dclear()
+pt3dadd(390,430,135,3)
+pt3dadd(390.9524,427,135.7143,2.9604)
+pt3dadd(391.9091,424,136.5,3.3353)
+pt3dadd(392.5645,421,137.1774,4.1012)
+pt3dadd(393.1429,417.8214,137.3929,4.3059)
+pt3dadd(393.7222,414.9722,137.5833,4.5222)
+pt3dadd(393,408,136,2.1213)
+}
+
+create section_656
+section_656 {
+pt3dclear()
+pt3dadd(390,430,135,3)
+pt3dadd(388.8864,433,134.2727,2.8097)
+pt3dadd(387.4167,436,133.4444,2.9695)
+pt3dadd(385.5,439,132.4231,2.1716)
+pt3dadd(384.0357,441.4286,131.2857,1.9808)
+pt3dadd(382.2,443.4667,130.2333,2.0287)
+pt3dadd(380.3667,445.4333,129.4667,2.2716)
+pt3dadd(377.5,446.9,128.3,1.6125)
+pt3dadd(384,445,131,1)
+}
+
+create section_657
+section_657 {
+pt3dclear()
+pt3dadd(269.9545,327.6818,140,2.8284)
+}
+
+create section_658
+section_658 {
+pt3dclear()
+pt3dadd(270,328,140,3)
+pt3dadd(268.8636,325.0227,142.2045,3.5635)
+pt3dadd(266,320,146,1.7321)
+}
+
+create section_659
+section_659 {
+pt3dclear()
+pt3dadd(270,328,140,3)
+pt3dadd(270.925,331,138.15,2.9347)
+pt3dadd(273,338,134,2.1213)
+}
+
+create section_660
+section_660 {
+pt3dclear()
+pt3dadd(344.4333,317.1333,140,2.8284)
+}
+
+create section_661
+section_661 {
+pt3dclear()
+pt3dadd(344,317,140,3)
+pt3dadd(341.8542,314.2708,139.0417,3.1308)
+pt3dadd(340.0526,311.3947,138.3158,3.8569)
+pt3dadd(328,303,136,2.1213)
+pt3dadd(325.5,302.75,135.3,2.5318)
+pt3dadd(323,301.7143,134.2143,3.0136)
+pt3dadd(320.1071,300.0714,133.2857,2.897)
+pt3dadd(317.2059,298.0588,132.7353,3.3771)
+pt3dadd(314.8077,295.3846,132.6154,3.4786)
+pt3dadd(314.4091,292,132.6818,2.8415)
+}
+
+create section_662
+section_662 {
+pt3dclear()
+pt3dadd(344,317,140,3)
+pt3dadd(347,317.9643,140.8214,2.9983)
+pt3dadd(350,318.7353,141.6471,2.6261)
+pt3dadd(352.9762,320.381,142.7381,3.579)
+pt3dadd(365,321,146,2)
+pt3dadd(367.5,321.6,146.7,1.2649)
+}
+
+create section_663
+section_663 {
+pt3dclear()
+pt3dadd(314,292,133,3)
+pt3dadd(313.8846,289,132.7308,2.8211)
+pt3dadd(313.5357,286,132.7143,3.1241)
+pt3dadd(312.75,283,132.75,3.5355)
+pt3dadd(305,272,134,2.1213)
+pt3dadd(302.5278,271.75,133.9444,4.6832)
+}
+
+create section_664
+section_664 {
+pt3dclear()
+pt3dadd(314,292,133,3)
+pt3dadd(313.25,289,134.5,1.5)
+pt3dadd(312,296,133,2.1213)
+}
+
+create section_665
+section_665 {
+pt3dclear()
+pt3dadd(439.4925,217.1045,140,2.8284)
+}
+
+create section_666
+section_666 {
+pt3dclear()
+pt3dadd(79.1951,393.4878,145,2.8284)
+}
+
+create section_667
+section_667 {
+pt3dclear()
+pt3dadd(79,393,145,3)
+pt3dadd(79.3182,390,146.0455,1.7463)
+pt3dadd(79.1364,387.5,147.2273,2.3373)
+pt3dadd(79.25,385.5,147.8,2.5318)
+pt3dadd(79.3333,383,148.3333,2.357)
+pt3dadd(79.25,380.5,148.5,2.5)
+pt3dadd(79,374,149,1.4142)
+}
+
+create section_668
+section_668 {
+pt3dclear()
+pt3dadd(79,393,145,3)
+pt3dadd(79.3333,396,143.5667,2.4891)
+pt3dadd(79.4286,398.5,142.9643,2.144)
+pt3dadd(79.9583,401.5,141.375,2.0983)
+pt3dadd(80.8889,404.5,139.6944,2.6206)
+pt3dadd(81.9375,408,138.4375,1.8792)
+pt3dadd(82.3889,410.5,137.2778,1.8626)
+pt3dadd(82.7143,413.5,136.6429,2.4453)
+pt3dadd(83.25,416.5,136.5,2.5)
+pt3dadd(83.2143,420,136.1429,2.4453)
+pt3dadd(88,432,133,2.1213)
+pt3dadd(87.85,434.5,131.8,2.377)
+pt3dadd(88.5,437.5,130.8333,2.1082)
+pt3dadd(90.1071,440.4643,130,3.102)
+pt3dadd(90.8462,443,129.3846,2.4325)
+pt3dadd(91.3333,445.5,128.8333,2.357)
+}
+
+create section_669
+section_669 {
+pt3dclear()
+pt3dadd(107.4091,129.875,145,2.8284)
+pt3dadd(110,123,145,1)
+}
+
+create section_670
+section_670 {
+pt3dclear()
+pt3dadd(147.3269,438.9808,145,2.8284)
+}
+
+create section_671
+section_671 {
+pt3dclear()
+pt3dadd(147,439,145,3)
+pt3dadd(144,439,146,2)
+pt3dadd(141.5,438.8636,147.0909,1.9113)
+pt3dadd(139.5,438.625,147.875,2.2638)
+pt3dadd(137.5,438.5,148.5,2)
+pt3dadd(143,442,146,1.4142)
+}
+
+create section_672
+section_672 {
+pt3dclear()
+pt3dadd(147,439,145,3)
+pt3dadd(150,439.25,143.75,2.5495)
+pt3dadd(153,439.5,143.25,2.0616)
+pt3dadd(155.5,439.75,142.6667,1.5366)
+pt3dadd(158.5,439.3333,142.2222,2.3986)
+}
+
+create section_673
+section_673 {
+pt3dclear()
+pt3dadd(159,439,142,2)
+pt3dadd(160.8333,441.25,139.6667,1.675)
+pt3dadd(162.25,443.5,139,1.5)
+pt3dadd(166,438,141,2.8284)
+}
+
+create section_674
+section_674 {
+pt3dclear()
+pt3dadd(159,439,142,2)
+pt3dadd(161.5,438.6111,141.7222,1.8626)
+pt3dadd(164.5,438.4167,141.5833,2.3214)
+pt3dadd(167.5,437.8889,141.2778,1.8626)
+pt3dadd(170.5,438.25,140.75,1.5811)
+pt3dadd(173.5,438.1429,140.2857,1.767)
+pt3dadd(176.5,438.25,139.7,2.5318)
+pt3dadd(180,438.1111,139.7222,1.8626)
+pt3dadd(182.5,437.6111,139.7222,1.8626)
+pt3dadd(185.5,437.3889,139.7778,1.8626)
+pt3dadd(188.5,437,139.875,1.0308)
+pt3dadd(204,436,140,1)
+}
+
+create section_675
+section_675 {
+pt3dclear()
+pt3dadd(154.875,36.5,145,2.8284)
+}
+
+create section_676
+section_676 {
+pt3dclear()
+pt3dadd(155,37,145,3)
+pt3dadd(152,35.9167,144.0833,2.3214)
+pt3dadd(149.5,34.9167,143.4167,2.4608)
+pt3dadd(147.5,33.75,142.75,2.5495)
+pt3dadd(145.0769,31.9615,142.2692,2.1689)
+pt3dadd(142.6333,30.5,141.7667,3.0478)
+pt3dadd(140.0455,29.1364,141.3182,2.4747)
+pt3dadd(137.5,27.8333,140.8333,2.357)
+pt3dadd(135.55,26.8,140.9,2.7586)
+pt3dadd(133.0357,25.2857,140.7857,2.7673)
+pt3dadd(130.0556,23.25,140.6667,3.5176)
+pt3dadd(122,18,140,2.1213)
+}
+
+create section_677
+section_677 {
+pt3dclear()
+pt3dadd(155,37,145,3)
+pt3dadd(158,36.8462,145.8846,2.4325)
+pt3dadd(160.5,36.9545,146.9545,2.1145)
+pt3dadd(163.5,37.25,148,2.5)
+}
+
+create section_678
+section_678 {
+pt3dclear()
+pt3dadd(164,37,148,3)
+pt3dadd(167,36.5,148.5,2)
+pt3dadd(161,34,147,1.7321)
+}
+
+create section_679
+section_679 {
+pt3dclear()
+pt3dadd(164,37,148,3)
+pt3dadd(165.1111,37.6667,145,1.5436)
+pt3dadd(160,35,146,2.5982)
+}
+
+create section_680
+section_680 {
+pt3dclear()
+pt3dadd(187.2851,326.862,145,2.8284)
+}
+
+create section_681
+section_681 {
+pt3dclear()
+pt3dadd(187,327,145,3)
+pt3dadd(184.8519,324.5,144.9259,4.3502)
+pt3dadd(183.5,322.0769,144.9615,3.6415)
+pt3dadd(181,315,144,2.1213)
+}
+
+create section_682
+section_682 {
+pt3dclear()
+pt3dadd(187,327,145,3)
+pt3dadd(189.3621,329.3621,145,3.9366)
+pt3dadd(186,323,145,2.1213)
+}
+
+create section_683
+section_683 {
+pt3dclear()
+pt3dadd(252.8112,421.2797,145,2.8284)
+pt3dadd(250.2647,423.1029,144.2794,3.297)
+pt3dadd(247.5,424.8913,143.6522,4.8955)
+pt3dadd(243,434,143,2.8284)
+pt3dadd(241.3667,437,143,2.7333)
+pt3dadd(239.2778,439.9722,143.0556,2.7268)
+pt3dadd(237.0588,442.9412,143.1176,2.8943)
+pt3dadd(234.975,445.875,143.4,3.1631)
+}
+
+create section_684
+section_684 {
+pt3dclear()
+pt3dadd(298.2658,415.5823,145,2.8284)
+pt3dadd(292,412,147,2.5982)
+}
+
+create section_685
+section_685 {
+pt3dclear()
+pt3dadd(316.1341,398.7805,145,2.8284)
+pt3dadd(314,393,147,2.8284)
+}
+
+create section_686
+section_686 {
+pt3dclear()
+pt3dadd(107.9118,398.8235,0,2.5982)
+pt3dadd(116,389,16,1)
+}
+
+create section_687
+section_687 {
+pt3dclear()
+pt3dadd(426.9206,379.7143,0,2.5982)
+pt3dadd(426,388,26,1.4142)
+}
+
+create section_688
+section_688 {
+pt3dclear()
+pt3dadd(156.122,90.0488,5,2.5982)
+pt3dadd(147,80,12,2.1213)
+}
+
+create section_689
+section_689 {
+pt3dclear()
+pt3dadd(385.8824,34.5882,5,2.5982)
+}
+
+create section_690
+section_690 {
+pt3dclear()
+pt3dadd(372.4667,343.4667,10,2.5982)
+pt3dadd(371.3622,344.3214,12.8418,7.3163)
+pt3dadd(363,346,18,2.8284)
+}
+
+create section_691
+section_691 {
+pt3dclear()
+pt3dadd(414.0444,430.1333,10,2.5982)
+pt3dadd(411,436,12,2.1213)
+}
+
+create section_692
+section_692 {
+pt3dclear()
+pt3dadd(126.1818,211.7727,15,2.5982)
+pt3dadd(128.1667,209.0833,12.5,2.3393)
+pt3dadd(129.7857,206.7143,11.5,2.6069)
+pt3dadd(129.3,205.9333,9,2.4585)
+pt3dadd(128.75,204.75,6.5,0.70711)
+pt3dadd(125,197,9,1.4142)
+}
+
+create section_693
+section_693 {
+pt3dclear()
+pt3dadd(161.7442,115.7209,15,2.5982)
+pt3dadd(161,119,15.5,2)
+pt3dadd(164,114,14,2.5982)
+}
+
+create section_694
+section_694 {
+pt3dclear()
+pt3dadd(315.623,42.9344,20,2.5982)
+pt3dadd(319,44.75,17.5,1.5)
+pt3dadd(321.5,46,16.5,2)
+pt3dadd(324.5,46.25,16,1.5)
+}
+
+create section_695
+section_695 {
+pt3dclear()
+pt3dadd(325,46,16,2)
+pt3dadd(325.75,43.5,15.5,1.5)
+}
+
+create section_696
+section_696 {
+pt3dclear()
+pt3dadd(325,46,16,2)
+pt3dadd(324.25,48.5,15.5,3.5)
+pt3dadd(313,46,15,1)
+}
+
+create section_697
+section_697 {
+pt3dclear()
+pt3dadd(325,46,16,2)
+pt3dadd(327.5,46.75,15.5,2.5)
+pt3dadd(327,48,5,1.4142)
+}
+
+create section_698
+section_698 {
+pt3dclear()
+pt3dadd(222.5426,384.1168,25,2.5982)
+}
+
+create section_699
+section_699 {
+pt3dclear()
+pt3dadd(223,384,25,3)
+pt3dadd(222.9063,381,25.375,2.9108)
+pt3dadd(222.5,378,25.1538,3.0157)
+pt3dadd(222.4615,375,25.1538,2.9392)
+pt3dadd(221.8125,372,25.0938,2.7479)
+pt3dadd(221.9375,369,25.0313,2.8757)
+pt3dadd(222.2941,366,24.9706,3.4123)
+pt3dadd(222.5357,363,24.7857,3.1241)
+pt3dadd(223.7941,360,24.9118,3.4163)
+pt3dadd(224.6944,357,24.6667,3.6265)
+pt3dadd(228,348,24,2.8284)
+pt3dadd(228.1667,345,23.4762,3.3337)
+pt3dadd(228.5556,342,22.9167,3.1156)
+pt3dadd(229.6875,339,22.875,2.73)
+}
+
+create section_700
+section_700 {
+pt3dclear()
+pt3dadd(223,384,25,3)
+pt3dadd(223.775,387,25.55,3.5514)
+pt3dadd(224.3333,390.4167,26,3.4359)
+pt3dadd(224.381,393,26.1667,3.2552)
+pt3dadd(224.4524,396,26.2143,2.9604)
+pt3dadd(224.0952,399,26.2619,3.2258)
+pt3dadd(223.9474,402,26.1316,3.1164)
+pt3dadd(223.4444,405,26.0833,3.1156)
+pt3dadd(222.75,408,26,3.5)
+pt3dadd(222.4286,411.3571,25.9286,3.0673)
+pt3dadd(220.5,414,25.75,3.0414)
+pt3dadd(219.2353,416.9118,25.5588,3.0729)
+pt3dadd(217.1538,419.9615,25.2692,2.7327)
+pt3dadd(215.25,423,24.5,1.5)
+pt3dadd(213.375,425.5,24.375,1.2748)
+pt3dadd(205,433,22,1.4142)
+}
+
+create section_701
+section_701 {
+pt3dclear()
+pt3dadd(325.1027,71.1429,25,2.5982)
+pt3dadd(323.2368,68.1053,25.1579,3.5467)
+pt3dadd(329,72,26,2.1213)
+}
+
+create section_702
+section_702 {
+pt3dclear()
+pt3dadd(430.7368,439.9474,25,2.5982)
+}
+
+create section_703
+section_703 {
+pt3dclear()
+pt3dadd(62.7826,2.1087,30,2.5982)
+pt3dadd(60,5.2,30.4,1.2649)
+pt3dadd(68,14,29,2.5982)
+}
+
+create section_704
+section_704 {
+pt3dclear()
+pt3dadd(298.2667,147.2,30,2.5982)
+pt3dadd(304,152,27,1.4142)
+}
+
+create section_705
+section_705 {
+pt3dclear()
+pt3dadd(317.7619,434.381,30,2.5982)
+}
+
+create section_706
+section_706 {
+pt3dclear()
+pt3dadd(431.4615,115.8462,30,2.5982)
+}
+
+create section_707
+section_707 {
+pt3dclear()
+pt3dadd(431,116,30,3)
+pt3dadd(429.8036,113.0893,32.4107,3.616)
+pt3dadd(425,105,34,2.1213)
+pt3dadd(424.9231,102.5,34.4615,3.9554)
+}
+
+create section_708
+section_708 {
+pt3dclear()
+pt3dadd(431,116,30,3)
+pt3dadd(432.7188,119,28.1875,2.5164)
+pt3dadd(437,126,25,2.1213)
+}
+
+create section_709
+section_709 {
+pt3dclear()
+pt3dadd(91.26,213.72,35,2.5982)
+pt3dadd(88,226,40,1.4142)
+}
+
+create section_710
+section_710 {
+pt3dclear()
+pt3dadd(306.0278,439.2361,35,2.5982)
+pt3dadd(300,441,37,3.4642)
+}
+
+create section_711
+section_711 {
+pt3dclear()
+pt3dadd(380.2588,294.3529,35,2.5982)
+pt3dadd(378.4412,296.9118,35.8824,3.2149)
+pt3dadd(376.4412,299.9118,36.7059,3.4355)
+pt3dadd(374.6176,302.9706,37.4706,3.2364)
+pt3dadd(373.2,305.9,37.7,3.0265)
+pt3dadd(371.1842,308.9474,38.5526,2.7815)
+pt3dadd(377,306,37,1)
+}
+
+create section_712
+section_712 {
+pt3dclear()
+pt3dadd(415.3158,326.7895,35,2.5982)
+pt3dadd(419,327,32,2)
+}
+
+create section_713
+section_713 {
+pt3dclear()
+pt3dadd(13,99.7143,45,2.5982)
+pt3dadd(13,99,50,2.1213)
+}
+
+create section_714
+section_714 {
+pt3dclear()
+pt3dadd(405.6897,1.7586,50,2.5982)
+pt3dadd(405.75,9,51.375,2.5125)
+pt3dadd(405.75,10.75,48,0.70711)
+pt3dadd(404,16,55,1.5)
+}
+
+create section_715
+section_715 {
+pt3dclear()
+pt3dadd(189.1923,369.8077,55,2.5982)
+}
+
+create section_716
+section_716 {
+pt3dclear()
+pt3dadd(232.48,381.8,65,2.5982)
+}
+
+create section_717
+section_717 {
+pt3dclear()
+pt3dadd(256.0625,319.875,70,2.5982)
+}
+
+create section_718
+section_718 {
+pt3dclear()
+pt3dadd(256,320,70,3)
+pt3dadd(256.2143,317,71.5714,2.5754)
+pt3dadd(255.7143,314,73.3929,2.7152)
+pt3dadd(255.3125,311,74.4688,2.6257)
+pt3dadd(254.3889,308,76.1111,1.9405)
+pt3dadd(253.6429,305.5,77.7857,1.767)
+pt3dadd(253.5,303.5,79,2)
+pt3dadd(253.2,301.825,81.3,2.7825)
+}
+
+create section_719
+section_719 {
+pt3dclear()
+pt3dadd(256,320,70,3)
+pt3dadd(255.2083,323,68.0417,1.9185)
+pt3dadd(254.3,325.5,66.5,2.4413)
+pt3dadd(252.3571,328.2857,64.5,1.767)
+pt3dadd(251.25,330.5,63.5,1.5)
+pt3dadd(256,327,65,1.7321)
+}
+
+create section_720
+section_720 {
+pt3dclear()
+pt3dadd(253,302,81,3)
+pt3dadd(252.8333,299,82.8333,2.357)
+pt3dadd(250.95,300.6,85.5,1.6279)
+pt3dadd(253,301,80,1.4142)
+}
+
+create section_721
+section_721 {
+pt3dclear()
+pt3dadd(253,302,81,3)
+pt3dadd(250.6818,301.4545,84,1.7463)
+pt3dadd(249.525,301.55,86.5,2.3049)
+pt3dadd(248.1,304.4,89,1.8111)
+pt3dadd(252,298,85,2.1213)
+}
+
+create section_722
+section_722 {
+pt3dclear()
+pt3dadd(227.7895,53.0526,75,2.5982)
+pt3dadd(231,48,71,2.1213)
+}
+
+create section_723
+section_723 {
+pt3dclear()
+pt3dadd(335.4186,16.7442,80,2.5982)
+}
+
+create section_724
+section_724 {
+pt3dclear()
+pt3dadd(335,17,80,3)
+pt3dadd(332.2143,15.4286,81.1786,3.8604)
+pt3dadd(321,13,84,2)
+pt3dadd(318.5,12.3571,84.2143,1.767)
+pt3dadd(316.5,11.7,84.4,1.6125)
+pt3dadd(314.5,11.5833,84.5833,2.1731)
+pt3dadd(312.5,11.75,85.25,1.5811)
+}
+
+create section_725
+section_725 {
+pt3dclear()
+pt3dadd(335,17,80,3)
+pt3dadd(337.4444,14.3333,80.8889,2.0154)
+pt3dadd(347,6,82,2.1213)
+pt3dadd(349.5,3.9,81.3,1.2649)
+}
+
+create section_726
+section_726 {
+pt3dclear()
+pt3dadd(335,17,80,3)
+pt3dadd(335.25,20,79,1.5)
+pt3dadd(338,32,74,1.5)
+pt3dadd(337.25,34.5,73.5,1.5)
+}
+
+create section_727
+section_727 {
+pt3dclear()
+pt3dadd(313,12,85,2)
+pt3dadd(310.625,14.125,83.5,1.2748)
+pt3dadd(308,17,79,1.4142)
+}
+
+create section_728
+section_728 {
+pt3dclear()
+pt3dadd(313,12,85,2)
+pt3dadd(310.5,11.9286,85.6429,1.5452)
+pt3dadd(308.5,12,86.3125,2.0349)
+}
+
+create section_729
+section_729 {
+pt3dclear()
+pt3dadd(309,12,86,2)
+pt3dadd(306.5,12,86.5,2)
+pt3dadd(298,19,88,1.4142)
+}
+
+create section_730
+section_730 {
+pt3dclear()
+pt3dadd(309,12,86,2)
+pt3dadd(306.5,12,88,2)
+}
+
+create section_731
+section_731 {
+pt3dclear()
+pt3dadd(307,12,88,2)
+pt3dadd(304.5,12.25,87.5,1.5)
+pt3dadd(299,12,90,2.1213)
+}
+
+create section_732
+section_732 {
+pt3dclear()
+pt3dadd(307,12,88,2)
+pt3dadd(304.5,12,89,3)
+pt3dadd(302,11.4167,89.3333,3.1842)
+pt3dadd(299,10.6667,89.3333,2.357)
+pt3dadd(296.5,11,89.25,2.0616)
+pt3dadd(294.5,12,89,3)
+pt3dadd(292,12.25,89,1.5)
+pt3dadd(289.5,12.3571,89.2143,1.767)
+pt3dadd(287.5,12.4286,89.3571,2.1618)
+pt3dadd(285.5,12.25,89.5,1.5)
+pt3dadd(283.5,12,90,2)
+pt3dadd(281.5,12.25,90.125,2.5125)
+}
+
+create section_733
+section_733 {
+pt3dclear()
+pt3dadd(282,12,90,3)
+pt3dadd(279.1429,14.7143,87.7143,1.5186)
+pt3dadd(276.625,17.125,87,1.2748)
+pt3dadd(274,12,90,2.1213)
+}
+
+create section_734
+section_734 {
+pt3dclear()
+pt3dadd(282,12,90,3)
+pt3dadd(279,12.25,90.25,1.5811)
+pt3dadd(276.5,12.1111,90.2222,1.8626)
+pt3dadd(274.5,12.25,90.25,1.5811)
+pt3dadd(272.5,12.3571,90.5714,1.7202)
+pt3dadd(270.5,12.3333,91.2222,2.3986)
+pt3dadd(268.5,12.5,91.25,2.0616)
+pt3dadd(266.5,12.75,91.25,2.5495)
+pt3dadd(264,12.55,91.3,2.184)
+pt3dadd(261.5,12.5455,91.4091,2.2453)
+pt3dadd(259.5,12.6111,91.7222,1.8626)
+pt3dadd(257.5,12.6111,92.2222,1.8626)
+pt3dadd(255.5,12.5,92.25,2.0616)
+pt3dadd(253.5,12.1111,92.2222,1.8626)
+pt3dadd(251.5,11.25,92.3,2.5318)
+pt3dadd(249,11,92.5,2)
+pt3dadd(246.5,10.75,93.25,0.70711)
+pt3dadd(240,13,94,1.4142)
+}
+
+create section_735
+section_735 {
+pt3dclear()
+pt3dadd(45.6977,1.2093,85,2.5982)
+pt3dadd(39,14,84,2.5982)
+}
+
+create section_736
+section_736 {
+pt3dclear()
+pt3dadd(214.0577,60.1346,85,2.5982)
+pt3dadd(217,70,86,2.1213)
+pt3dadd(217.9706,72.5,85.9706,3.2003)
+pt3dadd(220.2188,75.7813,85.4375,2.72)
+pt3dadd(222.8636,78.0909,84.6818,2.289)
+pt3dadd(225.3182,79.9091,84.3182,2.051)
+pt3dadd(227.4231,81.5385,83.2308,2.1689)
+}
+
+create section_737
+section_737 {
+pt3dclear()
+pt3dadd(221.9074,77.3333,85,2.5982)
+pt3dadd(226,82,84,1.4142)
+}
+
+create section_738
+section_738 {
+pt3dclear()
+pt3dadd(397.9333,105.9417,85,2.5982)
+}
+
+create section_739
+section_739 {
+pt3dclear()
+pt3dadd(117.1429,247.2381,95,2.5982)
+pt3dadd(120,246.25,94.5,1.5)
+pt3dadd(122.3667,244.3333,94.2667,2.4631)
+pt3dadd(123.6429,241.5,93.9286,1.5452)
+pt3dadd(114,247,96,2.5982)
+pt3dadd(111.1875,249.875,97.4375,1.2119)
+}
+
+create section_740
+section_740 {
+pt3dclear()
+pt3dadd(343.6188,198.7399,95,2.5982)
+pt3dadd(341.6667,201.9444,94.7778,1.7285)
+pt3dadd(340.5313,204.4688,94.9063,2.9441)
+pt3dadd(339.625,207,95.25,2.7042)
+pt3dadd(338.7647,210,95.5882,2.7364)
+pt3dadd(337.6364,213,96.5909,1.9113)
+pt3dadd(336.9167,215.5,97.4583,2.0497)
+pt3dadd(336,218.5,98,2)
+pt3dadd(334.75,221.5,99.1667,1.5366)
+pt3dadd(333.75,224.5,100.3333,1.5366)
+pt3dadd(332.8333,227.5,101.75,1.7401)
+pt3dadd(331.55,230.5,103.55,1.9026)
+pt3dadd(330.625,233.5,105.3125,2.2256)
+pt3dadd(330.25,236.5,106.8333,1.5366)
+pt3dadd(329.6875,239.5,108.875,1.5662)
+pt3dadd(330.25,242.5,110.75,1.5811)
+pt3dadd(336,254,116,1.5)
+pt3dadd(337.5,256.5,116.25,2.0616)
+pt3dadd(339.2813,259.4688,116.375,2.6707)
+pt3dadd(340.5694,261.8333,116.3889,4.3284)
+}
+
+create section_741
+section_741 {
+pt3dclear()
+pt3dadd(261.9422,87.3511,100,2.5982)
+}
+
+create section_742
+section_742 {
+pt3dclear()
+pt3dadd(262,87,100,3)
+pt3dadd(262.1364,84,98.5,1.9959)
+pt3dadd(262.3889,81.5,97.7222,1.8626)
+}
+
+create section_743
+section_743 {
+pt3dclear()
+pt3dadd(262,87,100,3)
+pt3dadd(259,85.6429,99.7857,1.767)
+}
+
+create section_744
+section_744 {
+pt3dclear()
+pt3dadd(262,82,98,2)
+pt3dadd(262.1,79.5,95.8,1.2649)
+pt3dadd(263,87,100,2.5982)
+}
+
+create section_745
+section_745 {
+pt3dclear()
+pt3dadd(262,82,98,2)
+pt3dadd(262.5,79.5,97,2)
+pt3dadd(253,84,100,2.1213)
+pt3dadd(250.5,84.5,100.25,3.0414)
+}
+
+create section_746
+section_746 {
+pt3dclear()
+pt3dadd(251,85,100,3)
+pt3dadd(248.35,82.7,103,1.9105)
+pt3dadd(247,76,108,1.7321)
+}
+
+create section_747
+section_747 {
+pt3dclear()
+pt3dadd(251,85,100,3)
+pt3dadd(248,85.0333,100.5333,2.3257)
+}
+
+create section_748
+section_748 {
+pt3dclear()
+pt3dadd(248,85,101,2)
+pt3dadd(245.7857,83.3571,103.5,1.767)
+pt3dadd(247,76,108,1.7321)
+}
+
+create section_749
+section_749 {
+pt3dclear()
+pt3dadd(248,85,101,2)
+pt3dadd(245.5,85.25,101.4375,2.6487)
+pt3dadd(243,85.4063,101.9063,2.9275)
+pt3dadd(240,85.875,102.9375,2.7528)
+pt3dadd(237,87.25,103.9722,3.5004)
+pt3dadd(232,90,105,2.5982)
+}
+
+create section_750
+section_750 {
+pt3dclear()
+pt3dadd(83.4667,301.3333,105,2.5982)
+pt3dadd(82,315,110,1.4142)
+}
+
+create section_751
+section_751 {
+pt3dclear()
+pt3dadd(232.1728,89.5309,105,2.5982)
+pt3dadd(227,95,107,2.1213)
+}
+
+create section_752
+section_752 {
+pt3dclear()
+pt3dadd(353.3846,447.1282,110,2.5982)
+pt3dadd(356,447.8,110.9,1.2649)
+pt3dadd(351,448,109,2.8284)
+}
+
+create section_753
+section_753 {
+pt3dclear()
+pt3dadd(103.1905,83.2619,115,2.5982)
+pt3dadd(107,71,115,1)
+}
+
+create section_754
+section_754 {
+pt3dclear()
+pt3dadd(350.1442,264.6314,115,2.5982)
+}
+
+create section_755
+section_755 {
+pt3dclear()
+pt3dadd(350,265,115,3)
+pt3dadd(347,265.9444,115.7222,1.7916)
+pt3dadd(344.5,266.7273,116.5,1.7651)
+pt3dadd(342.5,267.4643,117,2.1724)
+pt3dadd(340.5,267.881,116.8333,2.8412)
+pt3dadd(338,269.0278,116.6667,3.019)
+pt3dadd(335,270.1875,116.4375,2.8559)
+pt3dadd(332.0333,271.7,115.5,2.6009)
+pt3dadd(329,273.3333,115.3333,2.4267)
+pt3dadd(326.5,273.9643,114.5714,3.1437)
+pt3dadd(324,274.625,114.2813,2.7846)
+pt3dadd(321,275.1071,113.3929,2.7939)
+pt3dadd(318,275.2727,112.6818,2.5713)
+pt3dadd(315,275.55,112.3,2.184)
+pt3dadd(312.5,276.5,111.75,2.0616)
+pt3dadd(310.5,276.85,111.55,2.0248)
+pt3dadd(308.5,277.0417,111.375,2.9274)
+pt3dadd(306,277.2308,110.5385,2.6868)
+pt3dadd(303,277.1071,110.3571,2.8003)
+pt3dadd(300,277.3235,109.5294,2.6477)
+pt3dadd(306,280,111,1.4142)
+}
+
+create section_756
+section_756 {
+pt3dclear()
+pt3dadd(350,265,115,3)
+pt3dadd(353,263.85,115.4,1.7692)
+pt3dadd(355.5,263,115.3462,2.3896)
+pt3dadd(358.4545,261.8182,115.1818,2.6629)
+}
+
+create section_757
+section_757 {
+pt3dclear()
+pt3dadd(447.0227,417.0227,115,2.5982)
+}
+
+create section_758
+section_758 {
+pt3dclear()
+pt3dadd(8.995,236.6485,120,2.5982)
+}
+
+create section_759
+section_759 {
+pt3dclear()
+pt3dadd(9,237,120,3)
+pt3dadd(6.0357,238.0714,120.1429,3.9776)
+pt3dadd(11,233,130,1.4142)
+}
+
+create section_760
+section_760 {
+pt3dclear()
+pt3dadd(9,237,120,3)
+pt3dadd(7.7778,235.6667,123,1.5909)
+pt3dadd(20,238,121,3.4642)
+}
+
+create section_761
+section_761 {
+pt3dclear()
+pt3dadd(47.5564,386.2155,120,2.5982)
+}
+
+create section_762
+section_762 {
+pt3dclear()
+pt3dadd(48,386,120,3)
+pt3dadd(49.5962,383.0385,119.8846,3.2016)
+pt3dadd(51.5741,380.0926,120.0185,3.3805)
+pt3dadd(53.4821,377.1071,119.9821,3.9702)
+pt3dadd(54.5,374.0714,119.9643,3.6874)
+pt3dadd(62,368,120,3.4642)
+pt3dadd(65,365.7727,119.0909,1.9455)
+pt3dadd(66.3571,363.75,118.5357,3.8611)
+}
+
+create section_763
+section_763 {
+pt3dclear()
+pt3dadd(48,386,120,3)
+pt3dadd(45.6,388.9,120,1.8111)
+pt3dadd(58,388,118,1)
+}
+
+create section_764
+section_764 {
+pt3dclear()
+pt3dadd(48,386,120,3)
+pt3dadd(46.3125,388.9375,121,2.767)
+}
+
+create section_765
+section_765 {
+pt3dclear()
+pt3dadd(46,389,121,3)
+pt3dadd(43.375,391.375,120.5,2.5739)
+pt3dadd(49,389,122,1.7321)
+}
+
+create section_766
+section_766 {
+pt3dclear()
+pt3dadd(46,389,121,3)
+pt3dadd(44.3125,391.9375,121.5,2.767)
+pt3dadd(41.8542,394.4375,121.5,4.3513)
+pt3dadd(36,399,122,1.7321)
+}
+
+create section_767
+section_767 {
+pt3dclear()
+pt3dadd(92.0323,78.9355,120,2.5982)
+pt3dadd(85,88,120,1.4142)
+}
+
+create section_768
+section_768 {
+pt3dclear()
+pt3dadd(77.7742,74.6581,125,2.5982)
+pt3dadd(75.2556,74.1667,125.9889,5.9044)
+pt3dadd(71,78,128,2.1213)
+}
+
+create section_769
+section_769 {
+pt3dclear()
+pt3dadd(277.7931,346.0345,130,2.5982)
+pt3dadd(280.4783,348.5,128.7609,3.2121)
+pt3dadd(282.75,351.25,127.65,3.0643)
+pt3dadd(285.875,353.2813,126.3438,2.5936)
+pt3dadd(289,354.5,124.25,2.0616)
+pt3dadd(284,356,126,1.4142)
+}
+
+create section_770
+section_770 {
+pt3dclear()
+pt3dadd(155.7751,109.134,135,2.5982)
+}
+
+create section_771
+section_771 {
+pt3dclear()
+pt3dadd(156,109,135,3)
+pt3dadd(153,109.25,134.75,3.5355)
+pt3dadd(160,109,135,2.5982)
+}
+
+create section_772
+section_772 {
+pt3dclear()
+pt3dadd(156,109,135,3)
+pt3dadd(159,108.3846,134.7692,2.8211)
+pt3dadd(166,107,135,2.1213)
+}
+
+create section_773
+section_773 {
+pt3dclear()
+pt3dadd(296.1538,66.5385,135,2.5982)
+pt3dadd(293,63,126,1.4142)
+}
+
+create section_774
+section_774 {
+pt3dclear()
+pt3dadd(9.8462,1.2821,140,2.5982)
+}
+
+create section_775
+section_775 {
+pt3dclear()
+pt3dadd(8.8421,377.4737,140,2.5982)
+}
+
+create section_776
+section_776 {
+pt3dclear()
+pt3dadd(9,377,140,3)
+pt3dadd(7,379.75,137.4808,3.2018)
+pt3dadd(12,385,135,2.5982)
+}
+
+create section_777
+section_777 {
+pt3dclear()
+pt3dadd(9,377,140,3)
+pt3dadd(6.2794,377.9706,142.7206,4.1208)
+pt3dadd(13,383,135,2.8284)
+}
+
+create section_778
+section_778 {
+pt3dclear()
+pt3dadd(393.9444,411.963,140,2.5982)
+pt3dadd(394,403,135,1.7321)
+pt3dadd(393.1111,400.5,134.2222,1.8626)
+pt3dadd(392.1111,398.5,133.2222,1.8626)
+pt3dadd(391.5,396.5,132.5,2)
+pt3dadd(391.3889,394.5,132.2778,1.8626)
+pt3dadd(390.75,392.5,131,1.5)
+pt3dadd(390.6,390.5,130.4,1.8111)
+pt3dadd(390.2143,388.5,129.6429,2.4453)
+pt3dadd(389.55,386.5,129.3,2.184)
+pt3dadd(389.5909,384.5,128.7273,2.8705)
+pt3dadd(389.25,382,128.375,2.5125)
+pt3dadd(388.6364,379,127.7727,2.3373)
+pt3dadd(388.3636,376.5,127.7273,2.3373)
+pt3dadd(387.45,374.5,127.7,2.184)
+pt3dadd(386.5,372.5,127.25,2.0616)
+pt3dadd(385.75,370.5,126.625,2.5125)
+pt3dadd(384.6111,368,126.2222,1.8626)
+pt3dadd(383.3333,365.5833,125.5,2.3393)
+pt3dadd(382.1111,363.5,125.2222,1.8626)
+pt3dadd(381.5,361.5,124.3125,2.0349)
+pt3dadd(381.25,359.5,123.7,2.5318)
+pt3dadd(380.5,357,123.5,2)
+pt3dadd(380.25,354.5,123.3,2.5318)
+pt3dadd(379.3636,352,122.7273,2.3373)
+pt3dadd(378.8636,349.5,122.7273,2.3373)
+pt3dadd(378.75,347.5,122.5,2.5)
+pt3dadd(378.6667,345,122.4667,2.5131)
+pt3dadd(378.5333,342,122.0333,2.3257)
+pt3dadd(378.25,339.5,122,2.5)
+pt3dadd(377.75,337,122,2.5)
+pt3dadd(377.5,334,121.9231,2.1716)
+pt3dadd(377.1923,331.5,121.9615,2.3859)
+pt3dadd(376.5,329.5,122,2)
+pt3dadd(376.3636,327.5,122,1.9959)
+pt3dadd(375.7917,325.5,121.9583,1.9185)
+pt3dadd(375.6667,323.5,121.9444,1.6025)
+pt3dadd(375.5,321.5,121.75,2.0616)
+pt3dadd(375.75,319.5,121.75,1.5811)
+pt3dadd(375.8571,317.5,121.7143,1.767)
+pt3dadd(376.3,315.5,121.6,1.6125)
+pt3dadd(376.75,313.5,121.25,1.5811)
+pt3dadd(377.9286,311.5,120.6429,2.1618)
+pt3dadd(379,309.5,120.5,2)
+pt3dadd(380.6875,307.5,120.0625,1.9764)
+pt3dadd(382.8333,305.5556,119.1111,1.8122)
+pt3dadd(384.8889,303.6111,118.3333,1.8224)
+pt3dadd(386.7,301.55,117.6,1.8466)
+pt3dadd(389.2,299.8,116.5,1.5232)
+pt3dadd(391.3,297.95,115.8,1.8788)
+pt3dadd(393.5,296.625,115.125,1.2748)
+}
+
+create section_779
+section_779 {
+pt3dclear()
+pt3dadd(423.064,265.152,140,2.5982)
+pt3dadd(432,256,142,2.1213)
+}
+
+create section_780
+section_780 {
+pt3dclear()
+pt3dadd(22.0175,112.8246,145,2.5982)
+}
+
+create section_781
+section_781 {
+pt3dclear()
+pt3dadd(22,113,145,3)
+pt3dadd(24.6176,110.7059,143.8235,3.019)
+pt3dadd(27.9375,108.5,142,1.663)
+pt3dadd(30,106.6667,140.4167,1.9508)
+}
+
+create section_782
+section_782 {
+pt3dclear()
+pt3dadd(22,113,145,3)
+pt3dadd(19,114.1458,146.2292,3.3234)
+pt3dadd(16.1731,115.6538,147.0385,3.4958)
+pt3dadd(13.2826,117.6522,147.6087,4.3717)
+pt3dadd(6,130,149,1.4142)
+}
+
+create section_783
+section_783 {
+pt3dclear()
+pt3dadd(30,107,140,2)
+pt3dadd(32.1176,104.8529,139.0882,2.4846)
+pt3dadd(33.86,102.8,138.16,2.8037)
+pt3dadd(36.475,100.525,137.2,3.1883)
+pt3dadd(38.5238,98.619,136.4048,3.1547)
+pt3dadd(41.2857,96.4762,135.7143,3.414)
+pt3dadd(43.875,94.1875,135.3125,3.6529)
+pt3dadd(50,91,135,2.5982)
+}
+
+create section_784
+section_784 {
+pt3dclear()
+pt3dadd(30,107,140,2)
+pt3dadd(30.5,109.25,137.5,1.118)
+pt3dadd(27,107,142,2.1213)
+}
+
+create section_785
+section_785 {
+pt3dclear()
+pt3dadd(216.961,351.4675,145,2.5982)
+pt3dadd(219.6471,353.2059,145.7059,3.5083)
+pt3dadd(228,363,147,2.1213)
+pt3dadd(230.3571,364.3929,147.1429,3.8072)
+}
+
+create section_786
+section_786 {
+pt3dclear()
+pt3dadd(266.9697,322.1818,145,2.5982)
+pt3dadd(271,309,149,1.4142)
+}
+
+create section_787
+section_787 {
+pt3dclear()
+pt3dadd(289.056,58.456,145,2.5982)
+pt3dadd(283,58,147,4.2426)
+}
+
+create section_788
+section_788 {
+pt3dclear()
+pt3dadd(239.2,86.44,5,2.5)
+pt3dadd(241.9643,84.1429,4,2.7152)
+pt3dadd(244.6154,82.4038,4.2308,4.314)
+pt3dadd(247,69,11,2.5982)
+}
+
+create section_789
+section_789 {
+pt3dclear()
+pt3dadd(247,69,11,3)
+pt3dadd(244.1667,66.1667,10.75,0.89753)
+}
+
+create section_790
+section_790 {
+pt3dclear()
+pt3dadd(247,69,11,3)
+pt3dadd(244,66.75,13,1.5)
+}
+
+create section_791
+section_791 {
+pt3dclear()
+pt3dadd(244,67,13,2)
+pt3dadd(241.75,65,11.5,2.0616)
+}
+
+create section_792
+section_792 {
+pt3dclear()
+pt3dadd(244,67,13,2)
+pt3dadd(241.5,65.8,13.8,1.6492)
+pt3dadd(255,68,17,1.5)
+pt3dadd(257.5,68.75,19,1.5)
+pt3dadd(260.5,69,21,2)
+}
+
+create section_793
+section_793 {
+pt3dclear()
+pt3dadd(242,65,12,2)
+pt3dadd(239.9286,62.9286,11,2.3079)
+pt3dadd(248,65,17,1.4142)
+}
+
+create section_794
+section_794 {
+pt3dclear()
+pt3dadd(242,65,12,2)
+pt3dadd(239.5,64.7857,13.1429,2.4453)
+pt3dadd(237.5,64,13.5,3)
+pt3dadd(237,58,2,2.8284)
+}
+
+create section_795
+section_795 {
+pt3dclear()
+pt3dadd(380.1628,89.6512,5,2.5)
+}
+
+create section_796
+section_796 {
+pt3dclear()
+pt3dadd(380,90,5,3)
+pt3dadd(381.8529,87.0294,4.1765,2.372)
+pt3dadd(383.25,84.5,3.2,2.5318)
+pt3dadd(384,82,4.5,2)
+pt3dadd(384.5,80,2.5,2)
+pt3dadd(385,72,14,1.4142)
+}
+
+create section_797
+section_797 {
+pt3dclear()
+pt3dadd(380,90,5,3)
+pt3dadd(380,93,8.25,1.8028)
+pt3dadd(379.4667,95.5,9.5667,2.357)
+pt3dadd(378.3,98.5,11.0333,2.6264)
+pt3dadd(376.8235,102,12.9118,2.9768)
+pt3dadd(373,105,19,1.7321)
+}
+
+create section_798
+section_798 {
+pt3dclear()
+pt3dadd(389.835,235.9223,5,2.5)
+}
+
+create section_799
+section_799 {
+pt3dclear()
+pt3dadd(390,236,5,3)
+pt3dadd(387.75,233.2955,5.3864,2.9412)
+pt3dadd(385.72,230.38,5.44,3.5476)
+pt3dadd(380,228,13,2.1213)
+}
+
+create section_800
+section_800 {
+pt3dclear()
+pt3dadd(390,236,5,3)
+pt3dadd(392.1136,238.6364,5.2955,3.3606)
+}
+
+create section_801
+section_801 {
+pt3dclear()
+pt3dadd(392,239,5,3)
+pt3dadd(393.6,242,5.2,1.2649)
+pt3dadd(395,243,29,1.4142)
+}
+
+create section_802
+section_802 {
+pt3dclear()
+pt3dadd(392,239,5,3)
+pt3dadd(395,240.25,5.25,1.5811)
+pt3dadd(397.5,241.1,4.2,1.2649)
+pt3dadd(401,238,27,2.1213)
+}
+
+create section_803
+section_803 {
+pt3dclear()
+pt3dadd(414.2059,439.0882,5,2.5)
+pt3dadd(418,444,12,1.5)
+}
+
+create section_804
+section_804 {
+pt3dclear()
+pt3dadd(422.25,416.8611,15,2.5)
+}
+
+create section_805
+section_805 {
+pt3dclear()
+pt3dadd(195.7826,438.913,20,2.5)
+pt3dadd(193.0714,440.8929,19.2857,2.8221)
+pt3dadd(190.0455,442.7955,18.3182,2.9137)
+pt3dadd(187.2586,445.2069,17.3966,3.1838)
+pt3dadd(184,446.375,16.4583,2.0582)
+pt3dadd(181.5,447.25,15.75,0.70711)
+pt3dadd(188,448,18,1.5)
+}
+
+create section_806
+section_806 {
+pt3dclear()
+pt3dadd(390.5333,45.1333,25,2.5)
+}
+
+create section_807
+section_807 {
+pt3dclear()
+pt3dadd(265.2857,322.3571,30,2.5)
+}
+
+create section_808
+section_808 {
+pt3dclear()
+pt3dadd(265,322,30,3)
+pt3dadd(262,322.25,28.25,1.5811)
+pt3dadd(259.5,322,26.75,1.118)
+}
+
+create section_809
+section_809 {
+pt3dclear()
+pt3dadd(265,322,30,3)
+pt3dadd(266.5625,320.0625,33,1.4252)
+pt3dadd(268,313,40,2.1213)
+}
+
+create section_810
+section_810 {
+pt3dclear()
+pt3dadd(325.4118,219.8824,30,2.5)
+}
+
+create section_811
+section_811 {
+pt3dclear()
+pt3dadd(349.9531,195.7813,30,2.5)
+pt3dadd(344,197,28,1.5)
+}
+
+create section_812
+section_812 {
+pt3dclear()
+pt3dadd(95.4545,287.1818,35,2.5)
+}
+
+create section_813
+section_813 {
+pt3dclear()
+pt3dadd(95,287,35,3)
+pt3dadd(92.2,284.7333,36.6333,2.5785)
+pt3dadd(89.1667,282.6667,38.2917,2.1747)
+pt3dadd(86.65,281.5,38.9,2.6325)
+pt3dadd(84,281.25,39.5,1.5)
+pt3dadd(81.5,280.75,40.25,1.5811)
+pt3dadd(79.5,280.4167,40.3333,1.8634)
+pt3dadd(77.5,279.8571,40.2857,1.767)
+pt3dadd(75.5,280,40.2083,3.0288)
+pt3dadd(73,279.8636,40.2273,2.3373)
+pt3dadd(70.5,279.8636,40.2273,2.3373)
+pt3dadd(68.5,279.75,40,2.5)
+pt3dadd(66,280,40,3)
+pt3dadd(63,280.6111,39.7778,1.8626)
+pt3dadd(60.5,281.4,39.8,1.8974)
+pt3dadd(58.5,281.6667,39.6667,2.357)
+pt3dadd(56.5,282.1818,39.5455,2.3654)
+pt3dadd(54.5,282.3889,39.2778,1.8626)
+pt3dadd(52.5,282.5,38.5,2.2361)
+pt3dadd(50.5,282.9091,38.1818,2.8415)
+pt3dadd(48,282.75,37.6,3.5057)
+pt3dadd(42,281,37,2.1213)
+}
+
+create section_814
+section_814 {
+pt3dclear()
+pt3dadd(95,287,35,3)
+pt3dadd(98,287.75,34,1.5)
+}
+
+create section_815
+section_815 {
+pt3dclear()
+pt3dadd(98,288,34,2)
+pt3dadd(100.5,288.25,32.375,2.5125)
+pt3dadd(104,287.9333,30.7667,2.9159)
+}
+
+create section_816
+section_816 {
+pt3dclear()
+pt3dadd(98,288,34,2)
+pt3dadd(100.5,287.75,33.5,1.5)
+pt3dadd(100,275,34,1.4142)
+}
+
+create section_817
+section_817 {
+pt3dclear()
+pt3dadd(104,288,31,3)
+pt3dadd(106.9,290.4,29,1.8111)
+pt3dadd(99,293,33,1)
+}
+
+create section_818
+section_818 {
+pt3dclear()
+pt3dadd(104,288,31,3)
+pt3dadd(107,287.8214,29.8571,2.6583)
+}
+
+create section_819
+section_819 {
+pt3dclear()
+pt3dadd(107,288,30,3)
+pt3dadd(109.4444,290.4444,28.5,3.0952)
+pt3dadd(112,289.9615,26.5769,2.9271)
+pt3dadd(114.7065,290.9239,24.4457,4.2668)
+pt3dadd(123,292,21,3.4642)
+pt3dadd(126,292.3462,20.7308,3.3512)
+pt3dadd(129,292.125,20.5,2.9262)
+pt3dadd(132,292.0455,20.3182,3.1557)
+}
+
+create section_820
+section_820 {
+pt3dclear()
+pt3dadd(107,288,30,3)
+pt3dadd(110,288.75,27.25,1.5811)
+}
+
+create section_821
+section_821 {
+pt3dclear()
+pt3dadd(107,288,30,3)
+pt3dadd(110,287.6429,29.2143,1.767)
+}
+
+create section_822
+section_822 {
+pt3dclear()
+pt3dadd(359,195.3333,35,2.5)
+}
+
+create section_823
+section_823 {
+pt3dclear()
+pt3dadd(293.9474,442.5614,40,2.5)
+pt3dadd(291.4375,444.875,40.9792,3.9682)
+pt3dadd(283,448,44,2.5982)
+}
+
+create section_824
+section_824 {
+pt3dclear()
+pt3dadd(152.619,251.5238,45,2.5)
+pt3dadd(145,263,46,1.4142)
+}
+
+create section_825
+section_825 {
+pt3dclear()
+pt3dadd(144.375,249.75,50,2.5)
+pt3dadd(140,263,46,1.4142)
+}
+
+create section_826
+section_826 {
+pt3dclear()
+pt3dadd(258.375,202.25,55,2.5)
+}
+
+create section_827
+section_827 {
+pt3dclear()
+pt3dadd(282.5,226.5,75,2.5)
+}
+
+create section_828
+section_828 {
+pt3dclear()
+pt3dadd(193.7143,305.5,105,2.5)
+pt3dadd(191,302,108,1.4142)
+}
+
+create section_829
+section_829 {
+pt3dclear()
+pt3dadd(225.5556,335.1481,105,2.5)
+}
+
+create section_830
+section_830 {
+pt3dclear()
+pt3dadd(226,335,105,3)
+pt3dadd(228.1,332,103.7,1.2649)
+pt3dadd(234,322,98,2.5982)
+}
+
+create section_831
+section_831 {
+pt3dclear()
+pt3dadd(226,335,105,3)
+pt3dadd(226.2805,337.939,106.3537,5.9037)
+pt3dadd(234,346,110,2.5982)
+pt3dadd(237,347.1,110.2333,3.8372)
+}
+
+create section_832
+section_832 {
+pt3dclear()
+pt3dadd(218.3333,27.3333,120,2.5)
+}
+
+create section_833
+section_833 {
+pt3dclear()
+pt3dadd(218,27,120,3)
+pt3dadd(220.4762,24.7381,119.0952,3.6812)
+pt3dadd(229,19,117,2.1213)
+pt3dadd(231.5,17.625,117.125,2.2638)
+pt3dadd(233.875,15.875,117,2.5739)
+pt3dadd(236.7857,13.8929,116.8214,3.151)
+pt3dadd(239.7857,12.0714,116.8214,2.9598)
+pt3dadd(242.8929,10.2857,116.7857,3.1599)
+pt3dadd(245.9722,8.8611,116.5556,3.8273)
+}
+
+create section_834
+section_834 {
+pt3dclear()
+pt3dadd(218,27,120,3)
+pt3dadd(215,27.4167,119.1667,1.8634)
+pt3dadd(204,34,118,2.1213)
+}
+
+create section_835
+section_835 {
+pt3dclear()
+pt3dadd(287.4286,354.4286,125,2.5)
+pt3dadd(282,354,127,2.1213)
+}
+
+create section_836
+section_836 {
+pt3dclear()
+pt3dadd(380.5769,446.3462,130,2.5)
+}
+
+create section_837
+section_837 {
+pt3dclear()
+pt3dadd(3.881,383.0476,135,2.5)
+pt3dadd(14,391,144,1.4142)
+}
+
+create section_838
+section_838 {
+pt3dclear()
+pt3dadd(218.9474,333.3684,140,2.5)
+}
+
+create section_839
+section_839 {
+pt3dclear()
+pt3dadd(219,333,140,3)
+pt3dadd(220,330,139.25,4.0311)
+pt3dadd(223,323,138,2.8284)
+pt3dadd(224.55,320,136.95,1.9026)
+pt3dadd(226,317.5,136.25,2.0616)
+pt3dadd(226.8889,315.5,135.7222,1.8626)
+pt3dadd(227.8333,313.5,135.5833,2.3393)
+pt3dadd(228.5,311.5,135.4231,2.1716)
+}
+
+create section_840
+section_840 {
+pt3dclear()
+pt3dadd(219,333,140,3)
+pt3dadd(218.4286,336,140.7857,2.1853)
+pt3dadd(211,341,143,1.4142)
+}
+
+create section_841
+section_841 {
+pt3dclear()
+pt3dadd(282.2308,30.8462,145,2.5)
+pt3dadd(285,24,145,1.4142)
+}
+
+create section_842
+section_842 {
+pt3dclear()
+pt3dadd(395.6364,400.0909,145,2.5)
+}
+
+create section_843
+section_843 {
+pt3dclear()
+pt3dadd(396,400,145,3)
+pt3dadd(396.6,397,145.8,1.2649)
+}
+
+create section_844
+section_844 {
+pt3dclear()
+pt3dadd(396,400,145,3)
+pt3dadd(396,397,147,2)
+pt3dadd(403,397,142,1.4142)
+}
+
+create section_845
+section_845 {
+pt3dclear()
+pt3dadd(39.8519,309.3889,0,2.1213)
+}
+
+create section_846
+section_846 {
+pt3dclear()
+pt3dadd(40,309,0,2)
+pt3dadd(38.4615,306.7308,5.3462,3.1265)
+pt3dadd(36,304.0667,4.5667,2.3457)
+pt3dadd(34.3333,301.7,3.7333,2.4267)
+pt3dadd(32.7,299.7,4.3333,3.554)
+pt3dadd(24,295,15,2.1213)
+}
+
+create section_847
+section_847 {
+pt3dclear()
+pt3dadd(40,309,0,2)
+pt3dadd(41.9,311.4,5,1.8111)
+pt3dadd(42.75,313,2.5,1.5)
+pt3dadd(52,322,17,1.4142)
+}
+
+create section_848
+section_848 {
+pt3dclear()
+pt3dadd(73.1538,377.3077,0,2.1213)
+}
+
+create section_849
+section_849 {
+pt3dclear()
+pt3dadd(176.75,222.0667,0,2.1213)
+pt3dadd(183,223,16,1.4142)
+}
+
+create section_850
+section_850 {
+pt3dclear()
+pt3dadd(221.5932,44.2974,0,2.1213)
+pt3dadd(221.75,44.7596,5.25,7.1388)
+pt3dadd(231,50,10,2.1213)
+pt3dadd(233.5,48.25,7.5,1.5)
+pt3dadd(236.125,46.125,6.5,2.5739)
+pt3dadd(236.2,47.6,4,1.2649)
+}
+
+create section_851
+section_851 {
+pt3dclear()
+pt3dadd(190.1667,382.3333,0,2.1213)
+}
+
+create section_852
+section_852 {
+pt3dclear()
+pt3dadd(190,382,0,2)
+pt3dadd(190.5,384.5,5,2)
+pt3dadd(191.25,386.5,2.5,1.5)
+pt3dadd(200,397,15,1)
+}
+
+create section_853
+section_853 {
+pt3dclear()
+pt3dadd(190,382,0,2)
+pt3dadd(187.5,381.8889,5.2222,1.8626)
+pt3dadd(185.6538,381.4615,2.7308,2.2374)
+pt3dadd(176,378,15,1.4142)
+}
+
+create section_854
+section_854 {
+pt3dclear()
+pt3dadd(190,382,0,2)
+pt3dadd(192.5,380.75,5,1.5)
+pt3dadd(195,376,22,1.4142)
+}
+
+create section_855
+section_855 {
+pt3dclear()
+pt3dadd(62,38.6571,5,2.1213)
+pt3dadd(60.3333,36.5833,5.5,2.3393)
+pt3dadd(59.25,34.5,6.125,2.5125)
+pt3dadd(63,40,14,2.8284)
+}
+
+create section_856
+section_856 {
+pt3dclear()
+pt3dadd(188.0556,146.3333,5,2.1213)
+}
+
+create section_857
+section_857 {
+pt3dclear()
+pt3dadd(188,146,5,2)
+pt3dadd(185.5,146.8125,4.6875,1.741)
+pt3dadd(178,148,12,2.1213)
+}
+
+create section_858
+section_858 {
+pt3dclear()
+pt3dadd(188,146,5,2)
+pt3dadd(190.5,145.4167,5.3333,1.8634)
+pt3dadd(182,148,14,1.7321)
+}
+
+create section_859
+section_859 {
+pt3dclear()
+pt3dadd(407,143.125,5,2.1213)
+pt3dadd(414,142,12,1.4142)
+}
+
+create section_860
+section_860 {
+pt3dclear()
+pt3dadd(424.6038,369.5094,5,2.1213)
+}
+
+create section_861
+section_861 {
+pt3dclear()
+pt3dadd(61.4898,356.9184,10,2.1213)
+}
+
+create section_862
+section_862 {
+pt3dclear()
+pt3dadd(159.6176,104.7353,10,2.1213)
+pt3dadd(162,102,21,1.4142)
+}
+
+create section_863
+section_863 {
+pt3dclear()
+pt3dadd(215.8594,211.0195,10,2.1213)
+pt3dadd(223,208,15,1.7321)
+}
+
+create section_864
+section_864 {
+pt3dclear()
+pt3dadd(231.72,90.36,10,2.1213)
+pt3dadd(236,92,12,1.5)
+}
+
+create section_865
+section_865 {
+pt3dclear()
+pt3dadd(243.9333,274.4,10,2.1213)
+}
+
+create section_866
+section_866 {
+pt3dclear()
+pt3dadd(346.0952,418.4603,10,2.1213)
+}
+
+create section_867
+section_867 {
+pt3dclear()
+pt3dadd(444.8235,55.6765,10,2.1213)
+}
+
+create section_868
+section_868 {
+pt3dclear()
+pt3dadd(445,56,10,2)
+pt3dadd(443.3667,53.6,9,2.4855)
+pt3dadd(442.1111,51.5,8.2222,1.8626)
+pt3dadd(442,40,14,1.4142)
+}
+
+create section_869
+section_869 {
+pt3dclear()
+pt3dadd(445,56,10,2)
+pt3dadd(446.3889,58.3056,11.9444,2.3074)
+pt3dadd(440,49,10,1.7321)
+}
+
+create section_870
+section_870 {
+pt3dclear()
+pt3dadd(109.6883,300.7922,15,2.1213)
+}
+
+create section_871
+section_871 {
+pt3dclear()
+pt3dadd(217.5926,141.5185,15,2.1213)
+pt3dadd(215.5,142.75,14.6667,1.5366)
+pt3dadd(213.5,143.5,14.5,2)
+pt3dadd(211.5,143.75,14.5,1.5)
+pt3dadd(208,146,11,1)
+}
+
+create section_872
+section_872 {
+pt3dclear()
+pt3dadd(255.8571,69,15,2.1213)
+pt3dadd(262,68,21,1.4142)
+}
+
+create section_873
+section_873 {
+pt3dclear()
+pt3dadd(376,104,15,2.1213)
+pt3dadd(365,107,19,1.7321)
+}
+
+create section_874
+section_874 {
+pt3dclear()
+pt3dadd(403.5,237.3077,15,2.1213)
+pt3dadd(398,241,19,2.1213)
+}
+
+create section_875
+section_875 {
+pt3dclear()
+pt3dadd(136.4038,292.0897,20,2.1213)
+pt3dadd(138,285,21,1.4142)
+}
+
+create section_876
+section_876 {
+pt3dclear()
+pt3dadd(148.5714,369.3571,20,2.1213)
+pt3dadd(150.9583,368.9583,17.5,2.2016)
+pt3dadd(153.0714,371.4286,16.7143,1.2857)
+pt3dadd(162,377,13,1.7321)
+pt3dadd(164.5,378,11.4167,2.0883)
+pt3dadd(167.2083,378.7917,8.6667,1.72)
+pt3dadd(169.5,379.4286,6.8571,2.1618)
+}
+
+create section_877
+section_877 {
+pt3dclear()
+pt3dadd(57.75,169.9107,25,2.1213)
+}
+
+create section_878
+section_878 {
+pt3dclear()
+pt3dadd(81.68,17.44,25,2.1213)
+pt3dadd(94,11,24,1.4142)
+}
+
+create section_879
+section_879 {
+pt3dclear()
+pt3dadd(115.2105,289.3158,25,2.1213)
+}
+
+create section_880
+section_880 {
+pt3dclear()
+pt3dadd(132.2775,437.422,25,2.1213)
+pt3dadd(131.9375,439.5,25.0938,2.9876)
+pt3dadd(131.9412,443,24.9706,3.1182)
+pt3dadd(132.0357,446,24.8929,2.9364)
+pt3dadd(135,440,25,1)
+}
+
+create section_881
+section_881 {
+pt3dclear()
+pt3dadd(159,134.375,25,2.1213)
+pt3dadd(159.6364,136.5,25.7727,2.3373)
+pt3dadd(160.5909,139.5,26.6818,2.8415)
+pt3dadd(161.6364,143,27.2727,2.3373)
+pt3dadd(162.75,145.5,27.3,2.5318)
+}
+
+create section_882
+section_882 {
+pt3dclear()
+pt3dadd(163,146,27,3)
+pt3dadd(165.625,148.875,25.5,1.2748)
+pt3dadd(161,145,27,2.1213)
+}
+
+create section_883
+section_883 {
+pt3dclear()
+pt3dadd(163,146,27,3)
+pt3dadd(164.75,148.9583,27.2917,2.5685)
+pt3dadd(167.625,151.375,27.5,2.5739)
+pt3dadd(171,152.5,28.25,2.0616)
+pt3dadd(173.5,153.75,28.25,1.5811)
+pt3dadd(176.5,154.5,28.25,1.118)
+pt3dadd(189,159,29,1.4142)
+}
+
+create section_884
+section_884 {
+pt3dclear()
+pt3dadd(216.4038,281.2115,25,2.1213)
+}
+
+create section_885
+section_885 {
+pt3dclear()
+pt3dadd(216,281,25,2)
+pt3dadd(218.3636,279.4545,25.2727,2.6143)
+pt3dadd(209,284,26,1.4142)
+}
+
+create section_886
+section_886 {
+pt3dclear()
+pt3dadd(216,281,25,2)
+pt3dadd(213.5,282.5714,25.2857,2.1853)
+pt3dadd(206,284,26,1.4142)
+}
+
+create section_887
+section_887 {
+pt3dclear()
+pt3dadd(232.4713,143.1847,25,2.1213)
+pt3dadd(222,153,27,1.4142)
+}
+
+create section_888
+section_888 {
+pt3dclear()
+pt3dadd(265.75,235.6667,25,2.1213)
+pt3dadd(274,237,21,1.4142)
+}
+
+create section_889
+section_889 {
+pt3dclear()
+pt3dadd(405.0741,279.0741,25,2.1213)
+}
+
+create section_890
+section_890 {
+pt3dclear()
+pt3dadd(420.4643,334.9286,25,2.1213)
+pt3dadd(422,338,21,2.1213)
+}
+
+create section_891
+section_891 {
+pt3dclear()
+pt3dadd(436.5686,125.6863,25,2.1213)
+pt3dadd(440,132,24,1.4142)
+}
+
+create section_892
+section_892 {
+pt3dclear()
+pt3dadd(4.7377,274.3934,30,2.1213)
+}
+
+create section_893
+section_893 {
+pt3dclear()
+pt3dadd(5,274,30,2)
+pt3dadd(4.5278,271.5278,29.8056,4.1822)
+pt3dadd(12,265,29,1.5)
+}
+
+create section_894
+section_894 {
+pt3dclear()
+pt3dadd(5,274,30,2)
+pt3dadd(5.5385,276.359,30.5256,5.1923)
+pt3dadd(13,269,30,2.1213)
+}
+
+create section_895
+section_895 {
+pt3dclear()
+pt3dadd(106.4615,288.2308,30,2.1213)
+}
+
+create section_896
+section_896 {
+pt3dclear()
+pt3dadd(226.4667,227.6667,30,2.1213)
+pt3dadd(225.4286,225.5,31.1429,2.1618)
+pt3dadd(224.8571,223.5,31.7143,1.767)
+pt3dadd(227,229,29,2.1213)
+}
+
+create section_897
+section_897 {
+pt3dclear()
+pt3dadd(393.5385,282.8846,30,2.1213)
+pt3dadd(387,284,31,1.4142)
+}
+
+create section_898
+section_898 {
+pt3dclear()
+pt3dadd(399,13.5,30,2.1213)
+pt3dadd(396,2,35,1.4142)
+}
+
+create section_899
+section_899 {
+pt3dclear()
+pt3dadd(416.6429,331,30,2.1213)
+}
+
+create section_900
+section_900 {
+pt3dclear()
+pt3dadd(422.2727,439.8182,30,2.1213)
+}
+
+create section_901
+section_901 {
+pt3dclear()
+pt3dadd(27.4167,101.4583,35,2.1213)
+pt3dadd(34,100,35,1)
+}
+
+create section_902
+section_902 {
+pt3dclear()
+pt3dadd(106,207.2353,35,2.1213)
+pt3dadd(114,198,40,1.4142)
+}
+
+create section_903
+section_903 {
+pt3dclear()
+pt3dadd(150.52,412.16,35,2.1213)
+}
+
+create section_904
+section_904 {
+pt3dclear()
+pt3dadd(151,412,35,2)
+pt3dadd(153.125,409.625,36.5,1.2748)
+pt3dadd(160,404,40,1.7321)
+}
+
+create section_905
+section_905 {
+pt3dclear()
+pt3dadd(151,412,35,2)
+pt3dadd(148.6429,413.8929,33.6786,2.1969)
+pt3dadd(146.5667,415.5333,32.9,2.2647)
+pt3dadd(144.5714,417.4286,31.9643,2.8616)
+pt3dadd(142.1429,419.25,30.8929,2.7939)
+pt3dadd(146,413,33,1.7321)
+}
+
+create section_906
+section_906 {
+pt3dclear()
+pt3dadd(384.8333,143.2778,35,2.1213)
+pt3dadd(385,158,34,1)
+}
+
+create section_907
+section_907 {
+pt3dclear()
+pt3dadd(361.4074,198.0741,40,2.1213)
+}
+
+create section_908
+section_908 {
+pt3dclear()
+pt3dadd(440.2909,276.7455,40,2.1213)
+pt3dadd(436,271,43,2.1213)
+}
+
+create section_909
+section_909 {
+pt3dclear()
+pt3dadd(53.2,205.8,45,2.1213)
+pt3dadd(44,202,51,2)
+}
+
+create section_910
+section_910 {
+pt3dclear()
+pt3dadd(171.5676,387.2703,45,2.1213)
+pt3dadd(170.5,389.5,44.375,1.0308)
+pt3dadd(172,383,46,2.1213)
+}
+
+create section_911
+section_911 {
+pt3dclear()
+pt3dadd(269.5,24.3889,45,2.1213)
+pt3dadd(269.5972,25.3611,44.8472,7.1288)
+pt3dadd(276,31,46,2.1213)
+}
+
+create section_912
+section_912 {
+pt3dclear()
+pt3dadd(430.985,253.38,45,2.1213)
+pt3dadd(437,257,45,1.7321)
+}
+
+create section_913
+section_913 {
+pt3dclear()
+pt3dadd(42.5769,203,50,2.1213)
+pt3dadd(38,208,52,1)
+}
+
+create section_914
+section_914 {
+pt3dclear()
+pt3dadd(213.6,6.6,55,2.1213)
+pt3dadd(214.5,4.5,54.25,1.118)
+pt3dadd(216,23,63,2.1213)
+pt3dadd(214.4,20.9,63.225,3.699)
+}
+
+create section_915
+section_915 {
+pt3dclear()
+pt3dadd(430.7576,287.0455,55,2.1213)
+pt3dadd(424,288,55,1.4142)
+}
+
+create section_916
+section_916 {
+pt3dclear()
+pt3dadd(23.4688,443.3281,60,2.1213)
+}
+
+create section_917
+section_917 {
+pt3dclear()
+pt3dadd(23,443,60,2)
+pt3dadd(21.5132,441.0263,59.5921,4.5115)
+pt3dadd(20,435,58,3.5355)
+}
+
+create section_918
+section_918 {
+pt3dclear()
+pt3dadd(23,443,60,2)
+pt3dadd(25.0938,444.875,59.7813,2.9222)
+}
+
+create section_919
+section_919 {
+pt3dclear()
+pt3dadd(107.6667,328.0667,60,2.1213)
+pt3dadd(114,326,58,1.4142)
+}
+
+create section_920
+section_920 {
+pt3dclear()
+pt3dadd(137.0769,242.2308,60,2.1213)
+}
+
+create section_921
+section_921 {
+pt3dclear()
+pt3dadd(137.0909,237.9091,65,2.1213)
+}
+
+create section_922
+section_922 {
+pt3dclear()
+pt3dadd(242.697,417.697,70,2.1213)
+}
+
+create section_923
+section_923 {
+pt3dclear()
+pt3dadd(243,418,70,2)
+pt3dadd(242.25,415.5,70.25,2.5495)
+pt3dadd(240.6,413,71.4,2.912)
+pt3dadd(239.5741,410.0741,72.5,3.8547)
+pt3dadd(241,417,70,2.1213)
+}
+
+create section_924
+section_924 {
+pt3dclear()
+pt3dadd(243,418,70,2)
+pt3dadd(243.8889,420.5,69.7222,1.8626)
+pt3dadd(245,423.5,69.4167,2.0069)
+pt3dadd(245.75,426.5,68.75,1.5811)
+pt3dadd(246.8889,429.5,68.2222,1.8626)
+pt3dadd(248.9,432.4,67,1.8111)
+pt3dadd(250.625,434.5,66.375,1.2748)
+pt3dadd(259,443,64,1.4142)
+}
+
+create section_925
+section_925 {
+pt3dclear()
+pt3dadd(360.6364,195.5455,70,2.1213)
+}
+
+create section_926
+section_926 {
+pt3dclear()
+pt3dadd(110.3846,137.6154,75,2.1213)
+pt3dadd(109,146,82,2.1213)
+pt3dadd(107.6667,148.5,81.8333,2.357)
+pt3dadd(105.5,150.75,82,1.5)
+}
+
+create section_927
+section_927 {
+pt3dclear()
+pt3dadd(106,151,82,2)
+pt3dadd(103.75,153,81,2.0616)
+pt3dadd(99,157,82,1.5)
+}
+
+create section_928
+section_928 {
+pt3dclear()
+pt3dadd(106,151,82,2)
+pt3dadd(103.5714,152.4286,82,2.8607)
+}
+
+create section_929
+section_929 {
+pt3dclear()
+pt3dadd(104,152,82,3)
+pt3dadd(102.25,155,81,1.5)
+}
+
+create section_930
+section_930 {
+pt3dclear()
+pt3dadd(104,152,82,3)
+pt3dadd(101.5,154.55,82.1,2.3345)
+}
+
+create section_931
+section_931 {
+pt3dclear()
+pt3dadd(102,155,82,2)
+pt3dadd(100.1667,157.4444,80.7222,1.7285)
+pt3dadd(96,162,80,1.7321)
+}
+
+create section_932
+section_932 {
+pt3dclear()
+pt3dadd(102,155,82,2)
+pt3dadd(99.9545,156.7273,82.0909,2.7424)
+}
+
+create section_933
+section_933 {
+pt3dclear()
+pt3dadd(100,157,82,3)
+pt3dadd(98.6667,160,80.7222,2.3986)
+pt3dadd(98.3333,162.5,80.2778,1.7568)
+}
+
+create section_934
+section_934 {
+pt3dclear()
+pt3dadd(100,157,82,3)
+pt3dadd(99.75,160,82,1.5)
+pt3dadd(95,170,81,1.5)
+}
+
+create section_935
+section_935 {
+pt3dclear()
+pt3dadd(98,163,80,2)
+pt3dadd(99.5625,165.3125,79,2.4812)
+pt3dadd(102.4167,166.6667,78.5,2.3393)
+pt3dadd(104.4375,168.1875,78.5,2.767)
+pt3dadd(105.0714,167.1429,82,2.1618)
+pt3dadd(107.5,168.25,80,1.5)
+pt3dadd(98,174,81,2.1213)
+}
+
+create section_936
+section_936 {
+pt3dclear()
+pt3dadd(98,163,80,2)
+pt3dadd(97.5,165.5,80.35,3.015)
+pt3dadd(97.25,169,80.3333,3.5158)
+pt3dadd(97,172.5,80.125,1.0308)
+pt3dadd(102,186,80,1.4142)
+}
+
+create section_937
+section_937 {
+pt3dclear()
+pt3dadd(180.9545,264.0909,75,2.1213)
+pt3dadd(179.6667,261.6667,76,2.8674)
+pt3dadd(178.5,259,76.5,2)
+pt3dadd(177.3333,256.5833,77,2.3393)
+pt3dadd(175.5588,254.7059,77.2647,3.3771)
+}
+
+create section_938
+section_938 {
+pt3dclear()
+pt3dadd(176,255,77,3)
+pt3dadd(174.75,252,77.25,2.5495)
+pt3dadd(172,245,78,1.4142)
+}
+
+create section_939
+section_939 {
+pt3dclear()
+pt3dadd(176,255,77,3)
+pt3dadd(173,253.25,77.5,1.5)
+pt3dadd(173,246,78,1.4142)
+}
+
+create section_940
+section_940 {
+pt3dclear()
+pt3dadd(198.5263,378.2807,75,2.1213)
+pt3dadd(193,380,71,1.4142)
+}
+
+create section_941
+section_941 {
+pt3dclear()
+pt3dadd(240.3226,405.3226,75,2.1213)
+pt3dadd(246,402,76,1.5)
+}
+
+create section_942
+section_942 {
+pt3dclear()
+pt3dadd(255.0455,310.3182,75,2.1213)
+pt3dadd(259,314,73,2.1213)
+}
+
+create section_943
+section_943 {
+pt3dclear()
+pt3dadd(413.6571,167.4,75,2.1213)
+}
+
+create section_944
+section_944 {
+pt3dclear()
+pt3dadd(414,167,75,2)
+pt3dadd(416.5,167.525,75.775,2.9841)
+pt3dadd(423,173,77,1.5)
+}
+
+create section_945
+section_945 {
+pt3dclear()
+pt3dadd(414,167,75,2)
+pt3dadd(411.5,167.025,74.25,3.9815)
+pt3dadd(424,171,77,2.1213)
+}
+
+create section_946
+section_946 {
+pt3dclear()
+pt3dadd(443.5,271.5,75,2.1213)
+pt3dadd(447,276,70,1.4142)
+}
+
+create section_947
+section_947 {
+pt3dclear()
+pt3dadd(154.338,103.6831,80,2.1213)
+}
+
+create section_948
+section_948 {
+pt3dclear()
+pt3dadd(177.0372,126.5743,80,2.1213)
+}
+
+create section_949
+section_949 {
+pt3dclear()
+pt3dadd(350.0714,1.2857,80,2.1213)
+}
+
+create section_950
+section_950 {
+pt3dclear()
+pt3dadd(408.6721,235.2951,80,2.1213)
+}
+
+create section_951
+section_951 {
+pt3dclear()
+pt3dadd(409,235,80,2)
+pt3dadd(411.4643,233.6071,80.5,2.601)
+pt3dadd(414,232.25,81.625,2.5125)
+pt3dadd(417,230.5,82.2083,3.0288)
+pt3dadd(419.9722,229.1111,82.2778,2.8137)
+pt3dadd(423,227.6522,82.587,2.9402)
+pt3dadd(425.9783,226.6087,83.0652,3.7214)
+pt3dadd(437,227,78,2.8284)
+pt3dadd(439.8333,226.8333,75.2083,1.75)
+pt3dadd(442.4286,226.5714,73.0714,1.4357)
+}
+
+create section_952
+section_952 {
+pt3dclear()
+pt3dadd(409,235,80,2)
+pt3dadd(406.5357,236.5714,79.6071,2.22)
+pt3dadd(404.5,237.9375,79.4375,1.4252)
+pt3dadd(394,242,76,1.5)
+pt3dadd(391.5,243.4583,74.9583,2.2016)
+pt3dadd(389.5,244.1429,74.0714,1.7202)
+pt3dadd(387.5,244.75,72.5,1.5)
+}
+
+create section_953
+section_953 {
+pt3dclear()
+pt3dadd(433.9655,226.3103,80,2.1213)
+pt3dadd(434,217,87,1.7321)
+pt3dadd(435.3889,214.5,87.7778,1.8626)
+pt3dadd(436.5714,212.5,88.3571,2.1618)
+pt3dadd(438,210.5,88.8125,2.0349)
+pt3dadd(438.9444,208.5,89.3889,2.8974)
+pt3dadd(440.3889,206,89.7778,1.8626)
+pt3dadd(441.7143,203.5714,90.3571,1.8127)
+pt3dadd(443.3,201.5,90.6,1.6125)
+pt3dadd(444.7,199.55,91.2,1.8788)
+pt3dadd(446.25,197.5,91.5,1.5)
+}
+
+create section_954
+section_954 {
+pt3dclear()
+pt3dadd(138.9565,233.087,85,2.1213)
+pt3dadd(140,238,91,1.7321)
+}
+
+create section_955
+section_955 {
+pt3dclear()
+pt3dadd(294.5192,441.2885,85,2.1213)
+}
+
+create section_956
+section_956 {
+pt3dclear()
+pt3dadd(365.3636,188.0909,85,2.1213)
+}
+
+create section_957
+section_957 {
+pt3dclear()
+pt3dadd(20.3023,347.7209,90,2.1213)
+}
+
+create section_958
+section_958 {
+pt3dclear()
+pt3dadd(153.4825,240.4056,90,2.1213)
+pt3dadd(155.5,240.9231,90.3462,2.2624)
+pt3dadd(158.5,241.5417,90.6667,2.4735)
+pt3dadd(161.5,242.75,91.2,2.5318)
+pt3dadd(165,243,91.1875,2.0349)
+pt3dadd(167.5,243.0714,91.1429,2.1618)
+pt3dadd(170.5,243.25,91.1667,1.5366)
+pt3dadd(173.5,243.5,91.1875,2.0349)
+pt3dadd(176.5,244.5,91.25,2.0616)
+pt3dadd(191,243,93,2.5982)
+}
+
+create section_959
+section_959 {
+pt3dclear()
+pt3dadd(191,243,93,3)
+pt3dadd(193,240,94,2)
+pt3dadd(195.5,242.25,94,1.118)
+pt3dadd(197,235,96,1)
+}
+
+create section_960
+section_960 {
+pt3dclear()
+pt3dadd(191,243,93,3)
+pt3dadd(194,244.0909,93.3182,1.9263)
+pt3dadd(196.5,244.2,93.4,1.2649)
+pt3dadd(198,237,96,3.5355)
+}
+
+create section_961
+section_961 {
+pt3dclear()
+pt3dadd(170.8868,435.8868,90,2.1213)
+}
+
+create section_962
+section_962 {
+pt3dclear()
+pt3dadd(171,436,90,2)
+pt3dadd(173.0952,434.0476,90.881,3.0248)
+pt3dadd(175.5,431.375,91.7813,2.5256)
+pt3dadd(178.3667,428.2333,92.6,2.7801)
+pt3dadd(180.75,425.4286,93.5357,2.0329)
+pt3dadd(183.4063,423.3438,94.4375,2.6265)
+pt3dadd(186,421.8636,94.7727,2.3373)
+pt3dadd(188.5,420.5,95.75,2.0616)
+pt3dadd(191.3438,419.0938,96.5313,2.0644)
+pt3dadd(193.3182,417.0909,97.6818,2.051)
+pt3dadd(195.45,415.5,98.3,2.0905)
+pt3dadd(197.3636,414.2273,98.6818,2.2872)
+pt3dadd(199.5,412.6667,99.5556,1.6025)
+pt3dadd(202.4091,411.2273,100.7273,1.7557)
+pt3dadd(204.4583,409.375,101.5417,1.9773)
+pt3dadd(206.5,407.8,102.4,1.6125)
+pt3dadd(209.4167,406,103.0833,2.0138)
+pt3dadd(211.375,403.875,103.75,1.3693)
+pt3dadd(218,398,105,2.1213)
+}
+
+create section_963
+section_963 {
+pt3dclear()
+pt3dadd(171,436,90,2)
+pt3dadd(169.55,438.45,89.35,2.3043)
+pt3dadd(168.5,440.5,88.75,2.0616)
+pt3dadd(166.8889,443.2778,88.3333,1.7708)
+pt3dadd(165.0909,445.3182,87.8182,2.051)
+pt3dadd(172,439,86,1)
+}
+
+create section_964
+section_964 {
+pt3dclear()
+pt3dadd(127.6429,239.8571,95,2.1213)
+}
+
+create section_965
+section_965 {
+pt3dclear()
+pt3dadd(239.5152,316.5758,95,2.1213)
+}
+
+create section_966
+section_966 {
+pt3dclear()
+pt3dadd(244.05,434.075,95,2.1213)
+}
+
+create section_967
+section_967 {
+pt3dclear()
+pt3dadd(244,434,95,2)
+pt3dadd(241.5,434.7273,94.6818,2.4813)
+pt3dadd(239.5,435.3462,94.5385,2.0059)
+pt3dadd(237.5,435.75,94.2,2.5318)
+pt3dadd(235,436.9286,93.0357,2.144)
+pt3dadd(232.5,437.7059,92.1471,2.6828)
+pt3dadd(230,438.4615,90.9615,2.2728)
+pt3dadd(227.5,439.1071,89.8571,1.9233)
+}
+
+create section_968
+section_968 {
+pt3dclear()
+pt3dadd(244,434,95,2)
+pt3dadd(246.5,433.1538,95.3846,2.4325)
+pt3dadd(249.5,432.2727,95.5,1.7651)
+pt3dadd(252.5,431.5,96.25,2.0616)
+pt3dadd(255.44,432.54,96.86,4.2165)
+pt3dadd(262,430,97,3.4642)
+pt3dadd(265,428.4375,97.2083,3.179)
+pt3dadd(267.8,426.1333,97.1167,3.7619)
+}
+
+create section_969
+section_969 {
+pt3dclear()
+pt3dadd(228,439,90,2)
+pt3dadd(225.7222,440.3889,87.5,1.8626)
+pt3dadd(233,430,83,1.4142)
+}
+
+create section_970
+section_970 {
+pt3dclear()
+pt3dadd(228,439,90,2)
+pt3dadd(225.5,439.95,88.85,2.0248)
+pt3dadd(223.5882,441.2647,87.5,2.7896)
+pt3dadd(221.1923,442.6538,85.0769,2.3933)
+pt3dadd(218.625,444.2083,83.5417,3.1214)
+pt3dadd(216,445.7273,82.1818,2.1894)
+pt3dadd(213.5,447.0625,80.5625,1.4252)
+pt3dadd(210,448,78,1.5)
+}
+
+create section_971
+section_971 {
+pt3dclear()
+pt3dadd(255.25,171.5313,95,2.1213)
+pt3dadd(253,178,96,2.5982)
+}
+
+create section_972
+section_972 {
+pt3dclear()
+pt3dadd(356.0896,61.4328,95,2.1213)
+pt3dadd(361,57,96,1.7321)
+}
+
+create section_973
+section_973 {
+pt3dclear()
+pt3dadd(436.2609,270.1304,95,2.1213)
+pt3dadd(433.5,270.9286,96.1429,2.1618)
+pt3dadd(431.5,271.9,97,1.562)
+pt3dadd(429.5,272.8571,98,1.2857)
+pt3dadd(421,275,102,1.7321)
+pt3dadd(418.5,277.1,102.7,1.2649)
+}
+
+create section_974
+section_974 {
+pt3dclear()
+pt3dadd(234.375,167.45,100,2.1213)
+}
+
+create section_975
+section_975 {
+pt3dclear()
+pt3dadd(234,167,100,2)
+pt3dadd(234.75,164.5,100,1.5)
+pt3dadd(239,160,101,2.1213)
+}
+
+create section_976
+section_976 {
+pt3dclear()
+pt3dadd(234,167,100,2)
+pt3dadd(233.25,169.5,100,1.5)
+pt3dadd(225,181,101,1.4142)
+}
+
+create section_977
+section_977 {
+pt3dclear()
+pt3dadd(367,40.7353,100,2.1213)
+}
+
+create section_978
+section_978 {
+pt3dclear()
+pt3dadd(23.3448,129.9828,105,2.1213)
+}
+
+create section_979
+section_979 {
+pt3dclear()
+pt3dadd(23,130,105,2)
+pt3dadd(25.0714,127.9286,103.5,2.3079)
+pt3dadd(25,121,104,1.7321)
+}
+
+create section_980
+section_980 {
+pt3dclear()
+pt3dadd(23,130,105,2)
+pt3dadd(24.6667,127.9444,104.6944,3.5508)
+pt3dadd(29,119,104,3)
+pt3dadd(30.9583,116,102.2083,2.5194)
+pt3dadd(33.4583,113.5625,100.7708,3.4495)
+}
+
+create section_981
+section_981 {
+pt3dclear()
+pt3dadd(23,130,105,2)
+pt3dadd(22.375,127.625,106,4.2573)
+pt3dadd(26,122,104,2.5982)
+}
+
+create section_982
+section_982 {
+pt3dclear()
+pt3dadd(23,130,105,2)
+pt3dadd(22.4375,132.4583,104.9375,4.1378)
+pt3dadd(18,144,104,1.4142)
+}
+
+create section_983
+section_983 {
+pt3dclear()
+pt3dadd(33,114,101,3)
+pt3dadd(35.75,111.5,99.5,2.0616)
+pt3dadd(48,104,98,2.5982)
+pt3dadd(50.3235,101.2059,97.0882,2.8026)
+pt3dadd(52.2857,98.25,96.2857,2.6812)
+pt3dadd(53.75,95,95.5,2.5)
+pt3dadd(55.25,92,95.5,2.5)
+pt3dadd(56,89,95.3125,2.0349)
+pt3dadd(56.75,86.5,94.75,2.5495)
+pt3dadd(56.8889,84,94.7222,1.8626)
+pt3dadd(56.5,81.5,94.75,2.0616)
+pt3dadd(56.1875,79.5,94.8125,1.741)
+pt3dadd(55.25,77.5,95,2.5)
+pt3dadd(54,75,95.0833,2.0069)
+pt3dadd(53.3889,72.5,95.2222,1.8626)
+pt3dadd(52.6111,70.5,95.2778,1.8626)
+pt3dadd(52.25,68.5,95.375,2.5125)
+pt3dadd(51.5,66,95.6875,2.0349)
+pt3dadd(51.1111,63.5,96.2778,1.8626)
+pt3dadd(50.5,61.5,96.3125,2.0349)
+pt3dadd(49.6429,59.5,96.7143,1.767)
+pt3dadd(48.75,57.5,97.5,1.5)
+pt3dadd(48.25,55.5,98,1.5)
+pt3dadd(47.875,53.5,98.375,1.2748)
+}
+
+create section_984
+section_984 {
+pt3dclear()
+pt3dadd(33,114,101,3)
+pt3dadd(35.5,111.75,100.5,3.3541)
+pt3dadd(39,110.5455,99.6364,3.1029)
+}
+
+create section_985
+section_985 {
+pt3dclear()
+pt3dadd(39,111,100,3)
+pt3dadd(41.6538,108.4615,99.2308,2.2545)
+pt3dadd(44.25,106.0417,98.2917,2.0242)
+pt3dadd(51,104,97,2.1213)
+}
+
+create section_986
+section_986 {
+pt3dclear()
+pt3dadd(39,111,100,3)
+pt3dadd(37.25,111.75,97,0.70711)
+}
+
+create section_987
+section_987 {
+pt3dclear()
+pt3dadd(83.2581,119.5806,105,2.1213)
+pt3dadd(82.3378,120.4054,107.4459,5.1587)
+pt3dadd(72,125,107,1.7321)
+pt3dadd(69.5,124.0455,107.1818,3.1557)
+pt3dadd(67.1875,122.7813,107.2813,4.4887)
+}
+
+create section_988
+section_988 {
+pt3dclear()
+pt3dadd(96.2174,270.0652,105,2.1213)
+}
+
+create section_989
+section_989 {
+pt3dclear()
+pt3dadd(96,270,105,2)
+pt3dadd(98.0938,268.1563,104.3125,3.4675)
+pt3dadd(100.381,265.4048,103.5714,2.8816)
+pt3dadd(102.3077,262.1538,102.7308,2.6879)
+pt3dadd(104.3235,259.1471,101.8235,2.9873)
+pt3dadd(107,256.8333,100.5833,1.3437)
+pt3dadd(101,259,102,1.4142)
+}
+
+create section_990
+section_990 {
+pt3dclear()
+pt3dadd(96,270,105,2)
+pt3dadd(94.4545,272.4545,105.6818,2.1455)
+pt3dadd(92.3929,274.3571,106.25,2.5254)
+pt3dadd(89.8846,276.9231,107.1154,2.2479)
+pt3dadd(87.7143,278.7857,108,2.6069)
+pt3dadd(94,277,106,1.5)
+}
+
+create section_991
+section_991 {
+pt3dclear()
+pt3dadd(217.9048,398.9762,105,2.1213)
+pt3dadd(224,394,106,1.7321)
+}
+
+create section_992
+section_992 {
+pt3dclear()
+pt3dadd(218.537,191.3704,105,2.1213)
+pt3dadd(221.0714,188.6429,104.3571,2.1806)
+pt3dadd(223.5,187.75,103.75,1.5811)
+pt3dadd(219,180,106,1.4142)
+}
+
+create section_993
+section_993 {
+pt3dclear()
+pt3dadd(287.5,196.5,105,2.1213)
+pt3dadd(288.6818,197.5455,102.5,1.7463)
+pt3dadd(299,199,102,1)
+}
+
+create section_994
+section_994 {
+pt3dclear()
+pt3dadd(375.2292,20.625,105,2.1213)
+pt3dadd(363,19,106,1.4142)
+}
+
+create section_995
+section_995 {
+pt3dclear()
+pt3dadd(385.6078,202.7949,105,2.1213)
+}
+
+create section_996
+section_996 {
+pt3dclear()
+pt3dadd(386,203,105,2)
+pt3dadd(386.1316,200.5,105,3.7368)
+pt3dadd(386,212,104,2.8284)
+}
+
+create section_997
+section_997 {
+pt3dclear()
+pt3dadd(386,203,105,2)
+pt3dadd(386.4333,205.5,104.9333,3.1362)
+pt3dadd(387,220,105,2.1213)
+pt3dadd(388.125,222.3194,104.7222,3.8516)
+pt3dadd(388.9444,225.2222,105,2.9418)
+}
+
+create section_998
+section_998 {
+pt3dclear()
+pt3dadd(389,225,105,3)
+pt3dadd(388.913,228,104.6739,3.8419)
+pt3dadd(388.6,231.4,104.8,3.3526)
+pt3dadd(387.7391,233.9565,104.3478,3.6628)
+pt3dadd(387.0714,237.2143,103.7857,3.4993)
+pt3dadd(392,230,105,2.1213)
+}
+
+create section_999
+section_999 {
+pt3dclear()
+pt3dadd(389,225,105,3)
+pt3dadd(392,225.1667,104.7778,2.3986)
+pt3dadd(394.5,224.125,104.625,1.2748)
+pt3dadd(405,222,105,1.4142)
+}
+
+create section_1000
+section_1000 {
+pt3dclear()
+pt3dadd(122.9844,85.2031,110,2.1213)
+pt3dadd(126,92,110,1.4142)
+}
+
+create section_1001
+section_1001 {
+pt3dclear()
+pt3dadd(243.2362,349.1206,110,2.1213)
+pt3dadd(245.1071,350.9286,110.3214,2.9847)
+pt3dadd(248,352,110.25,2.0616)
+pt3dadd(250.5,352.5385,110.0385,2.2728)
+}
+
+create section_1002
+section_1002 {
+pt3dclear()
+pt3dadd(251,353,110,2)
+pt3dadd(253.25,355.1875,107.625,1.4843)
+pt3dadd(249,365,104,2.1213)
+pt3dadd(247.1429,367.5,104.2857,1.767)
+pt3dadd(244.75,370.25,104.25,1.6583)
+pt3dadd(243,372.3333,104.2222,1.9938)
+pt3dadd(240.95,374.3,104.25,1.9026)
+pt3dadd(239.25,376.4375,104.1875,1.6298)
+pt3dadd(237.3889,378.4444,104.1667,2.0154)
+pt3dadd(235.5417,380.5,104.375,2.0983)
+pt3dadd(233.6429,383.2143,104.7143,1.5186)
+}
+
+create section_1003
+section_1003 {
+pt3dclear()
+pt3dadd(251,353,110,2)
+pt3dadd(253.5,353.1071,109.6071,2.3496)
+pt3dadd(256.3462,353.7596,108.4038,4.1576)
+pt3dadd(267,352,106,2.8284)
+pt3dadd(270,351,105.5294,3.0006)
+pt3dadd(273,350.2813,105.2813,2.5016)
+pt3dadd(276,349.6364,104.6364,1.8741)
+pt3dadd(278.5,349.5455,104.4545,2.1145)
+pt3dadd(281.5,349.1,103.5,1.562)
+}
+
+create section_1004
+section_1004 {
+pt3dclear()
+pt3dadd(300.0253,277.443,110,2.1213)
+pt3dadd(306,280,111,1.4142)
+}
+
+create section_1005
+section_1005 {
+pt3dclear()
+pt3dadd(301.7632,201.7368,110,2.1213)
+}
+
+create section_1006
+section_1006 {
+pt3dclear()
+pt3dadd(355.75,127.625,110,2.1213)
+pt3dadd(351,116,105,1.5)
+}
+
+create section_1007
+section_1007 {
+pt3dclear()
+pt3dadd(442.8333,210.8472,110,2.1213)
+}
+
+create section_1008
+section_1008 {
+pt3dclear()
+pt3dadd(443,211,110,2)
+pt3dadd(445.4667,209.6333,110.1,2.5785)
+pt3dadd(434,215,109,2.1213)
+pt3dadd(431.5,215.0455,108.3182,2.1223)
+pt3dadd(429.5,215.2,107.8,2.126)
+pt3dadd(427.5,215.7143,107.6786,2.4547)
+pt3dadd(425.5,216.5,107.6429,2.3776)
+pt3dadd(423.5,217.2333,107.7667,2.8698)
+pt3dadd(421,217.4091,107.2273,2.8705)
+pt3dadd(418,217.75,106.75,2.5495)
+pt3dadd(415,218.75,106.5,1.5)
+}
+
+create section_1009
+section_1009 {
+pt3dclear()
+pt3dadd(443,211,110,2)
+pt3dadd(440.5,212,109.6818,2.0988)
+pt3dadd(435,217,109,1.4142)
+}
+
+create section_1010
+section_1010 {
+pt3dclear()
+pt3dadd(445.1828,94.7527,110,2.1213)
+}
+
+create section_1011
+section_1011 {
+pt3dclear()
+pt3dadd(445,95,110,2)
+pt3dadd(444.25,92.5,109.7,2.5318)
+pt3dadd(443.0714,90,109.6429,2.1618)
+pt3dadd(442.5,87.5,109.5,2)
+pt3dadd(442.25,85.5,109.5,2.5)
+pt3dadd(441.75,83,109.5,2.5)
+pt3dadd(442,80,109.5,2)
+pt3dadd(442.0714,77.5,109.3571,2.1618)
+pt3dadd(442.0714,75.5,108.6429,2.1618)
+pt3dadd(442.25,73.5,108.5,2.5)
+pt3dadd(442.75,71,108.5,2.5)
+pt3dadd(444.25,68,108.5,3.5)
+pt3dadd(446,61,108,2.1213)
+}
+
+create section_1012
+section_1012 {
+pt3dclear()
+pt3dadd(445,95,110,2)
+pt3dadd(445.8636,97.5,110.2273,2.3373)
+pt3dadd(446.6111,100.5,110.7222,1.8626)
+pt3dadd(447.6,103.5,111.7,1.2649)
+pt3dadd(449,117,117,1.5)
+}
+
+create section_1013
+section_1013 {
+pt3dclear()
+pt3dadd(84.8941,352.1294,115,2.1213)
+pt3dadd(82.5,352.7,115.4,2.8636)
+pt3dadd(80,354.5,116.1071,2.3398)
+pt3dadd(77.5385,356.1154,116.8077,2.9443)
+pt3dadd(75.0278,357.3889,117.4167,3.3619)
+pt3dadd(72,357.8,117.45,1.7804)
+pt3dadd(69.5,358.5,117.4286,2.0051)
+pt3dadd(67.5,359.125,117.375,1.2748)
+pt3dadd(74,361,118,1.4142)
+}
+
+create section_1014
+section_1014 {
+pt3dclear()
+pt3dadd(71.6667,285.463,120,2.1213)
+pt3dadd(66,287,122,3.4642)
+}
+
+create section_1015
+section_1015 {
+pt3dclear()
+pt3dadd(144.963,279.0667,120,2.1213)
+pt3dadd(143.3929,276.7143,120.1786,3.151)
+pt3dadd(142.0556,274,120.5833,3.1156)
+pt3dadd(138,268,122,2.1213)
+}
+
+create section_1016
+section_1016 {
+pt3dclear()
+pt3dadd(173.9013,429.5336,120,2.1213)
+}
+
+create section_1017
+section_1017 {
+pt3dclear()
+pt3dadd(174,430,120,2)
+pt3dadd(171.875,428.9,120.025,4.3937)
+pt3dadd(176,435,119,3.4642)
+}
+
+create section_1018
+section_1018 {
+pt3dclear()
+pt3dadd(174,430,120,2)
+pt3dadd(175.1282,432.3333,119.4744,4.3736)
+pt3dadd(181,441,117,2.1213)
+pt3dadd(182.55,443.5,116.95,1.9026)
+pt3dadd(184.1111,446.5,116.7222,1.8626)
+}
+
+create section_1019
+section_1019 {
+pt3dclear()
+pt3dadd(113.8211,176.8421,125,2.1213)
+pt3dadd(111.5,177,125.75,2.0616)
+pt3dadd(118,177,123,1)
+}
+
+create section_1020
+section_1020 {
+pt3dclear()
+pt3dadd(274.0909,395.9924,125,2.1213)
+}
+
+create section_1021
+section_1021 {
+pt3dclear()
+pt3dadd(274,396,125,2)
+pt3dadd(276.125,393.875,125.25,2.4238)
+pt3dadd(278.1818,391.9091,125.2727,2.3373)
+pt3dadd(280.4375,390.25,125.3125,1.6298)
+pt3dadd(282.5,388.6875,125.3125,1.741)
+pt3dadd(285.25,387,125.5,2.0616)
+pt3dadd(287.4375,385.25,126.1875,1.6298)
+pt3dadd(289.5,383.6111,126.2222,1.8626)
+pt3dadd(292.3,381.95,126.25,1.9026)
+pt3dadd(294.3333,380.1667,126.25,2.1922)
+pt3dadd(296.3462,378.2692,126.2308,2.5233)
+pt3dadd(298.625,375.375,126.25,2.4238)
+pt3dadd(301.1111,372.7222,126.2222,1.8257)
+pt3dadd(302.85,370.6,126.2,1.7578)
+pt3dadd(304.5,368.5,126,2)
+pt3dadd(306.25,366.5,126,2.5)
+pt3dadd(306,366,135,1)
+}
+
+create section_1022
+section_1022 {
+pt3dclear()
+pt3dadd(274,396,125,2)
+pt3dadd(271.6,397.5,125,2.245)
+pt3dadd(269.6071,399.75,124.6786,2.5345)
+pt3dadd(267.0714,402.3571,124.5,1.9898)
+pt3dadd(264.8182,404.0909,124.1818,2.3016)
+pt3dadd(262.9286,406.0714,123.5,2.3079)
+pt3dadd(261,408.25,123.5,2.0616)
+pt3dadd(258.8889,410.2778,123.2778,1.8257)
+pt3dadd(256.8182,412.0909,122.7727,2.3373)
+pt3dadd(254.5625,413.9375,122.75,1.5104)
+pt3dadd(252.5,415.4167,122.6667,1.8634)
+pt3dadd(250.5,416.25,122.5,1.5)
+}
+
+create section_1023
+section_1023 {
+pt3dclear()
+pt3dadd(251,416,123,2)
+pt3dadd(248.5,417.75,122.5,1.5)
+pt3dadd(242,421,122,1.4142)
+}
+
+create section_1024
+section_1024 {
+pt3dclear()
+pt3dadd(251,416,123,2)
+pt3dadd(248.6,417.9,125,1.8111)
+pt3dadd(239,422,128,1.4142)
+}
+
+create section_1025
+section_1025 {
+pt3dclear()
+pt3dadd(309.9231,360.1154,125,2.1213)
+}
+
+create section_1026
+section_1026 {
+pt3dclear()
+pt3dadd(322.1031,150.9485,125,2.1213)
+pt3dadd(325,157,125,2.1213)
+}
+
+create section_1027
+section_1027 {
+pt3dclear()
+pt3dadd(3.6,157.6,130,2.1213)
+pt3dadd(13,148,128,1.4142)
+}
+
+create section_1028
+section_1028 {
+pt3dclear()
+pt3dadd(67.2222,80.0556,130,2.1213)
+pt3dadd(64.5,81.3636,130.7273,2.3373)
+pt3dadd(62.65,82.55,131.35,2.2338)
+pt3dadd(60.5385,84.1154,131.6923,2.9443)
+pt3dadd(67,90,135,1)
+}
+
+create section_1029
+section_1029 {
+pt3dclear()
+pt3dadd(96.1786,269.5,130,2.1213)
+}
+
+create section_1030
+section_1030 {
+pt3dclear()
+pt3dadd(194.1059,28.8353,130,2.1213)
+pt3dadd(198,24,131,1.7321)
+}
+
+create section_1031
+section_1031 {
+pt3dclear()
+pt3dadd(202.4226,111.0476,130,2.1213)
+}
+
+create section_1032
+section_1032 {
+pt3dclear()
+pt3dadd(202,111,130,2)
+pt3dadd(201.0909,108.5682,129.9773,3.2973)
+pt3dadd(198,107.1923,130.4615,2.3859)
+pt3dadd(195.5,105.75,130.4643,2.501)
+pt3dadd(193,105,130.5385,2.2027)
+pt3dadd(190.5,104.35,131.35,2.7166)
+pt3dadd(188,103.6667,131.5556,2.336)
+pt3dadd(185.5,103.6667,132.1667,2.357)
+pt3dadd(183.5,103.45,132.2,2.184)
+pt3dadd(181.5,102.8636,132.2727,2.3373)
+pt3dadd(179.5,103.1471,132.5,2.8848)
+pt3dadd(177,103.4643,133.0714,2.9321)
+pt3dadd(173,99,129,1.4142)
+}
+
+create section_1033
+section_1033 {
+pt3dclear()
+pt3dadd(202,111,130,2)
+pt3dadd(204.5,110.3571,129.7143,1.767)
+pt3dadd(200,104,129,1.4142)
+}
+
+create section_1034
+section_1034 {
+pt3dclear()
+pt3dadd(46.0777,93.0194,135,2.1213)
+pt3dadd(39,94,135,2.1213)
+}
+
+create section_1035
+section_1035 {
+pt3dclear()
+pt3dadd(209.2264,3.3208,135,2.1213)
+pt3dadd(208.2727,7.5,134.3182,2.4813)
+pt3dadd(207,10.5,133.25,3.0414)
+pt3dadd(210,10,135,2.1213)
+}
+
+create section_1036
+section_1036 {
+pt3dclear()
+pt3dadd(228.3393,310.9286,135,2.1213)
+pt3dadd(233,320,143,1.4142)
+}
+
+create section_1037
+section_1037 {
+pt3dclear()
+pt3dadd(272.2857,335.2857,135,2.1213)
+pt3dadd(272,342,132,1)
+}
+
+create section_1038
+section_1038 {
+pt3dclear()
+pt3dadd(304.5,219.5,135,2.1213)
+}
+
+create section_1039
+section_1039 {
+pt3dclear()
+pt3dadd(305,220,135,2)
+pt3dadd(305.6,217.525,135.875,3.9249)
+pt3dadd(309,210,138,2.8284)
+pt3dadd(310.7941,207,138.0588,2.7345)
+pt3dadd(313.2647,204.1765,138.2059,2.5869)
+pt3dadd(315,201.1111,138.5,3.0082)
+pt3dadd(316.75,198,139.2,2.5318)
+}
+
+create section_1040
+section_1040 {
+pt3dclear()
+pt3dadd(305,220,135,2)
+pt3dadd(302.5385,221.1154,134.3077,2.9443)
+pt3dadd(297,227,133,1.4142)
+}
+
+create section_1041
+section_1041 {
+pt3dclear()
+pt3dadd(325.9355,302.6935,135,2.1213)
+pt3dadd(318,302,134,1.5)
+}
+
+create section_1042
+section_1042 {
+pt3dclear()
+pt3dadd(409.7019,170.9231,135,2.1213)
+pt3dadd(414,165,134,2.1213)
+}
+
+create section_1043
+section_1043 {
+pt3dclear()
+pt3dadd(80.7826,404.913,140,2.1213)
+pt3dadd(77,400,143,1.5)
+}
+
+create section_1044
+section_1044 {
+pt3dclear()
+pt3dadd(81.6667,208,140,2.1213)
+pt3dadd(80.3333,205.5833,138.5,2.3393)
+pt3dadd(77.6875,204.1875,138.0625,2.1323)
+pt3dadd(75.5,203.0833,137.6667,1.8634)
+pt3dadd(73.5,202.1,137.6,1.8111)
+pt3dadd(71.5,201.5,137.5,2)
+pt3dadd(69.5,201.25,137.5,1.5)
+pt3dadd(67.5,200.25,137.5,1.5)
+pt3dadd(65.5,199.25,137.5,1.5)
+pt3dadd(63.5,198.5,137,2)
+pt3dadd(61.5,198,136.5,2)
+pt3dadd(59.5,197.25,136.5,2.5)
+pt3dadd(47,191,136,1.7321)
+pt3dadd(44.8,188.8,136,1.5232)
+pt3dadd(42.9286,186.9286,136,2.3079)
+pt3dadd(41.3,184.65,135.85,2.3537)
+pt3dadd(39.8571,182.5,135.7143,1.767)
+pt3dadd(38.5,180.5,135.5,2)
+pt3dadd(36.7,179.1333,135.0333,2.244)
+pt3dadd(34.725,177.425,134.45,3.3369)
+pt3dadd(32.0556,175.2222,133.6389,3.5681)
+}
+
+create section_1045
+section_1045 {
+pt3dclear()
+pt3dadd(127.8235,21.9412,140,2.1213)
+pt3dadd(121,16,139,2.1213)
+}
+
+create section_1046
+section_1046 {
+pt3dclear()
+pt3dadd(155.7647,297.5556,140,2.1213)
+pt3dadd(152,288,141,2.1213)
+pt3dadd(152.18,285.5,141.28,4.3958)
+pt3dadd(152.5,282.9,141.2,5.02)
+}
+
+create section_1047
+section_1047 {
+pt3dclear()
+pt3dadd(179.4608,437.8725,140,2.1213)
+}
+
+create section_1048
+section_1048 {
+pt3dclear()
+pt3dadd(206.2778,57.3889,140,2.1213)
+pt3dadd(203.5,57.25,139.25,1.5811)
+pt3dadd(201.5,57.25,138.5,1.5)
+pt3dadd(199.5,57.25,138.5,1.5)
+pt3dadd(207,58,139,2.5982)
+}
+
+create section_1049
+section_1049 {
+pt3dclear()
+pt3dadd(221.2133,430.16,140,2.1213)
+}
+
+create section_1050
+section_1050 {
+pt3dclear()
+pt3dadd(221,430,140,2)
+pt3dadd(218.5455,431.3182,140.0455,2.3671)
+pt3dadd(216.5,432,140,2)
+pt3dadd(214.5,432.5833,139.8333,1.8634)
+pt3dadd(212.5,433.5,139.75,1.118)
+pt3dadd(219,440,134,1)
+}
+
+create section_1051
+section_1051 {
+pt3dclear()
+pt3dadd(221,430,140,2)
+pt3dadd(223.5,429.1111,139.7222,1.8626)
+pt3dadd(226.5,427.8636,139.9091,1.9113)
+pt3dadd(229.5,426.6111,140.2778,1.8626)
+pt3dadd(232.35,425.3,140.35,2.3537)
+pt3dadd(227,430,140,1.4142)
+}
+
+create section_1052
+section_1052 {
+pt3dclear()
+pt3dadd(318.037,197.1481,140,2.1213)
+pt3dadd(320,188,142,1.4142)
+}
+
+create section_1053
+section_1053 {
+pt3dclear()
+pt3dadd(337.1158,175.8105,140,2.1213)
+}
+
+create section_1054
+section_1054 {
+pt3dclear()
+pt3dadd(337,176,140,2)
+pt3dadd(339.1667,173.8889,140.1111,2.3307)
+pt3dadd(341.0909,171.7727,140.2273,1.7557)
+pt3dadd(343.3333,170.1667,140.3333,1.8257)
+pt3dadd(345.5,168.25,140.5,1.5)
+pt3dadd(348.5,166.3125,141.1875,1.741)
+pt3dadd(351.5,164.3125,141.3125,1.741)
+pt3dadd(354.3333,162.1667,141.25,2.1922)
+pt3dadd(356.4545,160.4545,141.2727,2.1837)
+pt3dadd(358.5,158.8889,141.2778,1.8626)
+pt3dadd(361.45,157.3,141.7,1.8788)
+pt3dadd(363.4583,155.5417,142.25,2.3304)
+pt3dadd(365.4375,154.1875,142.625,1.6489)
+pt3dadd(367.4545,152.4545,143.2273,2.1837)
+pt3dadd(369.4583,150.4167,143.5,2.1683)
+pt3dadd(371.5,148.6364,144.2273,2.3373)
+pt3dadd(374.2857,147.1429,144.6071,2.1771)
+pt3dadd(376.4375,145.25,145.3125,1.6298)
+pt3dadd(378.3125,142.9375,145.625,1.8625)
+pt3dadd(380.4444,141.1667,146.2222,1.7285)
+pt3dadd(382.5,139.75,146.3333,1.5366)
+pt3dadd(394,133,148,1.5)
+pt3dadd(396.5,131.5,148.5,2)
+}
+
+create section_1055
+section_1055 {
+pt3dclear()
+pt3dadd(337,176,140,2)
+pt3dadd(334.8333,178.1667,140.1667,1.633)
+pt3dadd(332.9286,180.2857,140.1429,1.8127)
+pt3dadd(340,192,137,1.4142)
+}
+
+create section_1056
+section_1056 {
+pt3dclear()
+pt3dadd(3.3462,379.1154,145,2.1213)
+}
+
+create section_1057
+section_1057 {
+pt3dclear()
+pt3dadd(136.75,146.1,145,2.1213)
+pt3dadd(135,137,143,1.4142)
+}
+
+create section_1058
+section_1058 {
+pt3dclear()
+pt3dadd(375.6389,145.9722,145,2.1213)
+pt3dadd(373,151,143,1.5)
+}
+
+create section_1059
+section_1059 {
+pt3dclear()
+pt3dadd(174,118,5,2)
+pt3dadd(183,120,20,1.4142)
+}
+
+create section_1060
+section_1060 {
+pt3dclear()
+pt3dadd(20,0.55556,10,2)
+}
+
+create section_1061
+section_1061 {
+pt3dclear()
+pt3dadd(123.6,214.2,20,2)
+pt3dadd(128,216,16,1.4142)
+}
+
+create section_1062
+section_1062 {
+pt3dclear()
+pt3dadd(396.3333,243.1111,20,2)
+pt3dadd(390,242,28,1.5)
+}
+
+create section_1063
+section_1063 {
+pt3dclear()
+pt3dadd(417.125,343.75,20,2)
+pt3dadd(409,346,16,3.4642)
+pt3dadd(406,346.7273,15.8409,2.7861)
+pt3dadd(403,347.0909,15.9773,3.3219)
+pt3dadd(400,346.75,16,3.5)
+}
+
+create section_1064
+section_1064 {
+pt3dclear()
+pt3dadd(166.1429,241.2857,25,2)
+}
+
+create section_1065
+section_1065 {
+pt3dclear()
+pt3dadd(258.75,228.125,25,2)
+}
+
+create section_1066
+section_1066 {
+pt3dclear()
+pt3dadd(6.1667,355.8333,30,2)
+pt3dadd(4.9375,358.1563,30.9531,4.4788)
+pt3dadd(12,365,31,1.5)
+}
+
+create section_1067
+section_1067 {
+pt3dclear()
+pt3dadd(140.4815,421.2963,30,2)
+}
+
+create section_1068
+section_1068 {
+pt3dclear()
+pt3dadd(204.7188,73.375,35,2)
+}
+
+create section_1069
+section_1069 {
+pt3dclear()
+pt3dadd(252.125,329.125,40,2)
+}
+
+create section_1070
+section_1070 {
+pt3dclear()
+pt3dadd(252,329,40,2)
+pt3dadd(250.3333,331.4167,38.5,2.3393)
+}
+
+create section_1071
+section_1071 {
+pt3dclear()
+pt3dadd(252,329,40,2)
+pt3dadd(249.5,329.3571,41.7143,1.767)
+pt3dadd(252,321,39,1.4142)
+}
+
+create section_1072
+section_1072 {
+pt3dclear()
+pt3dadd(250,331,39,2)
+pt3dadd(248.3077,333.3462,38.1923,2.435)
+pt3dadd(252,321,39,1.4142)
+}
+
+create section_1073
+section_1073 {
+pt3dclear()
+pt3dadd(250,331,39,2)
+pt3dadd(247.7,330.6,41.35,1.9209)
+pt3dadd(252,324,50,1.4142)
+}
+
+create section_1074
+section_1074 {
+pt3dclear()
+pt3dadd(391.4167,243.5833,75,2)
+pt3dadd(383,245,71,1.4142)
+}
+
+create section_1075
+section_1075 {
+pt3dclear()
+pt3dadd(240.45,88.15,80,2)
+pt3dadd(245,91,79,1.5)
+}
+
+create section_1076
+section_1076 {
+pt3dclear()
+pt3dadd(251.7778,298.1111,85,2)
+pt3dadd(251,284,85,1.4142)
+}
+
+create section_1077
+section_1077 {
+pt3dclear()
+pt3dadd(113,425.2,90,2)
+pt3dadd(113,416,82,1.4142)
+}
+
+create section_1078
+section_1078 {
+pt3dclear()
+pt3dadd(227.4074,438.1852,90,2)
+pt3dadd(233,440,92,2.1213)
+}
+
+create section_1079
+section_1079 {
+pt3dclear()
+pt3dadd(329.9375,233.5625,105,2)
+pt3dadd(331,244,97,1)
+}
+
+create section_1080
+section_1080 {
+pt3dclear()
+pt3dadd(82.5,8.5,110,2)
+}
+
+create section_1081
+section_1081 {
+pt3dclear()
+pt3dadd(83,9,110,2)
+pt3dadd(83.5,6.5,111.5,2)
+pt3dadd(84.6596,5.5957,114.4468,3.9788)
+pt3dadd(78,19,115,1.4142)
+}
+
+create section_1082
+section_1082 {
+pt3dclear()
+pt3dadd(83,9,110,2)
+pt3dadd(81,11.05,110.6,2.3345)
+pt3dadd(79.125,13.125,111,2.5739)
+pt3dadd(76.4375,15.875,110.8125,1.311)
+pt3dadd(71,20,110,1.4142)
+}
+
+create section_1083
+section_1083 {
+pt3dclear()
+pt3dadd(438.7476,378.4806,125,2)
+}
+
+create section_1084
+section_1084 {
+pt3dclear()
+pt3dadd(195.6667,237.4444,130,2)
+pt3dadd(194.5,239.5,131,2)
+pt3dadd(193.5,242.5,131.75,1.118)
+pt3dadd(188,254,136,1.4142)
+}
+
+create section_1085
+section_1085 {
+pt3dclear()
+pt3dadd(447.7059,293.2941,140,2)
+pt3dadd(446.1429,295.5,138.7143,1.767)
+pt3dadd(443.875,298.375,137.75,1.3693)
+pt3dadd(440,304,136,2.1213)
+}
+
+create section_1086
+section_1086 {
+pt3dclear()
+pt3dadd(360.7347,320.9592,145,2)
+pt3dadd(367,322,146,2.1213)
+}
+
+create section_1087
+section_1087 {
+pt3dclear()
+pt3dadd(378.2353,71.0588,145,2)
+pt3dadd(372,60,146,1.4142)
+}
+

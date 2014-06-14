@@ -1,0 +1,171 @@
+%% build a vascular density map
+% by jpwu, 2013/04/02
+% 
+% dm_ld = nio_density_map_net( network, rcs, voxel_size )
+% -----------------------------------------------------------------------
+% 
+% Get the fractional vascular volume(fvv) and normalized length density(nld)
+% in a cuboid. 
+% 
+% Input
+% -----
+% - network:: the vectorized network
+% - rcs:: the radius of the cubic, 25 means the cubic is 50X50X50
+% - voxel_size:: voxel size of the density map
+% 
+% Output
+% ------
+% - dm_ld:: the normalized length density map, unit: m/mm^3
+% 
+% Attention
+% ---------
+% 1. the voxel size of cuboid must be 1X1X1 micron for correct density
+% 2. the coordinate system: Y--N, X--M, Z--K
+% 
+% Example
+% -------
+% dm_ld = nio_density_map_net( network, 25, 1 )
+% 
+% See also nio_intersection_stk nio_density_map
+% Uses idpar_tree
+function dm_ld = nio_density_map_net( network, rcs, voxel_size )
+% clc
+% clear
+% close all
+% 
+% %% parameters
+% % directory
+% SrcNet = '../Data/network.mat';
+% SrcHoc = '../Data/tracing_result_section.hoc';
+% DstMap = '../Data/section_map.mat';
+% 
+% % roi cubic size, micron
+% rcs = 50/2;
+% voxel_size = 1;
+% 
+% %% load data and initialization
+% % load( SrcNet );
+% disp('------reading hoc file ...')
+% % network = nio_read_hoc( SrcHoc );
+% load( SrcNet )
+
+sn = length(network.sections);
+
+%% find the boundingbox of each section
+disp('------building the bounding box...')
+bb = zeros(sn, 6);
+for si = 1 : sn
+    sec = network.sections{si};
+    bb( si, 1:3 ) = min( sec( :, 1:3 ),[],1 );
+    bb( si, 4:6 ) = max( sec( :, 1:3 ),[],1 );
+end
+
+bbc = ( bb(:,1:3) + bb(:,4:6) ) ./2;
+bbw = bb(4:6);
+%% get the total range
+tbb = zeros( 1, 6 );
+tbb(1:3) = min( bb( :, 1:3 ),[],1 );
+tbb(4:6) = max( bb( :, 4:6 ),[],1 );
+
+%% compute the density map
+dm_ld = zeros( uint16( (tbb(4)+rcs)/voxel_size), uint16((tbb(5)+rcs)/voxel_size), 'double' );
+
+for m = tbb(1)+rcs*2 : voxel_size : tbb(4)-rcs*2 %rcs*2+1 :rcs*2: M-rcs*2
+    m
+    for n = tbb(2)+rcs*2 :voxel_size: tbb(5)-rcs*2
+        % initialize 
+        len = 0;
+        
+        % find the inner and crossing sections     
+        overlap = abs(m-bbc(:,1))<bb(:,4)-bb(:,1)+rcs*2+1 & abs(n-bbc(:,2))<bb(:,5)-bb(:,2)+rcs*2+1;
+        % the inner section index
+        in_sec_idx = find( overlap );
+        
+        % compute the density
+        for sk = 1 : length( in_sec_idx )
+            idx = in_sec_idx(sk);
+            sec = network.sections{idx};
+            
+            % find the inner nodes
+            in_node = sec(:,1)>m-rcs & sec(:,1)<m+rcs & sec(:,2)>n-rcs & sec(:,2)<n+rcs;
+            in_node_idx = find( in_node );
+            
+            % compute the distance
+            di = diff( sec(:,1:3),1,1 );
+            d2 = sum( di .* di, 2 );
+            
+            % add the distance of boundary crossing node pairs
+            bc = diff( in_node,1,1 );
+            
+            % condition1: post point is in the cube
+            bc1_idx = find( bc>0 );
+            for idx = bc1_idx'
+                if isempty( idx )
+                    break;
+                end
+                % get the coordinate of the start and end points
+                m1 = sec( idx, 1 ); m2 = sec( idx+1, 1);
+                n1 = sec( idx, 2 ); n2 = sec( idx+1, 2);
+                k1 = sec( idx, 3 ); k2 = sec( idx+1, 3);
+                
+                % get the total length
+                tl = sqrt( d2( idx ) );
+                % get the step size
+                dm = (m2-m1)/tl; dn = (n2-n1)/tl;   dk = (k2-k1)/tl;
+                
+                % find the starting point
+                for step = 1 : tl
+                    ms = m1 + step * dm;
+                    ns = n1 + step * dn;
+                    ks = k1 + step * dk;
+                    if ms>m-rcs && ms<m+rcs && ns>n-rcs && ns<n+rcs
+                        break;
+                    end
+                end
+                len = len + sqrt( (ms-m2)*(ms-m2) + (ns-n2)*(ns-n2) + (ks-k2)*(ks-k2) );
+            end
+            
+            % condition2: post point is outside the cube
+            bc2_idx = find( bc<0 );
+            for idx = bc2_idx'
+                if isempty( idx )
+                    break;
+                end
+                % get the coordinate of the start and end points
+                m1 = sec( idx, 1 ); m2 = sec( idx+1, 1);
+                n1 = sec( idx, 2 ); n2 = sec( idx+1, 2);
+                k1 = sec( idx, 3 ); k2 = sec( idx+1, 3);
+                
+                % get the total length
+                tl = sqrt( d2( idx ) );
+                % get the step size
+                dm = (m2-m1)/tl; dn = (n2-n1)/tl;   dk = (k2-k1)/tl;
+                
+                % find the starting point
+                for step = 1 : tl
+                    ms = m2 - step * dm;
+                    ns = n2 - step * dn;
+                    ks = k2 - step * dk;
+                    if ms>m-rcs && ms<m+rcs && ns>n-rcs && ns<n+rcs
+                        break;
+                    end
+                end
+                len = len + sqrt( (ms-m1)*(ms-m1) + (ns-n1)*(ns-n1) + (ks-k1)*(ks-k1) );
+            end
+            
+            % add the distance of all the inner nodes
+            in_node(end) = [];
+            if isempty( in_node )
+                continue;
+            else
+                all_inner = in_node & ~( bc~=0 );
+                ad_in = d2( find( all_inner ) );
+                len = len + sum( sqrt( ad_in ) );
+            end
+        end
+        dm_ld( floor(m/voxel_size), floor(n/voxel_size) ) = len/(2*rcs*2*rcs);
+    end
+end
+
+%% render the density map
+% imagesc( dm_ld );
